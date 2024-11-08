@@ -1,0 +1,39 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: yellowgreen;
+}
+dt{
+    font-size: 20px;
+    text-align: center;
+}
+dd{
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    font-size: 20px;
+    text-align: center;
+    text-decoration:none 
+}
+footer{
+    font-size: 25px;
+    text-align: center;
+    color: tomato;
+}
+.text{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
