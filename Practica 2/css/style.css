@@ -21,6 +21,7 @@ dt{
 dd{
     font-size: 20px;
     text-align: center;
+    list-style-position: inside;
 }
 a{
     font-size: 20px;
@@ -33,7 +34,7 @@ footer{
     color: tomato;
 }
 .text{
-    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
+    margin: 0 auto;
+    width: max-content;
 }
