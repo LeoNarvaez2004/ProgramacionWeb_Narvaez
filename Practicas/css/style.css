@@ -1,69 +1,80 @@
 body {
-    background-color:  gray;
+    background-color:grey;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
 }
 
 p {
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size:25px;
-    text-align: 30;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Grande', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: justify;
 }
 
 strong {
     color: brown;
-    font-family:Arial, Helvetica, sans-serif;
-    font size:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
 }
 
-ol{
-    color:red;
+ol {
+    color: red;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
 
-dt{
-    color:blueviolet;
+dt {
+    color: blueviolet;
 }
 
-dd{
+dd {
     color: aliceblue;
 }
 
-footer{
+footer {
     text-align: center;
+    margin-top: 20px;
 }
 
-.estilop{
-    color:brown;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.estilop {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Grande', Geneva, Verdana, sans-serif;
 }
 
-#caracteristicas{
-    font-family:Georgia, 'Times New Roman', Times, serif;
-
+#caracteristicas {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.con{
+.con {
     text-align: center;
     max-width: 6000px;
 }
 
-.subrayar{
-    color:yellow;
+.subrayar {
+    color: yellow;
     font-size: 30px;
     font-weight: bold;
     text-align: center;
     margin-top: 11px;
     margin-bottom: 10px;
 }
-.boton{
-    color:cyan;
+
+.boton {
+    color: cyan;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: bold;
     border-radius: 3px;
-    cursor:pointer;
+    cursor: pointer;
     background-color: black;
+}
+
+.flexstyle{
+    border-color: blue;
+    border-width: 6px;
+    border-style: double;
+    display: flex;
+    justify-content: space-around;    
 }
