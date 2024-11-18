@@ -1,0 +1,74 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(92,9,121,1) 17%, rgba(0,212,255,1) 100%);
+}   
+
+caption{
+    background-color: gray;
+    color: white;
+}
+
+td{
+    text-align: center;
+}
+input[type="text"]{
+    width: 20%;
+    background-color:gainsboro;
+    border-bottom: 5px;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-top:20px ;
+}
+input{
+    border-radius:20px;
+    border: 0px;
+    outline: none;
+    margin-bottom: 20px;
+}
+input[type="text"]::placeholder  {
+    color:blue; 
+    font-style:oblique; 
+}
+select::placeholder {
+    color: gray;
+}
+input[type="password"]::placeholder{
+    width: 80%;
+    background-color:gainsboro;
+    border-bottom: 5px;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-top:20px ;
+}
+button {
+    background-color: #4CAF50; /* Verde */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #45a049; /* Verde más oscuro */
+    transform: scale(1.05);
+}
+
+#nombre::placeholder{
+    color: gray;
+}
+#apellido::placeholder{
+    color: gray;
+}
