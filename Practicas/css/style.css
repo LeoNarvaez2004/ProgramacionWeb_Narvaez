@@ -1,17 +1,17 @@
-body {
+body{
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-}
 
-header {
+}
+p{
+    justify-content: center;
+}
+header{
     background: #f4f4f4;
-    padding: 10px 0;
+    padding: 10px;
     text-align: center;
 }
 
-nav {
+nav{
     text-align: center;
     margin: 10px 0;
 }
@@ -22,68 +22,59 @@ nav a {
     margin: 0 10px;
 }
 
-form {
-    margin: 20px;
-}
+
 
 form label {
     display: inline-block;
     width: 100px;
 }
 
-.container {
-    display: flex;
-    align-items:flex-start;
-    margin: 20px;
-    gap: 20px; 
+.flex-box{
+    margin-right:auto;
+    display:flex;
+    border:1px solid whitesmoke;
+    background:whitesmoke;
+    padding: 50px;
+    align-items: flex-end;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 70%;
+}
+
+.flex-box2{
+    margin-left:auto;
+    display:flex;
+    border:1px solid whitesmoke;
+    background:whitesmoke;
+    padding: 50px;
+    align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 30%;
 }
 
 .extra {
-    flex: 1; 
-    background-color: #f0f0f0;
-    padding: 20px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-    position: sticky;
-    top: 20px; 
-    height: fit-content;
-    order:1;
+   border: 3px solid gainsboro;
+   padding: 10px;
+   width: 60%;
+   height: 500px;
+   margin:2px;
 }
 
 .main-content {
-    flex: 3;
-    background-color: #f9f9f9;
-    padding: 20px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-    order: 1;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .contenido-avion {
-    text-align: center;
+    justify-content: center;
     margin-bottom: 20px;
 }
 
-.contenido-avion img {
-    margin: 0 auto;
-}
 
 footer {
     text-align: center;
     background: #f4f4f4;
     padding: 10px;
     margin-top: 20px;
-}
-
-.left-aside {
-    width: 20%;
-    padding: 10px;
-    background-color: #f0f0f0;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-    order: 1;
-}
-.parrafo-principal {
-    margin-top: 20px;
-    margin-left: 20px; 
-    font-size: 1.1em;
-    line-height: 1.6;
-    color: #333; 
 }
