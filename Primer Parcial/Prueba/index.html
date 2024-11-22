@@ -7,6 +7,7 @@
     <title>Tienda</title>
 </head>
 <body>
+    
     <header>
         <h1>Tienda Virtual</h1>
         <div class="moviendo">
@@ -21,20 +22,20 @@
     </header>
     
     <div class="containerprincipal">
-        <div class="container">
-            <nav>
-                <center><h4>Categorias<h4></center>
-                    <div class="caja">
-                        <a  href="#ropa">Ropa</a> 
-                    </div>
-                    <div class="caja">             
-                        <a href="#tecnologia">Tecnologia</a> 
-                    </div>
-                    <div class="caja">                
-                        <a href="#zapatos">Zapatos</a> 
-                    </div>
-            </nav>
-        </div>
+            <div class="container">
+                <nav>
+                    <center><h4>Categorias<h4></center>
+                        <div class="caja">
+                            <a  href="#ropa">Ropa</a> 
+                        </div>
+                        <div class="caja">             
+                            <a href="#tecnologia">Tecnologia</a> 
+                        </div>
+                        <div class="caja">                
+                            <a href="#zapatos">Zapatos</a> 
+                        </div>
+                </nav>
+            </div>
         <div>
             <div class="caja-producto">
                 <section id="ropa">
@@ -79,8 +80,26 @@
                     </div>
                 </section>
             </div>
+            <div class="elemento">
+                <div id="chatbot-container">
+                            <div id="chatbot-header">
+                                Asistente Virtual
+                                <div class="chatbot-controls">
+                                    <button id="chatbot-minimize">—</button>
+                                    <button id="chatbot-close">×</button>
+                                </div>
+                            </div>
+                            <div id="chatbot-messages">
+                            </div>
+                            <div id="chatbot-input-area">
+                                <input type="text" id="chatbot-input" placeholder="Escribe un mensaje...">
+                                <button id="chatbot-send">Enviar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
     <div class="info-empresa">
         <section>
             <h3>Sobre Nosotros</h3>
@@ -100,23 +119,8 @@
     </div>
     <div class="autor">
         <footer>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio rerum dolore molestiae animi.</p>
+            <p>Autor: Leonardo Narvaez. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio rerum dolore molestiae animi.</p>
         </footer>
-        <div id="chatbot-container">
-            <div id="chatbot-header">
-                Asistente Virtual
-                <div class="chatbot-controls">
-                    <button id="chatbot-minimize">—</button>
-                    <button id="chatbot-close">×</button>
-                </div>
-            </div>
-            <div id="chatbot-messages">
-            </div>
-            <div id="chatbot-input-area">
-                <input type="text" id="chatbot-input" placeholder="Escribe un mensaje...">
-                <button id="chatbot-send">Enviar</button>
-            </div>
-        </div>
     </div>    
 </body>
 </html>

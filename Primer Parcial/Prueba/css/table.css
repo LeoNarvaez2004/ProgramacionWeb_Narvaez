@@ -1,7 +1,24 @@
-header{
-    background-color: aqua;
+body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background: linear-gradient(135deg, #4a90e2 0%, #6f41b8 100%);
     padding: 20px;
     text-align: center;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.moviendo {
+    text-align: center;
+    gap: 20px;
+    font-size: 30px;
+    position: sticky;
+    color: #333;
 }
 
 table {
@@ -9,8 +26,10 @@ table {
     width: 80%;
     margin: 20px auto;
     text-align: center;
-    font-family: Arial, sans-serif;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
 }
 
 caption {
@@ -21,37 +40,40 @@ caption {
 }
 
 thead {
-    background-color: #4CAF50;
+    background: linear-gradient(135deg, #4a90e2 0%, #6f41b8 100%);
     color: white;
 }
 
 thead th {
-    padding: 10px;
+    padding: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 tbody tr {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #e0e0e0;
+    transition: background-color 0.3s ease;
 }
 
 tbody tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #f8f9fa;
 }
 
 tbody tr:hover {
-    background-color: #d1ecf1;
+    background-color: #e9ecef;
 }
 
 tbody td {
-    padding: 10px;
+    padding: 12px;
     font-size: 1em;
 }
 
 tfoot {
-    background-color: #4CAF50;
+    background: linear-gradient(135deg, #4a90e2 0%, #6f41b8 100%);
     color: white;
     font-weight: bold;
 }
 
 tfoot td {
-    padding: 10px;
+    padding: 15px;
 }

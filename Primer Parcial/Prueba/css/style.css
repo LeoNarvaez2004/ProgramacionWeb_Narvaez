@@ -2,12 +2,12 @@
     position: sticky;
     top: 400px; 
     z-index: 900; 
+        
 }
 html{
     background-color: grey;
 }
 header {
-    position: sticky;
     top: 0; 
     z-index: 1000; 
     background-color: aqua;
@@ -39,16 +39,15 @@ header {
     background-color:grey;
     margin: auto;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
     gap: 20px;
 }
-
+.elemento {
+    align-self:flex-start;  
+}
 .moviendo {
     text-align: center;
     gap: 20px;
     font-size: 30px;
-    position:sticky;
 }
 
 .caja {
@@ -88,19 +87,17 @@ header {
     border-style:groove;
 
     padding: 20px;
-    margin-right: 23%;
     background-color: greenyellow;
 }
 #chatbot-container {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
     width: 300px;
     background-color: white;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
+
 }
+
 
 #chatbot-header {
     background-color: #4CAF50;
@@ -163,10 +160,9 @@ header {
 
 .minimized {
     height: auto !important;
-    #chatbot-messages {
-        display: none;
-    }
-    #chatbot-input-area {
-        display: none;
-    }
+}
+
+.minimized #chatbot-messages,
+.minimized #chatbot-input-area {
+    display: none;
 }
