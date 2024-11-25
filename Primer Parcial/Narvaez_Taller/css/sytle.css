@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+.header {
+  background-color: #2a6ba5;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+  
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+  
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+  
+.content {
+  display: flex;
+  padding: 5px;
+  flex-direction: row;
+  gap:10px;
+  margin: auto;
+  margin-right: 5%;
+  margin-left: 20%;
+}
+  
+.articles {
+  flex: 3;
+}
+.article {
+  display: flex;
+  gap: 5px;
+  background: #f5f5f5;
+  border-radius: 8px;
+}
+  
+.date {
+  background: #2a6ba5;
+  position: relative;
+  right:5%;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  border-radius: 8px;
+  min-width: 70px;
+  max-height: 80px;
+}
+  
+.day {
+  font-size: 24px;
+  font-weight: bold;
+}
+  
+.weekday {
+  font-size: 14px;
+}
+
+.sidebar {
+  flex: 1;
+  background: #eaeaea;
+  margin-bottom: auto;
+  padding: 10px;
+  border-radius: 8px;
+}
+  
+.sidebar h3 {
+  margin-top: 0;
+}
+  
+.sidebar ul {
+  padding: 5px;
+  list-style: none;
+}
+  
+.sidebar li {
+  margin-bottom: 10px;
+}
+  
+.article-body {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px; 
+}
+  
+.article-body p {
+  flex: 1; 
+} 
+ 
