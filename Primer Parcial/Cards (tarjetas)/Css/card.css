@@ -1,9 +1,22 @@
 *{
     margin: 0px;
+    padding:0;
+    box-sizing: border-box;
+
 }
 body{
     height: 100%;
-    background-color:rgb(74, 95, 135);   
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    transition: background-color 0.5 ease;
+    background-color:rgb(113, 197, 10);  
+}
+body:has(h2.modelo:hover){
+    background-color:white;
+}
+.card:has(h2.modelo:hover) .img img{
+    transform: scaleX(-1);
 }
 .product-descrip{
     border-bottom: 1px solid #ccc;
@@ -12,10 +25,12 @@ body{
     justify-content: space-between;
     margin: 0%;
     padding:10px;
-    color: white;
+    cursor: pointer;
     font-size: smaller;
     background-color:#000;
-
+}
+.modelo{
+    color: rgb(174, 161, 84);
 }
 .precio{
     font-size: 20px;
@@ -37,18 +52,18 @@ body{
     border-radius: 5px;
     padding: 10px 20px;
     font-size: 14px;
-    transition: background-color 0.3s ease;
-    text-align: center;
-    width: fit-content;
+    cursor:pointer;
+    opacity: 0;
 }
+
 .detalles:hover{
     opacity: 0.9;
+    color: #000;
     transition: all 0.3s ease;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
 .flex-opciones{
     margin: 0%;
-
     background-color: #000;
     display: flex;
     flex-direction: row;
@@ -58,7 +73,6 @@ body{
 }
 .estilo-opcion{
     margin: 0%;
-
     border: 1px;
     border-style:dashed;
     border-radius: 10px;
@@ -90,9 +104,11 @@ h5:hover{
 }
 .flex-products{
     display: flex;
+    flex-direction: column-reverse;
 }
-.card {
+.card{
     position: relative;
+    overflow:hidden ;
     box-shadow: black;
     margin: auto;
     border-radius: 1%;
@@ -110,16 +126,23 @@ h5:hover{
     text-align: center;
     margin: 10px;
 }
+
 .img{
     margin: auto;
-    display: block;
+    position: relative;
     text-align: center;
-    margin-top: auto;
+    margin: auto;
 
+}
+.img img{
+    object-fit: cover;
+    transition: transform 1s ease;
 }
 .card-header{
     margin: 0;
     height:355px;
+    position: relative;
+    overflow: hidden;
 }
 .card-header:hover {
     opacity: 1; 
