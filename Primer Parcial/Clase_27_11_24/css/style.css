@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #ffcb03;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.cuadro {
+    border-style: double;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    overflow: hidden; /* Asegura que los elementos no salgan del cuadro */
+}
+
+@keyframes rebote {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateX(100px) translateY(-420px);
+    }
+    75%{
+        transform: translateY(-120px) translateX(-2px);
+    }
+    80%{
+        transform: translateX(50px) translateY(20px);
+    }
+    
+}
+
+@keyframes volar {
+    0% {
+    }
+    25% {
+        transform: translateX(150px); 
+    }
+    50% {
+        transform: translateX(300px); 
+    }
+    75%{
+        transform: translateX(0px);
+    }
+}
+
+.barra {
+    position: absolute;
+    background-color: green;
+    width: 200px;
+    height: 20px;
+    bottom: 20px;
+    border-radius: 10px;
+    animation: volar 1s infinite;
+}
+
+.circulo {
+    position: absolute;
+    bottom: 20px; 
+    background-color: #e8504f;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    animation: rebote 5s infinite;
+}
