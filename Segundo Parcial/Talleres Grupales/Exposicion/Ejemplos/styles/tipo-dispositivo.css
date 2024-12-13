@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.desktop-only {
+    display: none;
+    font-size: 24px;
+    color: #333;
+}
+
+.mobile-only {
+    display: none;
+    font-size: 18px;
+    color: #555;
+}
+
+
+@media (hover: hover) {
+    .desktop-only {
+        display: block;
+    }
+}
+
+
+@media (hover: none) {
+    .mobile-only {
+        display: block;
+    }
+}
+
+@media (pointer: coarse) {
+    button {
+        padding: 15px 20px;
+        font-size: 18px;
+        background-color: blue;
+    }
+}
+
+/* Botones más compactos para mouse */
+@media (pointer: fine) {
+    button {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Base styles */
+.menu {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+.menu a:hover {
+    background-color: #575757;
+}
+
+/* Orientation-specific styles */
+.menu-horizontal {
+    display: flex;
+}
+
+.menu-vertical {
+    display: none;
+    flex-direction: column;
+    background-color: #333;
+}
+
+.menu-vertical a {
+    text-align: center;
+    padding: 15px;
+    border-top: 1px solid #575757;
+}
+
+@media (orientation: portrait) {
+    .menu-horizontal {
+        display: none;
+    }
+    .menu-vertical {
+        display: flex;
+    }
+}
+
+@media (orientation: landscape) {
+    .menu-horizontal {
+        display: flex;
+    }
+    .menu-vertical {
+        display: none;
+    }
+}
