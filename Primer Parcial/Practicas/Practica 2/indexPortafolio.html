@@ -1,33 +1,80 @@
 <!DOCTYPE html>
-<html lang="en" class ="con">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/style.css">
-    <title>Mi portafolio</title>
+    <link rel="stylesheet" href="./css/style2.css">
+    <title>Mi Portafolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
-   <h1>Sobre mi</h1>
-<div>
-    <center><img src="./images/photo.jpeg"></center>
-    <p>Soy un estudiante de la Universidad de las Fuerzas Armadas ESPE.</p>
-    <section>
-        <ol class="text">
-            <li>Curso cuarto semestre</li>
-            <li>Naci en Quito</li>
-            <li>Vivo en el Valle de los Chillos</li>
-        </ol>
-    </section>
-    <section>
-        <h2>Mis redes</h2>
-        <ul class="text">
-            <dt>Mis redes sociales: </dt>
-            <dd>Facebook: <a href="https://www.facebook.com/LeoNarvaez2503/" target="_blank"><img class="img" src="./images/Fb.png " width="30" height="25"></dd></a>
-            <dd>Intagram: <a href="https://www.instagram.com/leonarvaez2503/" target="_blank"><img class="img" src="./images/Ig.jpeg " width="30" height="25"></dd></a>
-            <dd>GitHub: <a href="https://github.com/LeoNarvaez2004" target="_blank"><img src="./images/GH.jpeg " width="30" height="25"></dd></a>
-        </ul>
-    </section>
-</div>
-    <footer>Hecho por: Leonardo Narvaez</footer>
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#about">Sobre Mí</a></li>
+                <li><a href="#projects">Proyectos</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+        <div class="header-content">
+            <h1>¡Bienvenidos a Mi Portafolio!</h1>
+            <p>Descubre más sobre mí y mis proyectos destacados.</p>
+        </div>
+    </header>
+    <div class="container">
+        <section id="about" class="intro">
+            <div class="photo">
+                <img src="./images/photo.jpeg" alt="Foto de Leonardo Narváez" class="profile-img">
+            </div>
+            <div class="about-text">
+                <p>Soy un estudiante apasionado por la programación y el diseño web, actualmente cursando el cuarto semestre en la Universidad de las Fuerzas Armadas ESPE.</p>
+            </div>
+        </section>
+
+        <section class="details">
+            <h2>Detalles personales</h2>
+            <div class="info">
+                <ul>
+                    <li>Curso: Cuarto semestre</li>
+                    <li>Ciudad natal: Quito</li>
+                    <li>Residencia actual: Valle de los Chillos</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="projects" class="projects">
+            <h2>Proyectos Destacados</h2>
+                <div class="cards">
+                    <div class="project-card">
+                        <h3>Tienda de Ropa Online</h3>
+                        <p>Proyecto ficticio de una tienda de ropa en línea. Implementación de un sistema de carrito de compras, pagos en línea y gestión de inventarios.</p>
+                        <ul>
+                            <li><strong>Funcionalidad:</strong> Carrito de compras interactivo, personalización de productos, y métodos de pago integrados.</li>
+                            <li><strong>Tecnologías:</strong> HTML, CSS, JavaScript, Node.js, MongoDB.</li>
+                        </ul>
+                    </div>
+                    <div class="project-card">
+                        <h3>Rediseño de Página Web</h3>
+                        <p>Rediseño enfocado en mejorar la experiencia del usuario y la interfaz de una tienda de ropa online.</p>
+                        <ul>
+                            <li><strong>Funcionalidad:</strong> Diseño responsive, mejora de la navegación, y carga rápida de productos.</li>
+                            <li><strong>Tecnologías:</strong> HTML, CSS, React, Bootstrap.</li>
+                        </ul>
+                    </div>
+                </div>
+        </section>
+    </div>
+
+    <footer id="contact">
+        <h2>Contáctame</h2>
+        <p>Correo electrónico: <a href="mailto:leonarvaez@example.com">lvnarvaez1@espe.edu.ec</a></p>
+        <h3>Mis redes sociales:</h3>
+        <div class="social-icons">
+                <div class="icon"><a href="https://www.facebook.com/LeoNarvaez2503/" target="_blank"><img class="img" src="./images/Fb.png " width="30" height="25"></div></a>
+                <div class="icon"><a href="https://www.instagram.com/leonarvaez2503/" target="_blank"><img class="img" src="./images/ig.png " width="30" height="25"></div></a>
+                <div class="icon"><a href="https://github.com/LeoNarvaez2004" target="_blank"><img src="./images/gh.png " width="30" height="25"></div></a>
+        </div>
+        <p>© 2024 Leonardo Narváez</p>
+    </footer>
 </body>
 </html>
