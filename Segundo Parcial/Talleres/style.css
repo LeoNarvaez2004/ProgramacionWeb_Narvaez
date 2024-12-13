@@ -6,16 +6,27 @@ body{
     color: white;
     }
 
+@keyframes bounce {
+        0%, 100% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-20px);
+        }
+}
+
     /* Fondo para pantallas medianas (600px <= ancho <= 900px) */
 @media (min-width: 600px) and (max-width: 900px) {
     body {
     background-color: lightgreen;
+    animation: bounce 1s ease-in-out infinite;
     }
 }
 /* Fondo para pantallas pequeñas (ancho <= 600px) */
 @media (max-width: 600px) {
     body {
     background-color: lightblue;
+    animation: bounce 1s ease-in-out infinite;
     }
 }
 
@@ -23,6 +34,8 @@ body{
 /* Fondo para pantallas grandes (ancho > 900px) */
 @media (min-width: 901px) {
     body {
+        color: aqua;
     background-color: lightcoral;
+    animation: bounce 1s ease-in-out infinite;
     }
 }
