@@ -44,6 +44,7 @@ for (let estudiante of estudiantes) {
     }
 
     console.log("Nombre: " + estudiante.nombre);
+    console.log("Calificaciones: "+estudiante.calificaciones);
     console.log("Clasificación: " + clasificacion);
     console.log("Promedio: " + promedio);
     console.log("Nota Máxima: " + maxima);
