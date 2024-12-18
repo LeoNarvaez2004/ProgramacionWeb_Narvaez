@@ -82,5 +82,5 @@ for (let calificacion of peorEstudiante.calificaciones) {
 }
 let promedioFinalPeor = sumaPeor / peorEstudiante.calificaciones.length;
 
-console.log("Mejor estudiante: " + mejorEstudiante.nombre + " con un promedio de " + promedioFinalMejor);
-console.log("Peor estudiante: " + peorEstudiante.nombre + " con un promedio de " + promedioFinalPeor);
+console.log("Mejor estudiante es: " + mejorEstudiante.nombre + " con un promedio de " + promedioFinalMejor);
+console.log("Peor estudiante es: " + peorEstudiante.nombre + " con un promedio de " + promedioFinalPeor);
