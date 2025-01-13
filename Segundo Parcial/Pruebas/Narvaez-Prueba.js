@@ -3,10 +3,10 @@ class Inventario {
 
     constructor() {
         this.#productos = [//creamos un array de productos
-            { nombre: "Laptop", precio: 1000, cantidad: 10, categoria: "Electrónica" },
+            { nombre: "Laptop", precio: 1000, cantidad: 10, categoria: "Electronica" },
             { nombre: 'Teclados', precio: 100, cantidad: 10, categoria: 'Perifericos' },
             { nombre: 'Telefonos', precio: 200, cantidad: 5, categoria: 'Electronica' },
-            { nombre: 'Pantallas', precio: 300, cantidad: 3, categoria: 'Electronica' },
+            { nombre: 'Pantallas', precio: 300, cantidad: 3, categoria: 'Perifericos' },
             { nombre: 'Computadoras', precio: 400, cantidad: 4, categoria: 'Electronica' },
         ];
     }
@@ -122,6 +122,6 @@ gestionVentas.realizarVenta("Telefonos",5);
 gestionVentas.realizarVenta("Telefonos",4);//realizamos una venta de telefonos con cantidad mayor a la que hay en stock para verficar la validacion en la ejecucion
 gestionVentas.aplicarDescuento("Perifericos", 20);
 gestionVentas.realizarVenta("Mouse",2);
-gestionVentas.aplicarDescuento("Electronica", 10);
+gestionVentas.aplicarDescuento("Electronica", 15);
 gestionVentas.generarReporteVentas();//generamos el reporte de ventas con los cambios realizados en el inventario 
 
