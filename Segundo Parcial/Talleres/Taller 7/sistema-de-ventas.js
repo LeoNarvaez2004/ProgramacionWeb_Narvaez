@@ -126,7 +126,7 @@ class Orden{
 }
 
 // Creación de productos con categoría y stock
-let producto1 = new Producto('Laptop', -500, 'Electrónica', -10);
+let producto1 = new Producto('Laptop', 500, 'Electrónica', 1);
 let producto2 = new Producto('Mouse', 10, 'Accesorios', 50);
 let producto3 = new Producto('Teclado', 20, 'Accesorios', 30);
 let producto4 = new Producto('Monitor', 1000, 'Electrónica', 20);
