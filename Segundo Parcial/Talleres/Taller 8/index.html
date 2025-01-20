@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .title{
+            color: red;
+        }
+    </style>
+    <title>Dom en JavaScript</title>
+</head>
+<body>
+    <h1 id="titulo" class="title">Hola Mundo</h1>
+    <button id="btnMostrar" onclick="mostrar()" type ="submit">MostrarValores</button>
+    <br>
+    <img src="./images/817xz7CN4kL._AC_SX425_.jpg" alt="imagen" id="imagen">
+    <div id="valores">
+
+    </div>
+    <script>
+        document.write('Hola Mundo!');
+        function mostrar(){
+            document.getElementById('imagen')='./images/817xz7CN4kL._AC_SX425_.jpg';
+        }
+        /*
+        function MostrarValores(){
+            let formulario = document.forms['formulario'];
+            let texto = '';
+            for(const elemento of formulario){
+                texto+= elemento.value + '<br>';
+            }
+            //document.getElementById('valores').innerHTML = texto;
+            // De manera individual, es decir sin iterar
+            let nombre = formulario['nombre'].value;
+            let apellido = formulario['apellido'].value;
+            let correo = formulario['correo'].value;
+            texto = nombre + '<br>' + apellido + '<br>' + correo;
+            document.getElementById('valores').innerHTML = texto;
+        }
+        */
+        /*console.log('Saludos!');
+        let cabecera = document.getElementById('cabecera');//retorna un objeto
+        //console.log('Valor cabecera',cabecera);
+        console.log(`Valor cabecera: ${cabecera.innerHTML}`);
+        let parrafo=document.getElementById('parrafo');
+        console.log(`Valor parrafo: ${parrafo.innerHTML}`);
+        parrafo.innerHTML='Nuevo valor de parrafo';
+        console.log(`Nuevo valor parrafo: ${parrafo.innerHTML}`);
+        cabecera.innerHTML='Nuevo valor de cabecera';
+        console.log(`Nuevo valor cabecera: ${cabecera.innerHTML}`);
+        */
+        /*
+        getElementByTagName
+        let parrafos = document.getElementsByTagName('p');
+        console.log(`Nro. de Parrafos: ${parrafos.length}`);
+        for (const elements of parrafos) {
+            console.log(elements.innerHTML);
+        }
+        */
+        
+        /*getElementeByClassName
+        let elementos = document.getElementsByClassName('azul');
+        console.log(`Nro. de elementos: ${elementos.length}`);
+        for (const elements of elementos) {
+            console.log(elements.innerHTML);
+        }
+        */
+        /* querySelectorAll 
+        let elementos = document.querySelector('p.azul');
+        console.log(elementos.innerHTML);
+        */
+        
+        
+    </script>
+    
+</body>
+</html>

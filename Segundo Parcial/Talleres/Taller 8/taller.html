@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intercambio de Imágenes</title>
+</head>
+<body>
+    <button id="btnMostrar" onclick="comenzarCambio()" type ="submit">Siguiente Imagen bucle</button>
+
+    <br>
+    <div id="imagenes">
+        <img id="cambio1" src="./images/817xz7CN4kL._AC_SX425_.jpg" alt="Imagen 1">
+        <img id="cambio2" src="./images/Crear-arte-con-IA.jpg" alt="Imagen 2">
+        <img id="cambio3" src="./images/OIP.jpeg" alt="Imagen 3">
+        <img id="cambio4" src="./images/R.jpeg" alt="Imagen 4">
+    </div>
+
+    <script>
+        const images = document.querySelectorAll("#imagenes img");
+        let currentIndex = 0;
+        let intervalId = null;
+
+        images.forEach((img, index) => {
+            img.style.display = index === 0 ? "block" : "none";
+        });
+
+        function mostrarImg() {
+            images[currentIndex].style.display = "none";
+            currentIndex = (currentIndex + 1) % images.length;
+            images[currentIndex].style.display = "block";
+        }
+
+        function comenzarCambio() {
+            if (!intervalId) {
+                intervalId = setInterval(mostrarImg, 3000); // Cambia de imagen cada 3 segundos
+            }
+        }
+    </script>
+</body>
+</html>
