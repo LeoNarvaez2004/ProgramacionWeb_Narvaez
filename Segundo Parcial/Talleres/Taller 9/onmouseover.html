@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="titulo" onmouseover="rojo(this)" onmouseout="azul(this)">Evento onmouseover y onmouseout</h1>
+    <h1 id="titulo2" onmouseup="rojo(this)" onmousedown="azul(this)">Evento onmouseup y onmousedown</h1>
+
+    <script>
+        function rojo(titulo){
+            titulo.style.color = "red";
+        }
+        function azul(titulo){
+            titulo.style.color = "blue";
+        }
+    </script>
+<label>
+    <input type="checkbox" id="toggleComments" />
+    Habilitar área de comentarios
+  </label>
+</body>
+
+</html>

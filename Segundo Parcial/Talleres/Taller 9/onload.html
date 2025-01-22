@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head> 
+<body onload="entrar()">
+    <h1 id="titulo">Evento Onload()</h1>
+    <button type="button" id="btnMostrar" onclick="mostrar()">Mostrar</button>
+</body>
+<div id="mostrar()">
+
+</div>
+<script>
+    function entrar(){
+        alert("Bienvenido a la página");
+
+        let texto = '';
+        if(navigator.cookieEnabled){
+            texto = 'Cookies habilitadas';
+        }else{
+            texto = 'Cookies deshabilitadas';
+        }
+        document.getElementById("mostrar()").innerHTML = texto;
+    }
+</script>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btnPanel">Mostrar Panel</button>
+    <h1 id="titulo">Taller Hoy</h1>
+    <div id="confPanel"></div>
+    <h2>Panel de Configuración</h2>
+
+    <h3>Fondo de la pagina</h3>
+    <select id="fondo">
+        <option value="claro">Claro</option>
+        <option value="oscuro">Oscuro</option>
+        <option value="azul">Azul</option>
+    </select>
+    <h3>Nuevo titulo</h3>
+    <input type="text" id="nuevoTitulo">
+    <h3>Habilitar/deshab comentarios</h3>
+    <input type="checkbox" id="coments">
+    <textarea id="comentarios" disabled></textarea>
+    <h3>Nuevo Elemento</h3>
+    <input type="text" id="nuevoItem" />
+    <button id="agregarItm">Agregar</button>
+
+    <ul id="itemLista">
+      <li>Elemento 1</li>
+      <li>Elemento 2</li>
+    </ul>
+  </div>
+  <script>
+    const btnPanel = document.getElementById("btnPanel");
+    const confPanel = document.getElementById("confPanel");
+    const fondo = document.getElementById("fondo");
+    const nuevoTitulo = document.getElementById("nuevoTitulo");
+    const coments = document.getElementById("coments");
+    const comentarios = document.getElementById("comentarios");
+    const nuevoItem = document.getElementById("nuevoItem");
+    const agregarItm = document.getElementById("agregarItm");
+    const itemLista = document.getElementById("itemLista");
+  
+    btnPanel.addEventListener('click', () => {
+      if (confPanel.style.display === 'none' || !confPanel.style.display) {
+        confPanel.style.display = 'block';
+        btnPanel.textContent = 'Ocultar Panel';
+      } else {
+        confPanel.style.display = 'none';
+        btnPanel.textContent = 'Mostrar Panel';
+      }
+    });
+  
+    fondo.addEventListener('change', () => {
+      switch (fondo.value) {
+        case 'claro':
+          document.body.style.backgroundColor = 'white';
+          break;
+        case 'oscuro':
+          document.body.style.backgroundColor = 'black';
+          break;
+        case 'azul':
+          document.body.style.backgroundColor = 'blue';
+          break;
+      }
+    });
+  
+    nuevoTitulo.addEventListener('input', () => {
+      document.getElementById('titulo').textContent = nuevoTitulo.value;
+    });
+  
+    coments.addEventListener('change', () => {
+      comentarios.disabled = !coments.checked;
+    });
+  
+    agregarItm.addEventListener('click', () => {
+      const itemText = nuevoItem.value.trim();
+      if (itemText) {
+        const li = document.createElement('li');
+        li.textContent = itemText;
+        itemLista.appendChild(li);
+        nuevoItem.value = '';
+      }
+    });
+  
+    itemLista.addEventListener('click', (event) => {
+      if (event.target.tagName === 'LI') {
+        itemLista.removeChild(event.target);
+      }
+    });
+  </script>
+  
+</body>
+</html>
