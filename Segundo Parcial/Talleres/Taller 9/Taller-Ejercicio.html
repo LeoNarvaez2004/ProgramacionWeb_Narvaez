@@ -42,7 +42,7 @@
     const agregarItm = document.getElementById("agregarItm");
     const itemLista = document.getElementById("itemLista");
   
-    btnPanel.addEventListener('click', () => {
+    btnPanel.addEventListener('click', function() {
       if (confPanel.style.display === 'none' || !confPanel.style.display) {
         confPanel.style.display = 'block';
         btnPanel.textContent = 'Ocultar Panel';
@@ -52,7 +52,7 @@
       }
     });
   
-    fondo.addEventListener('change', () => {
+    fondo.addEventListener('change', function() {
       switch (fondo.value) {
         case 'claro':
           document.body.style.backgroundColor = 'white';
@@ -66,29 +66,24 @@
       }
     });
   
-    nuevoTitulo.addEventListener('input', () => {
+    nuevoTitulo.addEventListener('input', function() {
       document.getElementById('titulo').textContent = nuevoTitulo.value;
     });
   
-    coments.addEventListener('change', () => {
+    coments.addEventListener('change', function() {
       comentarios.disabled = !coments.checked;
     });
   
-    agregarItm.addEventListener('click', () => {
-      const itemText = nuevoItem.value.trim();
-      if (itemText) {
+    agregarItm.addEventListener('click', function() {
+      const itemText = nuevoItem.value;
+      if (itemText !== '') {
         const li = document.createElement('li');
-        li.textContent = itemText;
-        itemLista.appendChild(li);
+        li.innerHTML = itemText;
+        itemLista.innerHTML += li.outerHTML;
         nuevoItem.value = '';
       }
     });
-  
-    itemLista.addEventListener('click', (event) => {
-      if (event.target.tagName === 'LI') {
-        itemLista.removeChild(event.target);
-      }
-    });
+
   </script>
   
 </body>
