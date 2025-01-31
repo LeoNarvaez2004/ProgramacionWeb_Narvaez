@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Escritorio\\Semestre V\\Prog Web\\Parcial I\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\onedrive\\escritorio\\semestre v\\prog web\\parcial i\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Escritorio\\Semestre V\\Prog Web\\Parcial I\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Escritorio\\Semestre V\\Prog Web\\Parcial I\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwFcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T16:52:46.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
