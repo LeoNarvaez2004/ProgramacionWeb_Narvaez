@@ -1,10 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Escritorio\\Semestre V\\Prog Web\\Parcial I\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\",
+  "WorkspaceRootPath": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\onedrive\\escritorio\\semestre v\\prog web\\parcial i\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,31 +61,160 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tipoMedicamento.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-05T16:12:51.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Escritorio\\Semestre V\\Prog Web\\Parcial I\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Escritorio\\Semestre V\\Prog Web\\Parcial I\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAIwFcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T16:52:46.415Z",
+              "Title": "queries.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\queries.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js*",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\queries.js*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-05T16:46:30.684Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 174,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:02:16.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medicamento.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-07T18:08:14.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\appsettings.json",
+              "RelativeDocumentMoniker": "Clase31Enero\\appsettings.json",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\appsettings.json",
+              "RelativeToolTip": "Clase31Enero\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T16:59:18.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoMedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:03:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoMedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:34:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoMedicamentoCLS.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\TipoMedicamentoCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\TipoMedicamentoCLS.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\TipoMedicamentoCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\TipoMedicamentoCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:02:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:07:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T16:37:15.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sinMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T16:36:11.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T16:37:27.645Z",
+              "EditorCaption": ""
             }
           ]
         }
