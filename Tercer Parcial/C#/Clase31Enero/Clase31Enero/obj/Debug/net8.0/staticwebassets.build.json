@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lAHZXY58hbR4o26bNuIZi+BXyhI6koWRsrLeqxHplJk=",
+  "Hash": "S+fQHb2x/U4UgTRsiLdlTypEFELS4rT2E86PiZEhu/Y=",
   "Source": "Clase31Enero",
   "BasePath": "_content/Clase31Enero",
   "Mode": "Default",
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jr87yaj9tl",
-      "Integrity": "H2Jm+NHTcN1ByOn/wRXeBI1w6FC5bEiF8p3abh9xw38=",
+      "Fingerprint": "zebnfnujvn",
+      "Integrity": "i2TD8Axs8xIDj5fiUQPo9O0U4kPW1h7nR4aw4jzvQJw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\queries.js"
@@ -164,6 +164,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+      "Identity": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
+      "SourceId": "Clase31Enero",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\",
+      "BasePath": "_content/Clase31Enero",
+      "RelativePath": "js/Sucursal#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rjh78avka0",
+      "Integrity": "aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Sucursal.js"
+    },
+    {
       "Identity": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
       "SourceId": "Clase31Enero",
       "SourceType": "Discovered",
@@ -178,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "h784deoxci",
-      "Integrity": "cxiHo2kxgDD/an3RPnH5b3LTEG70H20dMtULG8jWffE=",
+      "Fingerprint": "akd8bix1vz",
+      "Integrity": "qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\tipoMedicamento.js"
@@ -1144,8 +1165,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3mu0h9tx89",
-      "Integrity": "BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=",
+      "Fingerprint": "p8i1qpdwjn",
+      "Integrity": "mUDAQjUf3sIxf5vlFpFYgrbVn8rnEli92fzDqbDa7Qo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.css"
@@ -1165,8 +1186,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cmhhdwqdyz",
-      "Integrity": "dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=",
+      "Fingerprint": "asslg8p8x5",
+      "Integrity": "BrvRQSJS0xuvUb1Udo0XfGCZfkWXSx1b+3I/K04NAhw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.min.css"
@@ -1186,8 +1207,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5zybp921qk",
-      "Integrity": "0WLPyWhlVsMr0y6p23SiS1sqoxfEnyzvYNidpVWyTg4=",
+      "Fingerprint": "90n5zh25z8",
+      "Integrity": "R7WdkhxhcGTVKaY/w7TH+CAprxrQ0AJFiPdKsVFe73w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.css"
@@ -1207,8 +1228,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "eict21by8z",
-      "Integrity": "lvqQzfgRxG8QBB5QMqpZGrljg5T/hNmC3vC7i3zntlI=",
+      "Fingerprint": "9uph5ajkar",
+      "Integrity": "76WHN4827CKPQ9OWunXxEpG3wX1h1kJ8izJ5AYV91eI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.min.css"
@@ -1228,8 +1249,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rvhlnuwl0w",
-      "Integrity": "xzwplE3L1jIuT1LPT8cqOTx6SkrmzSwKyoqZAv4nOQM=",
+      "Fingerprint": "2cm4zhyn7l",
+      "Integrity": "EhG8N2fZHEgYxcWW9sukDtUtSWwj983coSP3uCxriKc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.css"
@@ -1249,8 +1270,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8tr2uchqr5",
-      "Integrity": "TBe0l9PhFaVR3DwHmA2jQbUf1y6yQ22RBgJKKkNkC50=",
+      "Fingerprint": "wb4wtcicy8",
+      "Integrity": "FBX2S3Z4UX/3h+M61wnlJNUYPlwrNu98kYAwZqOapS4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css"
@@ -1270,8 +1291,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "oyhlwpn2ry",
-      "Integrity": "0J34ehpSqh/K3f1J48+c4qqMoq/vHT3yNzKHZlxn6M8=",
+      "Fingerprint": "cxxcqduwk6",
+      "Integrity": "wMR1Tl5lY40RFtn9Y8hgIWmPQ3gVM/CfwQ9YYaBaSwc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.css"
@@ -1291,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "37l46l7i6j",
-      "Integrity": "sZHne9tv897qh/YThum0hlecR/wR8ToEkXIYoPRAYeU=",
+      "Fingerprint": "cui6acko7q",
+      "Integrity": "HCG5y6e2xoj/Q/jHrTgkA1aJGcGjmAHXjkZeXd6pxA8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.min.css"
@@ -1312,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9ozp8y9mwk",
-      "Integrity": "2WC6x551KwAQLGp8YJ72FcOK0t8ShiTxKMlS3B1nCxw=",
+      "Fingerprint": "jpteb6055x",
+      "Integrity": "55DEXw4FlgJSXma/msiOaS9LfoPxZDx95StclUElhHE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.css"
@@ -1333,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "33kherj0x8",
-      "Integrity": "ETbOOM9U8WfaXg2AkW2t+QbdpWYFRAO+HEXOth8EQbY=",
+      "Fingerprint": "u9e3n5jwig",
+      "Integrity": "AkYdGlH7ERJ8j6Bt0ipu7LXjxERt/CDDHYATJCcZdy4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.min.css"
@@ -1354,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xw9ktltpoq",
-      "Integrity": "MTDeqkiCIS8hxz7ilEyqtdwwNmw9YNYbAKaFJSi9SYY=",
+      "Fingerprint": "g8up1orpa8",
+      "Integrity": "sKmfpVo/2gmgpQGFq6kLaRTubGxAJhJTjA5coxwRblQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.css"
@@ -1375,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vv23opoj39",
-      "Integrity": "pXJNErqquJelSNmS/2PGOZlOaI3p3TaELxMemk5wzeU=",
+      "Fingerprint": "bugtj7t8im",
+      "Integrity": "gzlXK99VJHAgZz8HeiLEz4Dv5cB/y1tN6W+yQZHoeVQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css"
@@ -1396,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "utrc60xe8f",
-      "Integrity": "HpJQStRnkovrrWNGCph2oLrev9fZjQ1XG+ORTe2r55Y=",
+      "Fingerprint": "bq9pb0xzg0",
+      "Integrity": "fUewq50rM1a7GjYA4f0l+53ACU4xKT81mLJ+OZ8JEcE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.css"
@@ -1417,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m5ioe6x05t",
-      "Integrity": "FtjNk9F04RHH2p0imrheuJnTOX1cMFMttJ3fizpOgLs=",
+      "Fingerprint": "t0hpuyqp15",
+      "Integrity": "baj9dPbU+w16mIwKT3SP8AEhh6oyjEmSIGAZxk98rcM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css"
@@ -1438,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ogfnvmm9u4",
-      "Integrity": "+BohpHns0sTerX1N7rWQK5LrfsNWZj39LJmHOXY/KmY=",
+      "Fingerprint": "5688q2ahw9",
+      "Integrity": "o6IdlbvC+KLHCwtpszZfm+NvxEnZW6N1JLsXuIwSam8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.css"
@@ -1459,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "msy1qwdlar",
-      "Integrity": "ZlClDYWRJZQA7TVrQk/0/mM7wNH8e+WOF8ePuxMSpwc=",
+      "Fingerprint": "5e9ayemby9",
+      "Integrity": "DcjhdVBNrIlA4kXi0yz9EyRKCG19st7R2qSKyN0qIeA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css"
@@ -1480,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wygj0g0egz",
-      "Integrity": "qJyrijwOVu03iBaRWXRhEy6xAf5JWQryZyJ+0CpGKPk=",
+      "Fingerprint": "k1zmv2crm2",
+      "Integrity": "GF6cs9g4u1+f7dIhvOaXEC17gscgo0ZoCYvxqDjP5m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.css"
@@ -1501,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qnll27bpxk",
-      "Integrity": "5g5YPOce+V0J+IFtFDH/6fs2TwKfVY2vf3rPeFpYGOc=",
+      "Fingerprint": "955tplk0qe",
+      "Integrity": "s9Nrt9Aus7bCLyABonZYVTkVBhf3K2Cc8FHtPv8BlpQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css"
@@ -1522,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vppv4xf58g",
-      "Integrity": "DZSytUnV5jOb3FvsoH0hQ9JROx+YiRd+L1RsQwiQR28=",
+      "Fingerprint": "gue51k521r",
+      "Integrity": "aBvHu/6nNNdlP6h1vbb8dCphtEOfzYaifUP7nwEVaCI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.js"
@@ -1543,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wbpfeoezp3",
-      "Integrity": "BAR0H3Qu2PCfoVr6CtZrcnbK3VKenmUF9C6IqgsNsNU=",
+      "Fingerprint": "hv5vxrtm79",
+      "Integrity": "g3ODoOQKmRv9z9z24oYMvzjJkt31VMVtcL97e/5fOOk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.min.js"
@@ -1564,8 +1585,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ytu0mno2ng",
-      "Integrity": "Fi7Wi6g+dwwCG3zxAkSk3VwUv3oMPb+LAVfd8kuxFdY=",
+      "Fingerprint": "3raa3oq41s",
+      "Integrity": "7zd1NzVUtIQqa9+hoj674M296x0vwIyYb+n2ajlSfKk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.js"
@@ -1585,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wuwc8kk5a5",
-      "Integrity": "WIl9rBz8pZUU69KZLwmsxnJR2A0V3Xz6n8whxH1tKYA=",
+      "Fingerprint": "9ipayzgfj9",
+      "Integrity": "X9J+l1xoD0H3RRy/yLPdg0I3D2TKReZCSBep2JzHPPI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.min.js"
@@ -1606,8 +1627,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a2ww84rxre",
-      "Integrity": "rg2xy7pLniWNtAGWHWVnEzRnrBjec69mCf9eMeVwT/E=",
+      "Fingerprint": "m6li5v56jt",
+      "Integrity": "vgzPyAVGBYsu04YQqKLwnFUlFTWgUb8EWYKkRjosBak=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.js"
@@ -1627,8 +1648,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "parinopxbm",
-      "Integrity": "T/6TIJDCxxbYchJfH0dK7odofG0AdKfvC5RJtncgJIA=",
+      "Fingerprint": "ve68dl956r",
+      "Integrity": "ibw8+9oR0mD7aCuPN4hZjZlnF5wn9UazH1lyH25+Cnw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js"
@@ -1648,8 +1669,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r2l44wjr8p",
-      "Integrity": "Tcj2tSfIsg30lKUqAIO5pAgp9kjfMoGQVpGccpluKfQ=",
+      "Fingerprint": "2zgphq29su",
+      "Integrity": "0iRDfhZL0h2LevUiFAPYAMKXyLyxI9Dj5Z5Pn0DNIdU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.js"
@@ -1669,8 +1690,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9b4bpgjbx0",
-      "Integrity": "ayzx2znbpzG5nQ0bAkbeyDoc9IBzNudRe4OAevLf1hU=",
+      "Fingerprint": "2216kk74fs",
+      "Integrity": "JuHkW3uYuBvmT9grv/wmeoZPLD6oaau4loSSyhytxWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js"
@@ -1690,8 +1711,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m56mxgorfm",
-      "Integrity": "VvY2tPTQnqbgP/d+6lg8WJOgUeZvHTEFcDNVkpLD1VU=",
+      "Fingerprint": "9d9e83a1kv",
+      "Integrity": "EwUkY2yKEIvd5E68ueMLZnvXqrFKng1CV4CybUanj0A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.js"
@@ -1711,8 +1732,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iclhr71gek",
-      "Integrity": "Ug38TqIkk9AhgC5ikVh9zfP3m9vyPVEyQMOHHrD3Tzg=",
+      "Fingerprint": "kg8v92k7qy",
+      "Integrity": "bNIaAOLmoDySM5UPyZyo6F2IEGQKTiiwa38YDfKdjQw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.min.js"
@@ -1732,8 +1753,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5q5v2m71js",
-      "Integrity": "vTjuF09NINxyfXxgVvDBq7+2cEsheMKFjH/7UZChrb4=",
+      "Fingerprint": "hjacfnjn0d",
+      "Integrity": "Xdvnq2Nzm08ljL1Bxf3Doa42ov9ggz1rZN7vhK12v/Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.js"
@@ -1753,8 +1774,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n9b8won2d5",
-      "Integrity": "9aROWhb5kGXN7AsbsRB1r8QvxwgRf1+Nz13bssxuKd8=",
+      "Fingerprint": "xiijpfapsk",
+      "Integrity": "d+bqfoI+zozLlT+9RBasHBf/mKYfmPH12BgojWtpMoo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.min.js"
@@ -1774,8 +1795,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e9652imd4e",
-      "Integrity": "8hgHeeBCf5IsiRkmyprAeoJelfPfLTKgC8dLgUj2tdg=",
+      "Fingerprint": "jzj4qao3iy",
+      "Integrity": "L0CWhlu7K09MPMZJCHqHwIBeBL4DMXiooo7RXAa3yPM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.js"
@@ -1795,8 +1816,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1il7se3zg6",
-      "Integrity": "mewPC+3nMOMWUGtf3oYde3Vd/yCoBVRCOF9cEJ1xETU=",
+      "Fingerprint": "n20pe3kujq",
+      "Integrity": "Ybkjef9d2v7lri46DAnuYovKfEM6kI3hZUEX1bKo7PM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js"
@@ -1816,8 +1837,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4abcade5u8",
-      "Integrity": "HIKr0SzvKchquBkhgC+BkFqRyhq98P8A84qYEc3ZLXk=",
+      "Fingerprint": "orkfluj8j5",
+      "Integrity": "HEwElkOBjbTYQXW6gv2cz77/Z3wHj6Hvu2g+o3wPDVw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\brands.svg"
@@ -1837,8 +1858,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "huwngg65ec",
-      "Integrity": "9wm7uvrFdLTNiKOXt7x+aCp9Ot8CQ5b7UAWl/fO6W88=",
+      "Fingerprint": "6r61km5k9r",
+      "Integrity": "ctQIVICSpO0+yUaqeF6UCVc5iKCVN9xd9yOpfk1i5qs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\regular.svg"
@@ -1858,8 +1879,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "22n2g2hpag",
-      "Integrity": "OomfC+VCcdkpmkWSTwaWqzRO/5XfkVt4DoVN0sGt70s=",
+      "Fingerprint": "5uz0r8yt9v",
+      "Integrity": "k88jcyctqfOmv+vkMnbTR6LonKBHakQ1/aYJlvGQiLQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\solid.svg"
@@ -2309,7 +2330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2346,7 +2367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2391,7 +2412,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2436,7 +2457,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2473,7 +2494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2518,7 +2539,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2555,7 +2576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2600,7 +2621,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2637,7 +2658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:16:36 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2674,7 +2695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:16:36 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2697,51 +2718,6 @@
       ]
     },
     {
-      "Route": "js/queries.jr87yaj9tl.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2200"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H2Jm+NHTcN1ByOn/wRXeBI1w6FC5bEiF8p3abh9xw38=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Feb 2025 18:14:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jr87yaj9tl"
-        },
-        {
-          "Name": "label",
-          "Value": "js/queries.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H2Jm+NHTcN1ByOn/wRXeBI1w6FC5bEiF8p3abh9xw38="
-        }
-      ]
-    },
-    {
       "Route": "js/queries.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
       "Selectors": [],
@@ -2752,7 +2728,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2200"
+          "Value": "2327"
         },
         {
           "Name": "Content-Type",
@@ -2760,11 +2736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H2Jm+NHTcN1ByOn/wRXeBI1w6FC5bEiF8p3abh9xw38=\""
+          "Value": "\"i2TD8Axs8xIDj5fiUQPo9O0U4kPW1h7nR4aw4jzvQJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Feb 2025 18:14:03 GMT"
+          "Value": "Thu, 13 Feb 2025 20:07:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2774,7 +2750,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H2Jm+NHTcN1ByOn/wRXeBI1w6FC5bEiF8p3abh9xw38="
+          "Value": "sha256-i2TD8Axs8xIDj5fiUQPo9O0U4kPW1h7nR4aw4jzvQJw="
+        }
+      ]
+    },
+    {
+      "Route": "js/queries.zebnfnujvn.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i2TD8Axs8xIDj5fiUQPo9O0U4kPW1h7nR4aw4jzvQJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 20:07:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zebnfnujvn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/queries.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i2TD8Axs8xIDj5fiUQPo9O0U4kPW1h7nR4aw4jzvQJw="
         }
       ]
     },
@@ -2801,7 +2822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2838,7 +2859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2861,8 +2882,8 @@
       ]
     },
     {
-      "Route": "js/tipoMedicamento.h784deoxci.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+      "Route": "js/Sucursal.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2871,7 +2892,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1781"
+          "Value": "853"
         },
         {
           "Name": "Content-Type",
@@ -2879,11 +2900,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cxiHo2kxgDD/an3RPnH5b3LTEG70H20dMtULG8jWffE=\""
+          "Value": "\"aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Feb 2025 18:01:41 GMT"
+          "Value": "Fri, 14 Feb 2025 19:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo="
+        }
+      ]
+    },
+    {
+      "Route": "js/Sucursal.rjh78avka0.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 19:59:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2893,7 +2951,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h784deoxci"
+          "Value": "rjh78avka0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Sucursal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo="
+        }
+      ]
+    },
+    {
+      "Route": "js/tipoMedicamento.akd8bix1vz.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:07:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akd8bix1vz"
         },
         {
           "Name": "label",
@@ -2901,7 +3004,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cxiHo2kxgDD/an3RPnH5b3LTEG70H20dMtULG8jWffE="
+          "Value": "sha256-qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4="
         }
       ]
     },
@@ -2916,7 +3019,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1781"
+          "Value": "1164"
         },
         {
           "Name": "Content-Type",
@@ -2924,11 +3027,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cxiHo2kxgDD/an3RPnH5b3LTEG70H20dMtULG8jWffE=\""
+          "Value": "\"qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Feb 2025 18:01:41 GMT"
+          "Value": "Thu, 13 Feb 2025 23:07:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2938,7 +3041,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cxiHo2kxgDD/an3RPnH5b3LTEG70H20dMtULG8jWffE="
+          "Value": "sha256-qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4="
         }
       ]
     },
@@ -2965,7 +3068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3002,7 +3105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3047,7 +3150,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3084,7 +3187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3129,7 +3232,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3166,7 +3269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3211,7 +3314,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3248,7 +3351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3293,7 +3396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3330,7 +3433,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3375,7 +3478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3412,7 +3515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3457,7 +3560,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3502,7 +3605,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3539,7 +3642,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3584,7 +3687,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3621,7 +3724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3658,7 +3761,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3695,7 +3798,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3740,7 +3843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3785,7 +3888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3822,7 +3925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3867,7 +3970,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3904,7 +4007,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3949,7 +4052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3986,7 +4089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4031,7 +4134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4068,7 +4171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4113,7 +4216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4150,7 +4253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4187,7 +4290,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4232,7 +4335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4277,7 +4380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4314,7 +4417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4359,7 +4462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4396,7 +4499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4433,7 +4536,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4470,7 +4573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4515,7 +4618,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4560,7 +4663,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4605,7 +4708,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4650,7 +4753,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4687,7 +4790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4732,7 +4835,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4769,7 +4872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4806,7 +4909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4843,7 +4946,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4888,7 +4991,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4933,7 +5036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4970,7 +5073,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5015,7 +5118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5052,7 +5155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5097,7 +5200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5134,7 +5237,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5171,7 +5274,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5216,7 +5319,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5253,7 +5356,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5298,7 +5401,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5335,7 +5438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5372,7 +5475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5417,7 +5520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5454,7 +5557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5499,7 +5602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5544,7 +5647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5589,7 +5692,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5634,7 +5737,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5679,7 +5782,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5716,7 +5819,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5761,7 +5864,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5798,7 +5901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5843,7 +5946,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5880,7 +5983,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5925,7 +6028,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5962,7 +6065,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5999,7 +6102,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6044,7 +6147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6081,7 +6184,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6126,7 +6229,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6163,7 +6266,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6200,7 +6303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6245,7 +6348,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6290,7 +6393,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6327,7 +6430,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6372,7 +6475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6409,7 +6512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6454,7 +6557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6491,7 +6594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6528,7 +6631,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6573,7 +6676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6610,7 +6713,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6633,51 +6736,6 @@
       ]
     },
     {
-      "Route": "lib/font-awesome/css/all.3mu0h9tx89.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\all.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "106394"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3mu0h9tx89"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/css/all.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg="
-        }
-      ]
-    },
-    {
       "Route": "lib/font-awesome/css/all.css",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\all.css",
       "Selectors": [],
@@ -6688,7 +6746,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "106394"
+          "Value": "114307"
         },
         {
           "Name": "Content-Type",
@@ -6696,11 +6754,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=\""
+          "Value": "\"mUDAQjUf3sIxf5vlFpFYgrbVn8rnEli92fzDqbDa7Qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6710,12 +6768,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg="
+          "Value": "sha256-mUDAQjUf3sIxf5vlFpFYgrbVn8rnEli92fzDqbDa7Qo="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/all.min.cmhhdwqdyz.css",
+      "Route": "lib/font-awesome/css/all.min.asslg8p8x5.css",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6725,7 +6783,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73890"
+          "Value": "73898"
         },
         {
           "Name": "Content-Type",
@@ -6733,11 +6791,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=\""
+          "Value": "\"BrvRQSJS0xuvUb1Udo0XfGCZfkWXSx1b+3I/K04NAhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6747,7 +6805,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cmhhdwqdyz"
+          "Value": "asslg8p8x5"
         },
         {
           "Name": "label",
@@ -6755,7 +6813,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo="
+          "Value": "sha256-BrvRQSJS0xuvUb1Udo0XfGCZfkWXSx1b+3I/K04NAhw="
         }
       ]
     },
@@ -6770,7 +6828,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73890"
+          "Value": "73898"
         },
         {
           "Name": "Content-Type",
@@ -6778,11 +6836,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=\""
+          "Value": "\"BrvRQSJS0xuvUb1Udo0XfGCZfkWXSx1b+3I/K04NAhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6792,13 +6850,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo="
+          "Value": "sha256-BrvRQSJS0xuvUb1Udo0XfGCZfkWXSx1b+3I/K04NAhw="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/brands.5zybp921qk.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Route": "lib/font-awesome/css/all.p8i1qpdwjn.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\all.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6807,7 +6865,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19852"
+          "Value": "114307"
         },
         {
           "Name": "Content-Type",
@@ -6815,11 +6873,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0WLPyWhlVsMr0y6p23SiS1sqoxfEnyzvYNidpVWyTg4=\""
+          "Value": "\"mUDAQjUf3sIxf5vlFpFYgrbVn8rnEli92fzDqbDa7Qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6829,7 +6887,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5zybp921qk"
+          "Value": "p8i1qpdwjn"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/all.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUDAQjUf3sIxf5vlFpFYgrbVn8rnEli92fzDqbDa7Qo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/brands.90n5zh25z8.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7WdkhxhcGTVKaY/w7TH+CAprxrQ0AJFiPdKsVFe73w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90n5zh25z8"
         },
         {
           "Name": "label",
@@ -6837,7 +6940,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0WLPyWhlVsMr0y6p23SiS1sqoxfEnyzvYNidpVWyTg4="
+          "Value": "sha256-R7WdkhxhcGTVKaY/w7TH+CAprxrQ0AJFiPdKsVFe73w="
         }
       ]
     },
@@ -6852,7 +6955,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19852"
+          "Value": "21461"
         },
         {
           "Name": "Content-Type",
@@ -6860,11 +6963,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0WLPyWhlVsMr0y6p23SiS1sqoxfEnyzvYNidpVWyTg4=\""
+          "Value": "\"R7WdkhxhcGTVKaY/w7TH+CAprxrQ0AJFiPdKsVFe73w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6874,7 +6977,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0WLPyWhlVsMr0y6p23SiS1sqoxfEnyzvYNidpVWyTg4="
+          "Value": "sha256-R7WdkhxhcGTVKaY/w7TH+CAprxrQ0AJFiPdKsVFe73w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/brands.min.9uph5ajkar.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"76WHN4827CKPQ9OWunXxEpG3wX1h1kJ8izJ5AYV91eI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9uph5ajkar"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/brands.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-76WHN4827CKPQ9OWunXxEpG3wX1h1kJ8izJ5AYV91eI="
         }
       ]
     },
@@ -6889,7 +7037,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14574"
+          "Value": "14579"
         },
         {
           "Name": "Content-Type",
@@ -6897,11 +7045,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lvqQzfgRxG8QBB5QMqpZGrljg5T/hNmC3vC7i3zntlI=\""
+          "Value": "\"76WHN4827CKPQ9OWunXxEpG3wX1h1kJ8izJ5AYV91eI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6911,13 +7059,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lvqQzfgRxG8QBB5QMqpZGrljg5T/hNmC3vC7i3zntlI="
+          "Value": "sha256-76WHN4827CKPQ9OWunXxEpG3wX1h1kJ8izJ5AYV91eI="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/brands.min.eict21by8z.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Route": "lib/font-awesome/css/fontawesome.2cm4zhyn7l.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6926,7 +7074,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14574"
+          "Value": "89920"
         },
         {
           "Name": "Content-Type",
@@ -6934,11 +7082,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lvqQzfgRxG8QBB5QMqpZGrljg5T/hNmC3vC7i3zntlI=\""
+          "Value": "\"EhG8N2fZHEgYxcWW9sukDtUtSWwj983coSP3uCxriKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6948,15 +7096,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eict21by8z"
+          "Value": "2cm4zhyn7l"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/brands.min.css"
+          "Value": "lib/font-awesome/css/fontawesome.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lvqQzfgRxG8QBB5QMqpZGrljg5T/hNmC3vC7i3zntlI="
+          "Value": "sha256-EhG8N2fZHEgYxcWW9sukDtUtSWwj983coSP3uCxriKc="
         }
       ]
     },
@@ -6971,7 +7119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "83677"
+          "Value": "89920"
         },
         {
           "Name": "Content-Type",
@@ -6979,11 +7127,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xzwplE3L1jIuT1LPT8cqOTx6SkrmzSwKyoqZAv4nOQM=\""
+          "Value": "\"EhG8N2fZHEgYxcWW9sukDtUtSWwj983coSP3uCxriKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6993,52 +7141,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xzwplE3L1jIuT1LPT8cqOTx6SkrmzSwKyoqZAv4nOQM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/css/fontawesome.min.8tr2uchqr5.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "56777"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TBe0l9PhFaVR3DwHmA2jQbUf1y6yQ22RBgJKKkNkC50=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8tr2uchqr5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/css/fontawesome.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TBe0l9PhFaVR3DwHmA2jQbUf1y6yQ22RBgJKKkNkC50="
+          "Value": "sha256-EhG8N2fZHEgYxcWW9sukDtUtSWwj983coSP3uCxriKc="
         }
       ]
     },
@@ -7053,7 +7156,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "56777"
+          "Value": "56785"
         },
         {
           "Name": "Content-Type",
@@ -7061,11 +7164,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TBe0l9PhFaVR3DwHmA2jQbUf1y6yQ22RBgJKKkNkC50=\""
+          "Value": "\"FBX2S3Z4UX/3h+M61wnlJNUYPlwrNu98kYAwZqOapS4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7075,13 +7178,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TBe0l9PhFaVR3DwHmA2jQbUf1y6yQ22RBgJKKkNkC50="
+          "Value": "sha256-FBX2S3Z4UX/3h+M61wnlJNUYPlwrNu98kYAwZqOapS4="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/fontawesome.rvhlnuwl0w.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Route": "lib/font-awesome/css/fontawesome.min.wb4wtcicy8.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7090,7 +7193,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "83677"
+          "Value": "56785"
         },
         {
           "Name": "Content-Type",
@@ -7098,11 +7201,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xzwplE3L1jIuT1LPT8cqOTx6SkrmzSwKyoqZAv4nOQM=\""
+          "Value": "\"FBX2S3Z4UX/3h+M61wnlJNUYPlwrNu98kYAwZqOapS4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7112,15 +7215,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rvhlnuwl0w"
+          "Value": "wb4wtcicy8"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/fontawesome.css"
+          "Value": "lib/font-awesome/css/fontawesome.min.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xzwplE3L1jIuT1LPT8cqOTx6SkrmzSwKyoqZAv4nOQM="
+          "Value": "sha256-FBX2S3Z4UX/3h+M61wnlJNUYPlwrNu98kYAwZqOapS4="
         }
       ]
     },
@@ -7135,7 +7238,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "633"
+          "Value": "652"
         },
         {
           "Name": "Content-Type",
@@ -7143,11 +7246,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0J34ehpSqh/K3f1J48+c4qqMoq/vHT3yNzKHZlxn6M8=\""
+          "Value": "\"wMR1Tl5lY40RFtn9Y8hgIWmPQ3gVM/CfwQ9YYaBaSwc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7157,13 +7260,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0J34ehpSqh/K3f1J48+c4qqMoq/vHT3yNzKHZlxn6M8="
+          "Value": "sha256-wMR1Tl5lY40RFtn9Y8hgIWmPQ3gVM/CfwQ9YYaBaSwc="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/regular.min.37l46l7i6j.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Route": "lib/font-awesome/css/regular.cxxcqduwk6.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\regular.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7172,7 +7275,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "652"
         },
         {
           "Name": "Content-Type",
@@ -7180,11 +7283,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sZHne9tv897qh/YThum0hlecR/wR8ToEkXIYoPRAYeU=\""
+          "Value": "\"wMR1Tl5lY40RFtn9Y8hgIWmPQ3gVM/CfwQ9YYaBaSwc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7194,15 +7297,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "37l46l7i6j"
+          "Value": "cxxcqduwk6"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/regular.min.css"
+          "Value": "lib/font-awesome/css/regular.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sZHne9tv897qh/YThum0hlecR/wR8ToEkXIYoPRAYeU="
+          "Value": "sha256-wMR1Tl5lY40RFtn9Y8hgIWmPQ3gVM/CfwQ9YYaBaSwc="
         }
       ]
     },
@@ -7217,7 +7320,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "585"
         },
         {
           "Name": "Content-Type",
@@ -7225,11 +7328,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sZHne9tv897qh/YThum0hlecR/wR8ToEkXIYoPRAYeU=\""
+          "Value": "\"HCG5y6e2xoj/Q/jHrTgkA1aJGcGjmAHXjkZeXd6pxA8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7239,13 +7342,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sZHne9tv897qh/YThum0hlecR/wR8ToEkXIYoPRAYeU="
+          "Value": "sha256-HCG5y6e2xoj/Q/jHrTgkA1aJGcGjmAHXjkZeXd6pxA8="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/regular.oyhlwpn2ry.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Route": "lib/font-awesome/css/regular.min.cui6acko7q.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7254,7 +7357,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "633"
+          "Value": "585"
         },
         {
           "Name": "Content-Type",
@@ -7262,11 +7365,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0J34ehpSqh/K3f1J48+c4qqMoq/vHT3yNzKHZlxn6M8=\""
+          "Value": "\"HCG5y6e2xoj/Q/jHrTgkA1aJGcGjmAHXjkZeXd6pxA8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7276,60 +7379,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oyhlwpn2ry"
+          "Value": "cui6acko7q"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/regular.css"
+          "Value": "lib/font-awesome/css/regular.min.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0J34ehpSqh/K3f1J48+c4qqMoq/vHT3yNzKHZlxn6M8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/css/solid.9ozp8y9mwk.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\solid.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "625"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2WC6x551KwAQLGp8YJ72FcOK0t8ShiTxKMlS3B1nCxw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9ozp8y9mwk"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/css/solid.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2WC6x551KwAQLGp8YJ72FcOK0t8ShiTxKMlS3B1nCxw="
+          "Value": "sha256-HCG5y6e2xoj/Q/jHrTgkA1aJGcGjmAHXjkZeXd6pxA8="
         }
       ]
     },
@@ -7344,7 +7402,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "625"
+          "Value": "644"
         },
         {
           "Name": "Content-Type",
@@ -7352,11 +7410,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2WC6x551KwAQLGp8YJ72FcOK0t8ShiTxKMlS3B1nCxw=\""
+          "Value": "\"55DEXw4FlgJSXma/msiOaS9LfoPxZDx95StclUElhHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7366,13 +7424,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2WC6x551KwAQLGp8YJ72FcOK0t8ShiTxKMlS3B1nCxw="
+          "Value": "sha256-55DEXw4FlgJSXma/msiOaS9LfoPxZDx95StclUElhHE="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/solid.min.33kherj0x8.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Route": "lib/font-awesome/css/solid.jpteb6055x.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\solid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7381,7 +7439,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "572"
+          "Value": "644"
         },
         {
           "Name": "Content-Type",
@@ -7389,11 +7447,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ETbOOM9U8WfaXg2AkW2t+QbdpWYFRAO+HEXOth8EQbY=\""
+          "Value": "\"55DEXw4FlgJSXma/msiOaS9LfoPxZDx95StclUElhHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7403,15 +7461,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "33kherj0x8"
+          "Value": "jpteb6055x"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/solid.min.css"
+          "Value": "lib/font-awesome/css/solid.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ETbOOM9U8WfaXg2AkW2t+QbdpWYFRAO+HEXOth8EQbY="
+          "Value": "sha256-55DEXw4FlgJSXma/msiOaS9LfoPxZDx95StclUElhHE="
         }
       ]
     },
@@ -7426,7 +7484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "572"
+          "Value": "577"
         },
         {
           "Name": "Content-Type",
@@ -7434,11 +7492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ETbOOM9U8WfaXg2AkW2t+QbdpWYFRAO+HEXOth8EQbY=\""
+          "Value": "\"AkYdGlH7ERJ8j6Bt0ipu7LXjxERt/CDDHYATJCcZdy4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7448,7 +7506,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ETbOOM9U8WfaXg2AkW2t+QbdpWYFRAO+HEXOth8EQbY="
+          "Value": "sha256-AkYdGlH7ERJ8j6Bt0ipu7LXjxERt/CDDHYATJCcZdy4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/solid.min.u9e3n5jwig.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AkYdGlH7ERJ8j6Bt0ipu7LXjxERt/CDDHYATJCcZdy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9e3n5jwig"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/solid.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AkYdGlH7ERJ8j6Bt0ipu7LXjxERt/CDDHYATJCcZdy4="
         }
       ]
     },
@@ -7463,7 +7566,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12554"
+          "Value": "13015"
         },
         {
           "Name": "Content-Type",
@@ -7471,11 +7574,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MTDeqkiCIS8hxz7ilEyqtdwwNmw9YNYbAKaFJSi9SYY=\""
+          "Value": "\"sKmfpVo/2gmgpQGFq6kLaRTubGxAJhJTjA5coxwRblQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7485,7 +7588,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MTDeqkiCIS8hxz7ilEyqtdwwNmw9YNYbAKaFJSi9SYY="
+          "Value": "sha256-sKmfpVo/2gmgpQGFq6kLaRTubGxAJhJTjA5coxwRblQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/svg-with-js.g8up1orpa8.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sKmfpVo/2gmgpQGFq6kLaRTubGxAJhJTjA5coxwRblQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8up1orpa8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/svg-with-js.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sKmfpVo/2gmgpQGFq6kLaRTubGxAJhJTjA5coxwRblQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/svg-with-js.min.bugtj7t8im.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gzlXK99VJHAgZz8HeiLEz4Dv5cB/y1tN6W+yQZHoeVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bugtj7t8im"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/svg-with-js.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gzlXK99VJHAgZz8HeiLEz4Dv5cB/y1tN6W+yQZHoeVQ="
         }
       ]
     },
@@ -7500,7 +7693,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10197"
+          "Value": "10202"
         },
         {
           "Name": "Content-Type",
@@ -7508,11 +7701,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pXJNErqquJelSNmS/2PGOZlOaI3p3TaELxMemk5wzeU=\""
+          "Value": "\"gzlXK99VJHAgZz8HeiLEz4Dv5cB/y1tN6W+yQZHoeVQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7522,13 +7715,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pXJNErqquJelSNmS/2PGOZlOaI3p3TaELxMemk5wzeU="
+          "Value": "sha256-gzlXK99VJHAgZz8HeiLEz4Dv5cB/y1tN6W+yQZHoeVQ="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/svg-with-js.min.vv23opoj39.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Route": "lib/font-awesome/css/v4-font-face.bq9pb0xzg0.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7537,7 +7730,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10197"
+          "Value": "1857"
         },
         {
           "Name": "Content-Type",
@@ -7545,11 +7738,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pXJNErqquJelSNmS/2PGOZlOaI3p3TaELxMemk5wzeU=\""
+          "Value": "\"fUewq50rM1a7GjYA4f0l+53ACU4xKT81mLJ+OZ8JEcE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7559,60 +7752,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vv23opoj39"
+          "Value": "bq9pb0xzg0"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/svg-with-js.min.css"
+          "Value": "lib/font-awesome/css/v4-font-face.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pXJNErqquJelSNmS/2PGOZlOaI3p3TaELxMemk5wzeU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/css/svg-with-js.xw9ktltpoq.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12554"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MTDeqkiCIS8hxz7ilEyqtdwwNmw9YNYbAKaFJSi9SYY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xw9ktltpoq"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/css/svg-with-js.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MTDeqkiCIS8hxz7ilEyqtdwwNmw9YNYbAKaFJSi9SYY="
+          "Value": "sha256-fUewq50rM1a7GjYA4f0l+53ACU4xKT81mLJ+OZ8JEcE="
         }
       ]
     },
@@ -7627,7 +7775,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1831"
+          "Value": "1857"
         },
         {
           "Name": "Content-Type",
@@ -7635,11 +7783,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HpJQStRnkovrrWNGCph2oLrev9fZjQ1XG+ORTe2r55Y=\""
+          "Value": "\"fUewq50rM1a7GjYA4f0l+53ACU4xKT81mLJ+OZ8JEcE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7649,7 +7797,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HpJQStRnkovrrWNGCph2oLrev9fZjQ1XG+ORTe2r55Y="
+          "Value": "sha256-fUewq50rM1a7GjYA4f0l+53ACU4xKT81mLJ+OZ8JEcE="
         }
       ]
     },
@@ -7664,7 +7812,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1736"
+          "Value": "1741"
         },
         {
           "Name": "Content-Type",
@@ -7672,11 +7820,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FtjNk9F04RHH2p0imrheuJnTOX1cMFMttJ3fizpOgLs=\""
+          "Value": "\"baj9dPbU+w16mIwKT3SP8AEhh6oyjEmSIGAZxk98rcM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7686,12 +7834,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FtjNk9F04RHH2p0imrheuJnTOX1cMFMttJ3fizpOgLs="
+          "Value": "sha256-baj9dPbU+w16mIwKT3SP8AEhh6oyjEmSIGAZxk98rcM="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/v4-font-face.min.m5ioe6x05t.css",
+      "Route": "lib/font-awesome/css/v4-font-face.min.t0hpuyqp15.css",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7701,7 +7849,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1736"
+          "Value": "1741"
         },
         {
           "Name": "Content-Type",
@@ -7709,11 +7857,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FtjNk9F04RHH2p0imrheuJnTOX1cMFMttJ3fizpOgLs=\""
+          "Value": "\"baj9dPbU+w16mIwKT3SP8AEhh6oyjEmSIGAZxk98rcM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7723,7 +7871,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m5ioe6x05t"
+          "Value": "t0hpuyqp15"
         },
         {
           "Name": "label",
@@ -7731,13 +7879,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FtjNk9F04RHH2p0imrheuJnTOX1cMFMttJ3fizpOgLs="
+          "Value": "sha256-baj9dPbU+w16mIwKT3SP8AEhh6oyjEmSIGAZxk98rcM="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/v4-font-face.utrc60xe8f.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "Route": "lib/font-awesome/css/v4-shims.5688q2ahw9.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7746,7 +7894,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1831"
+          "Value": "40708"
         },
         {
           "Name": "Content-Type",
@@ -7754,11 +7902,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HpJQStRnkovrrWNGCph2oLrev9fZjQ1XG+ORTe2r55Y=\""
+          "Value": "\"o6IdlbvC+KLHCwtpszZfm+NvxEnZW6N1JLsXuIwSam8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7768,15 +7916,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "utrc60xe8f"
+          "Value": "5688q2ahw9"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/v4-font-face.css"
+          "Value": "lib/font-awesome/css/v4-shims.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HpJQStRnkovrrWNGCph2oLrev9fZjQ1XG+ORTe2r55Y="
+          "Value": "sha256-o6IdlbvC+KLHCwtpszZfm+NvxEnZW6N1JLsXuIwSam8="
         }
       ]
     },
@@ -7791,7 +7939,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38514"
+          "Value": "40708"
         },
         {
           "Name": "Content-Type",
@@ -7799,11 +7947,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+BohpHns0sTerX1N7rWQK5LrfsNWZj39LJmHOXY/KmY=\""
+          "Value": "\"o6IdlbvC+KLHCwtpszZfm+NvxEnZW6N1JLsXuIwSam8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7813,7 +7961,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+BohpHns0sTerX1N7rWQK5LrfsNWZj39LJmHOXY/KmY="
+          "Value": "sha256-o6IdlbvC+KLHCwtpszZfm+NvxEnZW6N1JLsXuIwSam8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/v4-shims.min.5e9ayemby9.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DcjhdVBNrIlA4kXi0yz9EyRKCG19st7R2qSKyN0qIeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5e9ayemby9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/v4-shims.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DcjhdVBNrIlA4kXi0yz9EyRKCG19st7R2qSKyN0qIeA="
         }
       ]
     },
@@ -7828,7 +8021,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21211"
+          "Value": "21216"
         },
         {
           "Name": "Content-Type",
@@ -7836,11 +8029,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZlClDYWRJZQA7TVrQk/0/mM7wNH8e+WOF8ePuxMSpwc=\""
+          "Value": "\"DcjhdVBNrIlA4kXi0yz9EyRKCG19st7R2qSKyN0qIeA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7850,97 +8043,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZlClDYWRJZQA7TVrQk/0/mM7wNH8e+WOF8ePuxMSpwc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/css/v4-shims.min.msy1qwdlar.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZlClDYWRJZQA7TVrQk/0/mM7wNH8e+WOF8ePuxMSpwc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "msy1qwdlar"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/css/v4-shims.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZlClDYWRJZQA7TVrQk/0/mM7wNH8e+WOF8ePuxMSpwc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/css/v4-shims.ogfnvmm9u4.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "38514"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+BohpHns0sTerX1N7rWQK5LrfsNWZj39LJmHOXY/KmY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ogfnvmm9u4"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/css/v4-shims.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+BohpHns0sTerX1N7rWQK5LrfsNWZj39LJmHOXY/KmY="
+          "Value": "sha256-DcjhdVBNrIlA4kXi0yz9EyRKCG19st7R2qSKyN0qIeA="
         }
       ]
     },
@@ -7955,7 +8058,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "871"
+          "Value": "893"
         },
         {
           "Name": "Content-Type",
@@ -7963,11 +8066,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qJyrijwOVu03iBaRWXRhEy6xAf5JWQryZyJ+0CpGKPk=\""
+          "Value": "\"GF6cs9g4u1+f7dIhvOaXEC17gscgo0ZoCYvxqDjP5m4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7977,7 +8080,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qJyrijwOVu03iBaRWXRhEy6xAf5JWQryZyJ+0CpGKPk="
+          "Value": "sha256-GF6cs9g4u1+f7dIhvOaXEC17gscgo0ZoCYvxqDjP5m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/v5-font-face.k1zmv2crm2.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GF6cs9g4u1+f7dIhvOaXEC17gscgo0ZoCYvxqDjP5m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1zmv2crm2"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/v5-font-face.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GF6cs9g4u1+f7dIhvOaXEC17gscgo0ZoCYvxqDjP5m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/v5-font-face.min.955tplk0qe.css",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9Nrt9Aus7bCLyABonZYVTkVBhf3K2Cc8FHtPv8BlpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "955tplk0qe"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/v5-font-face.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9Nrt9Aus7bCLyABonZYVTkVBhf3K2Cc8FHtPv8BlpQ="
         }
       ]
     },
@@ -7992,7 +8185,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "794"
+          "Value": "799"
         },
         {
           "Name": "Content-Type",
@@ -8000,11 +8193,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5g5YPOce+V0J+IFtFDH/6fs2TwKfVY2vf3rPeFpYGOc=\""
+          "Value": "\"s9Nrt9Aus7bCLyABonZYVTkVBhf3K2Cc8FHtPv8BlpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8014,13 +8207,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5g5YPOce+V0J+IFtFDH/6fs2TwKfVY2vf3rPeFpYGOc="
+          "Value": "sha256-s9Nrt9Aus7bCLyABonZYVTkVBhf3K2Cc8FHtPv8BlpQ="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/css/v5-font-face.min.qnll27bpxk.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "Route": "lib/font-awesome/js/all.gue51k521r.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\all.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8029,19 +8222,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "794"
+          "Value": "1633640"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"5g5YPOce+V0J+IFtFDH/6fs2TwKfVY2vf3rPeFpYGOc=\""
+          "Value": "\"aBvHu/6nNNdlP6h1vbb8dCphtEOfzYaifUP7nwEVaCI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8051,60 +8244,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qnll27bpxk"
+          "Value": "gue51k521r"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/css/v5-font-face.min.css"
+          "Value": "lib/font-awesome/js/all.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5g5YPOce+V0J+IFtFDH/6fs2TwKfVY2vf3rPeFpYGOc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/css/v5-font-face.wygj0g0egz.css",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "871"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qJyrijwOVu03iBaRWXRhEy6xAf5JWQryZyJ+0CpGKPk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wygj0g0egz"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/css/v5-font-face.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qJyrijwOVu03iBaRWXRhEy6xAf5JWQryZyJ+0CpGKPk="
+          "Value": "sha256-aBvHu/6nNNdlP6h1vbb8dCphtEOfzYaifUP7nwEVaCI="
         }
       ]
     },
@@ -8119,7 +8267,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627440"
+          "Value": "1633640"
         },
         {
           "Name": "Content-Type",
@@ -8127,11 +8275,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DZSytUnV5jOb3FvsoH0hQ9JROx+YiRd+L1RsQwiQR28=\""
+          "Value": "\"aBvHu/6nNNdlP6h1vbb8dCphtEOfzYaifUP7nwEVaCI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8141,7 +8289,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DZSytUnV5jOb3FvsoH0hQ9JROx+YiRd+L1RsQwiQR28="
+          "Value": "sha256-aBvHu/6nNNdlP6h1vbb8dCphtEOfzYaifUP7nwEVaCI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/all.min.hv5vxrtm79.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g3ODoOQKmRv9z9z24oYMvzjJkt31VMVtcL97e/5fOOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hv5vxrtm79"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/all.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3ODoOQKmRv9z9z24oYMvzjJkt31VMVtcL97e/5fOOk="
         }
       ]
     },
@@ -8156,7 +8349,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530755"
+          "Value": "1530760"
         },
         {
           "Name": "Content-Type",
@@ -8164,11 +8357,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BAR0H3Qu2PCfoVr6CtZrcnbK3VKenmUF9C6IqgsNsNU=\""
+          "Value": "\"g3ODoOQKmRv9z9z24oYMvzjJkt31VMVtcL97e/5fOOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8178,13 +8371,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BAR0H3Qu2PCfoVr6CtZrcnbK3VKenmUF9C6IqgsNsNU="
+          "Value": "sha256-g3ODoOQKmRv9z9z24oYMvzjJkt31VMVtcL97e/5fOOk="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/js/all.min.wbpfeoezp3.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Route": "lib/font-awesome/js/brands.3raa3oq41s.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\brands.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8193,7 +8386,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530755"
+          "Value": "511355"
         },
         {
           "Name": "Content-Type",
@@ -8201,11 +8394,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BAR0H3Qu2PCfoVr6CtZrcnbK3VKenmUF9C6IqgsNsNU=\""
+          "Value": "\"7zd1NzVUtIQqa9+hoj674M296x0vwIyYb+n2ajlSfKk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8215,60 +8408,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wbpfeoezp3"
+          "Value": "3raa3oq41s"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/js/all.min.js"
+          "Value": "lib/font-awesome/js/brands.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BAR0H3Qu2PCfoVr6CtZrcnbK3VKenmUF9C6IqgsNsNU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/js/all.vppv4xf58g.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\all.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1627440"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DZSytUnV5jOb3FvsoH0hQ9JROx+YiRd+L1RsQwiQR28=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vppv4xf58g"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/js/all.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DZSytUnV5jOb3FvsoH0hQ9JROx+YiRd+L1RsQwiQR28="
+          "Value": "sha256-7zd1NzVUtIQqa9+hoj674M296x0vwIyYb+n2ajlSfKk="
         }
       ]
     },
@@ -8283,7 +8431,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "510493"
+          "Value": "511355"
         },
         {
           "Name": "Content-Type",
@@ -8291,11 +8439,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fi7Wi6g+dwwCG3zxAkSk3VwUv3oMPb+LAVfd8kuxFdY=\""
+          "Value": "\"7zd1NzVUtIQqa9+hoj674M296x0vwIyYb+n2ajlSfKk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8305,7 +8453,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Fi7Wi6g+dwwCG3zxAkSk3VwUv3oMPb+LAVfd8kuxFdY="
+          "Value": "sha256-7zd1NzVUtIQqa9+hoj674M296x0vwIyYb+n2ajlSfKk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/brands.min.9ipayzgfj9.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X9J+l1xoD0H3RRy/yLPdg0I3D2TKReZCSBep2JzHPPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ipayzgfj9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/brands.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9J+l1xoD0H3RRy/yLPdg0I3D2TKReZCSBep2JzHPPI="
         }
       ]
     },
@@ -8320,7 +8513,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "499125"
+          "Value": "499130"
         },
         {
           "Name": "Content-Type",
@@ -8328,11 +8521,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WIl9rBz8pZUU69KZLwmsxnJR2A0V3Xz6n8whxH1tKYA=\""
+          "Value": "\"X9J+l1xoD0H3RRy/yLPdg0I3D2TKReZCSBep2JzHPPI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8342,142 +8535,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WIl9rBz8pZUU69KZLwmsxnJR2A0V3Xz6n8whxH1tKYA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/js/brands.min.wuwc8kk5a5.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "499125"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WIl9rBz8pZUU69KZLwmsxnJR2A0V3Xz6n8whxH1tKYA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wuwc8kk5a5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/js/brands.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WIl9rBz8pZUU69KZLwmsxnJR2A0V3Xz6n8whxH1tKYA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/js/brands.ytu0mno2ng.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\brands.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "510493"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fi7Wi6g+dwwCG3zxAkSk3VwUv3oMPb+LAVfd8kuxFdY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ytu0mno2ng"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/js/brands.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fi7Wi6g+dwwCG3zxAkSk3VwUv3oMPb+LAVfd8kuxFdY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/js/conflict-detection.a2ww84rxre.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "38929"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rg2xy7pLniWNtAGWHWVnEzRnrBjec69mCf9eMeVwT/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a2ww84rxre"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/js/conflict-detection.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rg2xy7pLniWNtAGWHWVnEzRnrBjec69mCf9eMeVwT/E="
+          "Value": "sha256-X9J+l1xoD0H3RRy/yLPdg0I3D2TKReZCSBep2JzHPPI="
         }
       ]
     },
@@ -8492,7 +8550,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38929"
+          "Value": "40037"
         },
         {
           "Name": "Content-Type",
@@ -8500,11 +8558,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rg2xy7pLniWNtAGWHWVnEzRnrBjec69mCf9eMeVwT/E=\""
+          "Value": "\"vgzPyAVGBYsu04YQqKLwnFUlFTWgUb8EWYKkRjosBak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8514,7 +8572,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rg2xy7pLniWNtAGWHWVnEzRnrBjec69mCf9eMeVwT/E="
+          "Value": "sha256-vgzPyAVGBYsu04YQqKLwnFUlFTWgUb8EWYKkRjosBak="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/conflict-detection.m6li5v56jt.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgzPyAVGBYsu04YQqKLwnFUlFTWgUb8EWYKkRjosBak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m6li5v56jt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/conflict-detection.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgzPyAVGBYsu04YQqKLwnFUlFTWgUb8EWYKkRjosBak="
         }
       ]
     },
@@ -8529,7 +8632,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15853"
+          "Value": "15858"
         },
         {
           "Name": "Content-Type",
@@ -8537,11 +8640,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T/6TIJDCxxbYchJfH0dK7odofG0AdKfvC5RJtncgJIA=\""
+          "Value": "\"ibw8+9oR0mD7aCuPN4hZjZlnF5wn9UazH1lyH25+Cnw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8551,12 +8654,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T/6TIJDCxxbYchJfH0dK7odofG0AdKfvC5RJtncgJIA="
+          "Value": "sha256-ibw8+9oR0mD7aCuPN4hZjZlnF5wn9UazH1lyH25+Cnw="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/js/conflict-detection.min.parinopxbm.js",
+      "Route": "lib/font-awesome/js/conflict-detection.min.ve68dl956r.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8566,7 +8669,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15853"
+          "Value": "15858"
         },
         {
           "Name": "Content-Type",
@@ -8574,11 +8677,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T/6TIJDCxxbYchJfH0dK7odofG0AdKfvC5RJtncgJIA=\""
+          "Value": "\"ibw8+9oR0mD7aCuPN4hZjZlnF5wn9UazH1lyH25+Cnw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8588,7 +8691,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "parinopxbm"
+          "Value": "ve68dl956r"
         },
         {
           "Name": "label",
@@ -8596,7 +8699,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-T/6TIJDCxxbYchJfH0dK7odofG0AdKfvC5RJtncgJIA="
+          "Value": "sha256-ibw8+9oR0mD7aCuPN4hZjZlnF5wn9UazH1lyH25+Cnw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/fontawesome.2zgphq29su.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0iRDfhZL0h2LevUiFAPYAMKXyLyxI9Dj5Z5Pn0DNIdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zgphq29su"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/fontawesome.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0iRDfhZL0h2LevUiFAPYAMKXyLyxI9Dj5Z5Pn0DNIdU="
         }
       ]
     },
@@ -8611,7 +8759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "106548"
+          "Value": "109602"
         },
         {
           "Name": "Content-Type",
@@ -8619,11 +8767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tcj2tSfIsg30lKUqAIO5pAgp9kjfMoGQVpGccpluKfQ=\""
+          "Value": "\"0iRDfhZL0h2LevUiFAPYAMKXyLyxI9Dj5Z5Pn0DNIdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8633,12 +8781,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Tcj2tSfIsg30lKUqAIO5pAgp9kjfMoGQVpGccpluKfQ="
+          "Value": "sha256-0iRDfhZL0h2LevUiFAPYAMKXyLyxI9Dj5Z5Pn0DNIdU="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/js/fontawesome.min.9b4bpgjbx0.js",
+      "Route": "lib/font-awesome/js/fontawesome.min.2216kk74fs.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8648,7 +8796,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49856"
+          "Value": "49861"
         },
         {
           "Name": "Content-Type",
@@ -8656,11 +8804,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ayzx2znbpzG5nQ0bAkbeyDoc9IBzNudRe4OAevLf1hU=\""
+          "Value": "\"JuHkW3uYuBvmT9grv/wmeoZPLD6oaau4loSSyhytxWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8670,7 +8818,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9b4bpgjbx0"
+          "Value": "2216kk74fs"
         },
         {
           "Name": "label",
@@ -8678,7 +8826,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ayzx2znbpzG5nQ0bAkbeyDoc9IBzNudRe4OAevLf1hU="
+          "Value": "sha256-JuHkW3uYuBvmT9grv/wmeoZPLD6oaau4loSSyhytxWs="
         }
       ]
     },
@@ -8693,7 +8841,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49856"
+          "Value": "49861"
         },
         {
           "Name": "Content-Type",
@@ -8701,11 +8849,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ayzx2znbpzG5nQ0bAkbeyDoc9IBzNudRe4OAevLf1hU=\""
+          "Value": "\"JuHkW3uYuBvmT9grv/wmeoZPLD6oaau4loSSyhytxWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8715,13 +8863,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ayzx2znbpzG5nQ0bAkbeyDoc9IBzNudRe4OAevLf1hU="
+          "Value": "sha256-JuHkW3uYuBvmT9grv/wmeoZPLD6oaau4loSSyhytxWs="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/js/fontawesome.r2l44wjr8p.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Route": "lib/font-awesome/js/regular.9d9e83a1kv.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\regular.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8730,7 +8878,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "106548"
+          "Value": "127521"
         },
         {
           "Name": "Content-Type",
@@ -8738,11 +8886,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tcj2tSfIsg30lKUqAIO5pAgp9kjfMoGQVpGccpluKfQ=\""
+          "Value": "\"EwUkY2yKEIvd5E68ueMLZnvXqrFKng1CV4CybUanj0A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8752,15 +8900,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r2l44wjr8p"
+          "Value": "9d9e83a1kv"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/js/fontawesome.js"
+          "Value": "lib/font-awesome/js/regular.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Tcj2tSfIsg30lKUqAIO5pAgp9kjfMoGQVpGccpluKfQ="
+          "Value": "sha256-EwUkY2yKEIvd5E68ueMLZnvXqrFKng1CV4CybUanj0A="
         }
       ]
     },
@@ -8775,7 +8923,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "126991"
+          "Value": "127521"
         },
         {
           "Name": "Content-Type",
@@ -8783,11 +8931,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VvY2tPTQnqbgP/d+6lg8WJOgUeZvHTEFcDNVkpLD1VU=\""
+          "Value": "\"EwUkY2yKEIvd5E68ueMLZnvXqrFKng1CV4CybUanj0A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8797,97 +8945,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VvY2tPTQnqbgP/d+6lg8WJOgUeZvHTEFcDNVkpLD1VU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/js/regular.m56mxgorfm.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\regular.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "126991"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VvY2tPTQnqbgP/d+6lg8WJOgUeZvHTEFcDNVkpLD1VU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m56mxgorfm"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/js/regular.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VvY2tPTQnqbgP/d+6lg8WJOgUeZvHTEFcDNVkpLD1VU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/js/regular.min.iclhr71gek.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "119408"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ug38TqIkk9AhgC5ikVh9zfP3m9vyPVEyQMOHHrD3Tzg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iclhr71gek"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/js/regular.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ug38TqIkk9AhgC5ikVh9zfP3m9vyPVEyQMOHHrD3Tzg="
+          "Value": "sha256-EwUkY2yKEIvd5E68ueMLZnvXqrFKng1CV4CybUanj0A="
         }
       ]
     },
@@ -8902,7 +8960,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "119408"
+          "Value": "119413"
         },
         {
           "Name": "Content-Type",
@@ -8910,11 +8968,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ug38TqIkk9AhgC5ikVh9zfP3m9vyPVEyQMOHHrD3Tzg=\""
+          "Value": "\"bNIaAOLmoDySM5UPyZyo6F2IEGQKTiiwa38YDfKdjQw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8924,13 +8982,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ug38TqIkk9AhgC5ikVh9zfP3m9vyPVEyQMOHHrD3Tzg="
+          "Value": "sha256-bNIaAOLmoDySM5UPyZyo6F2IEGQKTiiwa38YDfKdjQw="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/js/solid.5q5v2m71js.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Route": "lib/font-awesome/js/regular.min.kg8v92k7qy.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8939,7 +8997,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "884065"
+          "Value": "119413"
         },
         {
           "Name": "Content-Type",
@@ -8947,11 +9005,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vTjuF09NINxyfXxgVvDBq7+2cEsheMKFjH/7UZChrb4=\""
+          "Value": "\"bNIaAOLmoDySM5UPyZyo6F2IEGQKTiiwa38YDfKdjQw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8961,7 +9019,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5q5v2m71js"
+          "Value": "kg8v92k7qy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/regular.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bNIaAOLmoDySM5UPyZyo6F2IEGQKTiiwa38YDfKdjQw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/solid.hjacfnjn0d.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "885834"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdvnq2Nzm08ljL1Bxf3Doa42ov9ggz1rZN7vhK12v/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjacfnjn0d"
         },
         {
           "Name": "label",
@@ -8969,7 +9072,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vTjuF09NINxyfXxgVvDBq7+2cEsheMKFjH/7UZChrb4="
+          "Value": "sha256-Xdvnq2Nzm08ljL1Bxf3Doa42ov9ggz1rZN7vhK12v/Q="
         }
       ]
     },
@@ -8984,7 +9087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "884065"
+          "Value": "885834"
         },
         {
           "Name": "Content-Type",
@@ -8992,11 +9095,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vTjuF09NINxyfXxgVvDBq7+2cEsheMKFjH/7UZChrb4=\""
+          "Value": "\"Xdvnq2Nzm08ljL1Bxf3Doa42ov9ggz1rZN7vhK12v/Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9006,7 +9109,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vTjuF09NINxyfXxgVvDBq7+2cEsheMKFjH/7UZChrb4="
+          "Value": "sha256-Xdvnq2Nzm08ljL1Bxf3Doa42ov9ggz1rZN7vhK12v/Q="
         }
       ]
     },
@@ -9021,7 +9124,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "863023"
+          "Value": "863028"
         },
         {
           "Name": "Content-Type",
@@ -9029,11 +9132,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9aROWhb5kGXN7AsbsRB1r8QvxwgRf1+Nz13bssxuKd8=\""
+          "Value": "\"d+bqfoI+zozLlT+9RBasHBf/mKYfmPH12BgojWtpMoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9043,12 +9146,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9aROWhb5kGXN7AsbsRB1r8QvxwgRf1+Nz13bssxuKd8="
+          "Value": "sha256-d+bqfoI+zozLlT+9RBasHBf/mKYfmPH12BgojWtpMoo="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/js/solid.min.n9b8won2d5.js",
+      "Route": "lib/font-awesome/js/solid.min.xiijpfapsk.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9058,7 +9161,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "863023"
+          "Value": "863028"
         },
         {
           "Name": "Content-Type",
@@ -9066,11 +9169,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9aROWhb5kGXN7AsbsRB1r8QvxwgRf1+Nz13bssxuKd8=\""
+          "Value": "\"d+bqfoI+zozLlT+9RBasHBf/mKYfmPH12BgojWtpMoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9080,7 +9183,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n9b8won2d5"
+          "Value": "xiijpfapsk"
         },
         {
           "Name": "label",
@@ -9088,52 +9191,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9aROWhb5kGXN7AsbsRB1r8QvxwgRf1+Nz13bssxuKd8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/font-awesome/js/v4-shims.e9652imd4e.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35459"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8hgHeeBCf5IsiRkmyprAeoJelfPfLTKgC8dLgUj2tdg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e9652imd4e"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/font-awesome/js/v4-shims.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8hgHeeBCf5IsiRkmyprAeoJelfPfLTKgC8dLgUj2tdg="
+          "Value": "sha256-d+bqfoI+zozLlT+9RBasHBf/mKYfmPH12BgojWtpMoo="
         }
       ]
     },
@@ -9148,7 +9206,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35459"
+          "Value": "35797"
         },
         {
           "Name": "Content-Type",
@@ -9156,11 +9214,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8hgHeeBCf5IsiRkmyprAeoJelfPfLTKgC8dLgUj2tdg=\""
+          "Value": "\"L0CWhlu7K09MPMZJCHqHwIBeBL4DMXiooo7RXAa3yPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9170,13 +9228,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8hgHeeBCf5IsiRkmyprAeoJelfPfLTKgC8dLgUj2tdg="
+          "Value": "sha256-L0CWhlu7K09MPMZJCHqHwIBeBL4DMXiooo7RXAa3yPM="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/js/v4-shims.min.1il7se3zg6.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Route": "lib/font-awesome/js/v4-shims.jzj4qao3iy.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9185,7 +9243,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28077"
+          "Value": "35797"
         },
         {
           "Name": "Content-Type",
@@ -9193,11 +9251,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mewPC+3nMOMWUGtf3oYde3Vd/yCoBVRCOF9cEJ1xETU=\""
+          "Value": "\"L0CWhlu7K09MPMZJCHqHwIBeBL4DMXiooo7RXAa3yPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9207,15 +9265,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1il7se3zg6"
+          "Value": "jzj4qao3iy"
         },
         {
           "Name": "label",
-          "Value": "lib/font-awesome/js/v4-shims.min.js"
+          "Value": "lib/font-awesome/js/v4-shims.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mewPC+3nMOMWUGtf3oYde3Vd/yCoBVRCOF9cEJ1xETU="
+          "Value": "sha256-L0CWhlu7K09MPMZJCHqHwIBeBL4DMXiooo7RXAa3yPM="
         }
       ]
     },
@@ -9230,7 +9288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28077"
+          "Value": "28082"
         },
         {
           "Name": "Content-Type",
@@ -9238,11 +9296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mewPC+3nMOMWUGtf3oYde3Vd/yCoBVRCOF9cEJ1xETU=\""
+          "Value": "\"Ybkjef9d2v7lri46DAnuYovKfEM6kI3hZUEX1bKo7PM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9252,13 +9310,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mewPC+3nMOMWUGtf3oYde3Vd/yCoBVRCOF9cEJ1xETU="
+          "Value": "sha256-Ybkjef9d2v7lri46DAnuYovKfEM6kI3hZUEX1bKo7PM="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/sprites/brands.4abcade5u8.svg",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Route": "lib/font-awesome/js/v4-shims.min.n20pe3kujq.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9267,19 +9325,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511868"
+          "Value": "28082"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/svg+xml"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"HIKr0SzvKchquBkhgC+BkFqRyhq98P8A84qYEc3ZLXk=\""
+          "Value": "\"Ybkjef9d2v7lri46DAnuYovKfEM6kI3hZUEX1bKo7PM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9289,7 +9347,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4abcade5u8"
+          "Value": "n20pe3kujq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/v4-shims.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybkjef9d2v7lri46DAnuYovKfEM6kI3hZUEX1bKo7PM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/sprites/brands.orkfluj8j5.svg",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HEwElkOBjbTYQXW6gv2cz77/Z3wHj6Hvu2g+o3wPDVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orkfluj8j5"
         },
         {
           "Name": "label",
@@ -9297,7 +9400,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HIKr0SzvKchquBkhgC+BkFqRyhq98P8A84qYEc3ZLXk="
+          "Value": "sha256-HEwElkOBjbTYQXW6gv2cz77/Z3wHj6Hvu2g+o3wPDVw="
         }
       ]
     },
@@ -9312,7 +9415,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511868"
+          "Value": "513360"
         },
         {
           "Name": "Content-Type",
@@ -9320,11 +9423,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HIKr0SzvKchquBkhgC+BkFqRyhq98P8A84qYEc3ZLXk=\""
+          "Value": "\"HEwElkOBjbTYQXW6gv2cz77/Z3wHj6Hvu2g+o3wPDVw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9334,12 +9437,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HIKr0SzvKchquBkhgC+BkFqRyhq98P8A84qYEc3ZLXk="
+          "Value": "sha256-HEwElkOBjbTYQXW6gv2cz77/Z3wHj6Hvu2g+o3wPDVw="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/sprites/regular.huwngg65ec.svg",
+      "Route": "lib/font-awesome/sprites/regular.6r61km5k9r.svg",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9349,7 +9452,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "118524"
+          "Value": "119020"
         },
         {
           "Name": "Content-Type",
@@ -9357,11 +9460,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9wm7uvrFdLTNiKOXt7x+aCp9Ot8CQ5b7UAWl/fO6W88=\""
+          "Value": "\"ctQIVICSpO0+yUaqeF6UCVc5iKCVN9xd9yOpfk1i5qs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9371,7 +9474,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "huwngg65ec"
+          "Value": "6r61km5k9r"
         },
         {
           "Name": "label",
@@ -9379,7 +9482,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9wm7uvrFdLTNiKOXt7x+aCp9Ot8CQ5b7UAWl/fO6W88="
+          "Value": "sha256-ctQIVICSpO0+yUaqeF6UCVc5iKCVN9xd9yOpfk1i5qs="
         }
       ]
     },
@@ -9394,7 +9497,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "118524"
+          "Value": "119020"
         },
         {
           "Name": "Content-Type",
@@ -9402,11 +9505,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9wm7uvrFdLTNiKOXt7x+aCp9Ot8CQ5b7UAWl/fO6W88=\""
+          "Value": "\"ctQIVICSpO0+yUaqeF6UCVc5iKCVN9xd9yOpfk1i5qs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9416,12 +9519,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9wm7uvrFdLTNiKOXt7x+aCp9Ot8CQ5b7UAWl/fO6W88="
+          "Value": "sha256-ctQIVICSpO0+yUaqeF6UCVc5iKCVN9xd9yOpfk1i5qs="
         }
       ]
     },
     {
-      "Route": "lib/font-awesome/sprites/solid.22n2g2hpag.svg",
+      "Route": "lib/font-awesome/sprites/solid.5uz0r8yt9v.svg",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9431,7 +9534,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "896711"
+          "Value": "900924"
         },
         {
           "Name": "Content-Type",
@@ -9439,11 +9542,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OomfC+VCcdkpmkWSTwaWqzRO/5XfkVt4DoVN0sGt70s=\""
+          "Value": "\"k88jcyctqfOmv+vkMnbTR6LonKBHakQ1/aYJlvGQiLQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9453,7 +9556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "22n2g2hpag"
+          "Value": "5uz0r8yt9v"
         },
         {
           "Name": "label",
@@ -9461,7 +9564,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OomfC+VCcdkpmkWSTwaWqzRO/5XfkVt4DoVN0sGt70s="
+          "Value": "sha256-k88jcyctqfOmv+vkMnbTR6LonKBHakQ1/aYJlvGQiLQ="
         }
       ]
     },
@@ -9476,7 +9579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "896711"
+          "Value": "900924"
         },
         {
           "Name": "Content-Type",
@@ -9484,11 +9587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OomfC+VCcdkpmkWSTwaWqzRO/5XfkVt4DoVN0sGt70s=\""
+          "Value": "\"k88jcyctqfOmv+vkMnbTR6LonKBHakQ1/aYJlvGQiLQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9498,7 +9601,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OomfC+VCcdkpmkWSTwaWqzRO/5XfkVt4DoVN0sGt70s="
+          "Value": "sha256-k88jcyctqfOmv+vkMnbTR6LonKBHakQ1/aYJlvGQiLQ="
         }
       ]
     },
@@ -9525,7 +9628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9570,7 +9673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9615,7 +9718,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9652,7 +9755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9689,7 +9792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9734,7 +9837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9779,7 +9882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9816,7 +9919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9853,7 +9956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9898,7 +10001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9943,7 +10046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9980,7 +10083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10017,7 +10120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10062,7 +10165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10099,7 +10202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10136,7 +10239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:20:07 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10181,7 +10284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10226,7 +10329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10263,7 +10366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10308,7 +10411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10353,7 +10456,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10390,7 +10493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10427,7 +10530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10472,7 +10575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10509,7 +10612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10554,7 +10657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10591,7 +10694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10636,7 +10739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10673,7 +10776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10718,7 +10821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10755,7 +10858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10792,7 +10895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10837,7 +10940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10874,7 +10977,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10919,7 +11022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10964,7 +11067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11001,7 +11104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11046,7 +11149,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11083,7 +11186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11128,7 +11231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 01:29:19 GMT"
+          "Value": "Wed, 12 Feb 2025 23:07:34 GMT"
         },
         {
           "Name": "Cache-Control",

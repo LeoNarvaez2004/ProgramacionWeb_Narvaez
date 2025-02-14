@@ -7,6 +7,8 @@
             res = await res.json();
         else if (tipoRespuesta == "text")
             res = res.text();
+        else if (tipoRespuesta == "none")
+            res = null;
 
         callback(res);
     } catch (e) {

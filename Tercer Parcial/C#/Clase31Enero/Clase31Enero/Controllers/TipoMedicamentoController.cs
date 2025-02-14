@@ -39,6 +39,15 @@ namespace Clase31Enero.Controllers
             var cadenaDato = root.GetConnectionString("cn");
             return cadenaDato;
         }
-
+        public void eliminarMed(int id)
+        {
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            obj.EliminarMedicamento(id);
+        }
+        public List<FiltrarMedicamentoCLS> filtrarMedicamento(int idMed, string nombre, int idLab, int idTip)
+        {
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            return obj.FiltrarMedicamento(idMed, nombre, idLab, idTip);
+        }
     }
 }
