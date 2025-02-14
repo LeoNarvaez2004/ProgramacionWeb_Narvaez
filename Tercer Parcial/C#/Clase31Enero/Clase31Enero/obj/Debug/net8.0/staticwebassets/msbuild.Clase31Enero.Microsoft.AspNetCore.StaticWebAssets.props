@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uqealjzjr3</Fingerprint>
-      <Integrity>Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=</Integrity>
+      <Fingerprint>0z5j624p1t</Fingerprint>
+      <Integrity>/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tipoMedicamento.js'))</OriginalItemSpec>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LA8VVnZI87/Lls8LKicfKoZUw03f9DgNVGwTKZzNTME=",
+  "Hash": "f6GIHIvRhxtkPj46XOGLdoORfcF1g8P0X88pZFVYNoM=",
   "Source": "Clase31Enero",
   "BasePath": "_content/Clase31Enero",
   "Mode": "Default",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uqealjzjr3",
-      "Integrity": "Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=",
+      "Fingerprint": "0z5j624p1t",
+      "Integrity": "/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\tipoMedicamento.js"
@@ -2964,6 +2964,51 @@
       ]
     },
     {
+      "Route": "js/tipoMedicamento.0z5j624p1t.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 20:41:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z5j624p1t"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tipoMedicamento.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4="
+        }
+      ]
+    },
+    {
       "Route": "js/tipoMedicamento.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
       "Selectors": [],
@@ -2974,7 +3019,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1841"
+          "Value": "1848"
         },
         {
           "Name": "Content-Type",
@@ -2982,11 +3027,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=\""
+          "Value": "\"/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 20:37:09 GMT"
+          "Value": "Fri, 14 Feb 2025 20:41:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2996,52 +3041,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA="
-        }
-      ]
-    },
-    {
-      "Route": "js/tipoMedicamento.uqealjzjr3.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1841"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 20:37:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uqealjzjr3"
-        },
-        {
-          "Name": "label",
-          "Value": "js/tipoMedicamento.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA="
+          "Value": "sha256-/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4="
         }
       ]
     },

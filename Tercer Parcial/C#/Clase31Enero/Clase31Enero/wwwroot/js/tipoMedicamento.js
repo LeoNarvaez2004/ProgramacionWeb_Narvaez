@@ -41,7 +41,7 @@ async function filtraTipoMed() {
 
 async function Limpiar() {
 
-    document.getElementById("nombre").value = "";
+    document.getElementById("nombreTipoMed").value = "";
 
     pintar({
         url: "TipoMedicamento/FiltrarTipoMedicamento/?nombre=",

@@ -84,17 +84,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XxBeExQI8xV\u002BflREIKoLe0RScP\u002B/L8feVsJQeve0ke8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"856"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022XxBeExQI8xV\u002BflREIKoLe0RScP\u002B/L8feVsJQeve0ke8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 20:21:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Clase31Enero/js/tipoMedicamento.0z5j624p1t.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tipoMedicamento.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0z5j624p1t"},{"Name":"integrity","Value":"sha256-/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4="},{"Name":"label","Value":"_content/Clase31Enero/js/tipoMedicamento.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1848"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 20:41:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Clase31Enero/js/tipoMedicamento.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tipoMedicamento.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1841"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 20:37:09 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Clase31Enero/js/tipoMedicamento.uqealjzjr3.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tipoMedicamento.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uqealjzjr3"},{"Name":"integrity","Value":"sha256-Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA="},{"Name":"label","Value":"_content/Clase31Enero/js/tipoMedicamento.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1841"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 20:37:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1848"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 20:41:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Clase31Enero/lib/bootstrap/dist/css/bootstrap-grid.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
