@@ -76,6 +76,54 @@ namespace CapaDatos
                 }
             }
         }
+
+        public List<TipoMedicamentoCLS> FiltrarTipoMedicamento(string nombre)
+        {
+            List<TipoMedicamentoCLS> lista = null;
+            IConfigurationBuilder cfg = new ConfigurationBuilder();
+            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
+            var root = cfg.Build();
+            var cadenaDato = root.GetConnectionString("cn");
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspFiltrarTipoMedicamento", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        if (nombre == null)
+                        {
+                            nombre = "";
+                        }
+                        cmd.Parameters.AddWithValue("@nombretipomedicamento", nombre);
+                        SqlDataReader dr = cmd.ExecuteReader();
+                        if (dr != null)
+                        {
+                            TipoMedicamentoCLS medCLS;
+                            lista = new List<TipoMedicamentoCLS>();
+                            while (dr.Read())
+                            {
+                                medCLS = new TipoMedicamentoCLS();
+                                medCLS.idTipoMedicamento = dr.GetInt32(0);
+                                medCLS.nombre = dr.GetString(1);
+                                medCLS.descripcion = dr.GetString(2);
+                                lista.Add(medCLS);
+                            }
+
+                        }
+                    }
+
+                }
+                catch (Exception)
+                {
+
+                }
+            }
+            return lista;
+        }
+
         public List<FiltrarMedicamentoCLS> FiltrarMedicamento(int idMed,string nombre,int idLab,int idTip)
         {
             List<FiltrarMedicamentoCLS> lista = null;

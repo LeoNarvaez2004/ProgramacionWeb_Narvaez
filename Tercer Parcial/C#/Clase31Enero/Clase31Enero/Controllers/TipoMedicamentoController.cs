@@ -49,5 +49,10 @@ namespace Clase31Enero.Controllers
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
             return obj.FiltrarMedicamento(idMed, nombre, idLab, idTip);
         }
+        public List<TipoMedicamentoCLS> FiltrarTipoMedicamento(string nombre)
+        {
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            return obj.FiltrarTipoMedicamento(nombre);
+        }
     }
 }

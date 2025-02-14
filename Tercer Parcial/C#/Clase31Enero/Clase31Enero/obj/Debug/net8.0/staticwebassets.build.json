@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S+fQHb2x/U4UgTRsiLdlTypEFELS4rT2E86PiZEhu/Y=",
+  "Hash": "LA8VVnZI87/Lls8LKicfKoZUw03f9DgNVGwTKZzNTME=",
   "Source": "Clase31Enero",
   "BasePath": "_content/Clase31Enero",
   "Mode": "Default",
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rjh78avka0",
-      "Integrity": "aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo=",
+      "Fingerprint": "37il9yd2uo",
+      "Integrity": "XxBeExQI8xV+flREIKoLe0RScP+/L8feVsJQeve0ke8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Sucursal.js"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "akd8bix1vz",
-      "Integrity": "qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4=",
+      "Fingerprint": "uqealjzjr3",
+      "Integrity": "Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\tipoMedicamento.js"
@@ -2882,6 +2882,51 @@
       ]
     },
     {
+      "Route": "js/Sucursal.37il9yd2uo.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XxBeExQI8xV+flREIKoLe0RScP+/L8feVsJQeve0ke8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 20:21:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37il9yd2uo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Sucursal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XxBeExQI8xV+flREIKoLe0RScP+/L8feVsJQeve0ke8="
+        }
+      ]
+    },
+    {
       "Route": "js/Sucursal.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
       "Selectors": [],
@@ -2892,7 +2937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "853"
+          "Value": "856"
         },
         {
           "Name": "Content-Type",
@@ -2900,11 +2945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo=\""
+          "Value": "\"XxBeExQI8xV+flREIKoLe0RScP+/L8feVsJQeve0ke8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 19:59:44 GMT"
+          "Value": "Fri, 14 Feb 2025 20:21:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2914,97 +2959,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo="
-        }
-      ]
-    },
-    {
-      "Route": "js/Sucursal.rjh78avka0.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "853"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 19:59:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rjh78avka0"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Sucursal.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aUsZXYaD2yeG7HMtpnvt61AHCFLjLj4Cv3pf1wUWRYo="
-        }
-      ]
-    },
-    {
-      "Route": "js/tipoMedicamento.akd8bix1vz.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1164"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 23:07:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "akd8bix1vz"
-        },
-        {
-          "Name": "label",
-          "Value": "js/tipoMedicamento.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4="
+          "Value": "sha256-XxBeExQI8xV+flREIKoLe0RScP+/L8feVsJQeve0ke8="
         }
       ]
     },
@@ -3019,7 +2974,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1164"
+          "Value": "1841"
         },
         {
           "Name": "Content-Type",
@@ -3027,11 +2982,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4=\""
+          "Value": "\"Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 23:07:37 GMT"
+          "Value": "Fri, 14 Feb 2025 20:37:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3041,7 +2996,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qrnp1cQXOz8m2x2NdTaoyEK2/9qLWIK5W9B7jgnMXN4="
+          "Value": "sha256-Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA="
+        }
+      ]
+    },
+    {
+      "Route": "js/tipoMedicamento.uqealjzjr3.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 20:37:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqealjzjr3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tipoMedicamento.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jrqgy8RUvy1/mPMpQQpfaQXtnYEUatvlxur4/jL5guA="
         }
       ]
     },

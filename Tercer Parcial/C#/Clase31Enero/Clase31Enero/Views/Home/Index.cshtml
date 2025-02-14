@@ -5,8 +5,7 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
-<div id="divTabla">
-</div>
+
 
 
 <div class="input-group input-group-sm mb-3">
@@ -34,7 +33,16 @@
 </div>
 <button type="button" onclick="filtrarMedicamento()" class="btn btn-outline-primary">Filtrar</button>
 
+<div class="input-group input-group-sm mb-3">
+    <span class="input-group-text" id="inputGroup-sizing-sm">Tipo Medicamento nombre</span>
+    <input type="text" id="nombreTipoMed" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+</div>
+<button type="button" onclick="filtraTipoMed()" class="btn btn-outline-primary">Filtrar</button>
 <div id="divTabla">
+</div>
+
+<div class="col-12">
+    <button onclick="Limpiar()" class="btn btn-primary" type="button">Limpiar</button>
 </div>
 
 <script src="~/js/queries.js"></script>

@@ -10,7 +10,7 @@ async function listarSucursal() {
     });
 }
 
-async function recuSucursal() {
+async function filtrarSucursal() {
     let id = document.getElementById("idSucur").value;
     pintar({
         url: "Sucursal/FiltrarSucursal?id=" + id,

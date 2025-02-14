@@ -10,6 +10,11 @@ namespace Clase03Feb
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
             return obj.listarTipoMedicamento();
         }
+        public List<TipoMedicamentoCLS> FiltrarTipoMedicamento(string nombre)
+        {
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            return obj.FiltrarTipoMedicamento(nombre);
+        }
 
         public void eliminarMed(int id)
         {
