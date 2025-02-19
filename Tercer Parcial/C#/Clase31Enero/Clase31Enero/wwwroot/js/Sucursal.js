@@ -6,14 +6,26 @@ async function listarSucursal() {
     pintar({
         url: "sucursal/listarSucursal",
         cabeceras: ["Id Sucursal", "Nombre", "Direccion"],
-        propiedades: ["idSucursal", "nombre", "direccion"]
+        propiedades: ["idSucursal", "nombre", "direccion"],
+        divContenedor: "divContenedor"
     });
+}
+
+function buscarSuc() {
+    let hola = '0';
+    let forma = document.getElementById("frmBusqueda");
+    let frm = new FormData(forma);
+
+    fetchPost("Sucursal/FiltrarSucursal", "json", frm, function (res) {
+        document.getElementById("divContenedor").innerHTML = generarTabla(res);
+    })
 }
 
 async function filtrarSucursal() {
     let id = document.getElementById("idSucur").value;
+    let idn = document.getElementById("idSucurd").value;
     pintar({
-        url: "Sucursal/FiltrarSucursal?id=" + id,
+        url: "Sucursal/FiltrarSucursal?id=" + id + "&idn=" + idn,
         cabeceras: ["ID Sucursal", "Nombre", "Descripcion"],
         propiedades: ["idSucursal", "nombre", "direccion"]
     });
@@ -27,4 +39,8 @@ async function Limpiar() {
         cabeceras: ["Id Sucursal", "Nombre", "Direccion"],
         propiedades: ["idSucursal", "nombre", "direccion"]
     });
+}
+function LimpiarSuc() {
+    limpiarDatos("frmBusqueda"); // Limpia los campos del formulario
+    listarSucursal(); // Vuelve a listar los laboratorios
 }

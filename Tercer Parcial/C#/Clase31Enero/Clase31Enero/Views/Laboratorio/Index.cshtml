@@ -9,26 +9,26 @@
 <script src="~/js/laboratorio.js"></script>
 
 <fieldset>
-    <legend>Buscar</legend>
-
-    <div class="input-group input-group-sm mb-3">
-        <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
-        <input type="text" id="nombre" onkeyup="filtrarLaboratorio()" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-    </div>
-    <div class="input-group input-group-sm mb-3">
-        <span class="input-group-text" id="inputGroup-sizing-sm">Direccion</span>
-        <input type="text" id="direccion" onkeyup="filtrarLaboratorio()" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-    </div>
-    <div class="input-group input-group-sm mb-3">
-        <span class="input-group-text" id="inputGroup-sizing-sm">Contacto</span>
-        <input type="text" id="persona" onkeyup="filtrarLaboratorio()" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-    </div>
-    <button type="button" onclick="filtrarLaboratorio()" class="btn btn-outline-primary">Filtrar</button>
-
-    <div id="divTabla">
-    </div>
-
-    <div class="col-12">
-        <button onclick="Limpiar()" class="btn btn-primary" type="button">Limpiar</button>
-    </div>
+    <legend>Buscar laboratorio</legend>
+    <form id="frmBusqueda" method="POST">
+        <div class="input-group input-group-sm mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
+            <input type="text" name="nombre" id="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        </div>
+        <div class="input-group input-group-sm mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-sm">Direccion</span>
+            <input type="text" name="direccion" id="direccion" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        </div>
+        <div class="input-group input-group-sm mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-sm">Contacto</span>
+            <input type="text" name="contacto" id="contacto" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        </div>
+        <button type="button" onclick="buscarLab()" class="btn btn-outline-primary">Filtrar</button>
+        <div id="divTabla">
+            <div id="divContenedor"></div>
+        </div>
+        <div class="col-12">
+            <button onclick="LimpiarLab()" class="btn btn-primary" type="button">Limpiar</button>
+        </div>
+    </form>
 </fieldset>

@@ -15,10 +15,10 @@ namespace Clase03Feb
             LaboratorioDAL obj = new LaboratorioDAL();
             return obj.ListarLaboratorio();
         }
-        public List<LaboratorioCLS> FiltrarLaboratorio(string nombre, string direccion, string persona)
+        public List<LaboratorioCLS> FiltrarLaboratorio(LaboratorioCLS objLab)
         {
             LaboratorioDAL obj = new LaboratorioDAL();
-            return obj.FiltrarLaboratorio(nombre, direccion, persona);
+            return obj.FiltrarLaboratorio(objLab);
         }
     }
 }

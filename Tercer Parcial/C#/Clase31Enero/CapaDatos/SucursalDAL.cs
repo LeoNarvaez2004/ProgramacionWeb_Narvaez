@@ -52,7 +52,7 @@ namespace CapaDatos
             }
             return lista;
         }
-        public List<SucursalCLS> FiltrarSucursal(string nombre)
+        public List<SucursalCLS> FiltrarSucursal(SucursalCLS obj)
         {
             List<SucursalCLS> lista = null;
             IConfigurationBuilder cfg = new ConfigurationBuilder();
@@ -68,11 +68,9 @@ namespace CapaDatos
                     using (SqlCommand cmd = new SqlCommand("uspFiltrarSucursal", cn))
                     {
                         cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                        if (nombre == null)
-                        {
-                            nombre = "";
-                        }
-                        cmd.Parameters.AddWithValue("@nombresucursal", nombre);
+                        
+                        cmd.Parameters.AddWithValue("@nombresucursal", obj.nombre == null ? "" : obj.nombre);
+                        cmd.Parameters.AddWithValue("@direccion", obj.direccion == null ? "" : obj.direccion);
                         SqlDataReader dr = cmd.ExecuteReader();
                         if (dr != null)
                         {

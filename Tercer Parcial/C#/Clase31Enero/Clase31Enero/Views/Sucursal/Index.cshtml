@@ -6,16 +6,20 @@
 <h1>Sucursales</h1>
 <script src="~/js/sucursal.js"></script>
 <script src="~/js/queries.js"></script>
-
+<form id="frmBusqueda" method="POST"> 
 <div class="input-group input-group-sm mb-3">
     <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
-    <input type="text" id="idSucur" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+    <input type="text" id="idSucur" name ="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
 </div>
-<button type="button" onclick="filtrarSucursal()" class="btn btn-outline-primary">Nombre</button>
-
+    <div class="input-group input-group-sm mb-3">
+        <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
+        <input type="text" id="idSucurD" name="direccion" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+    </div>
+<button type="button" onclick="buscarSuc()" class="btn btn-outline-primary">Filtrar</button>
+</form>
 <div id="divTabla">
 </div>
 
 <div class="col-12">
-    <button onclick="Limpiar()" class="btn btn-primary" type="button">Limpiar</button>
+    <button onclick="LimpiarSuc()" class="btn btn-primary" type="button">Limpiar</button>
 </div>

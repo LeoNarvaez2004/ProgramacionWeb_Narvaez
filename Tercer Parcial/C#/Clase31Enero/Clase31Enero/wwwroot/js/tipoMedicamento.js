@@ -4,6 +4,7 @@
 }
 
 let objTipoMedicamento;
+/*
 function fitrarTipoMedicamento() {
     let nombre = document.getElementById("nombreTipoMed").value;
     if (nombre === "") {
@@ -13,7 +14,12 @@ function fitrarTipoMedicamento() {
         pintar(objTipoMedicamento);
     }
 }
-
+async function eliminarMed() {
+    let id = document.getElementById("idEli").value;
+    fetchGet("TipoMedicamento/eliminarMed/?id=" + id, "none", function (res) { });
+    alert(id);
+}
+*/
 async function listarTipoMedicamento() {
     objTipoMedicamento = {
         url: "TipoMedicamento/listarMedicamento",
@@ -23,12 +29,7 @@ async function listarTipoMedicamento() {
     pintar(objTipoMedicamento);
 }
 
-/*
-async function eliminarMed() {
-    let id = document.getElementById("idEli").value;
-    fetchGet("TipoMedicamento/eliminarMed/?id=" + id, "none", function (res) { });
-    alert(id);
-}
+
 
 async function filtrarMedicamento() {
     let id = document.getElementById("idMed").value;
@@ -42,7 +43,7 @@ async function filtrarMedicamento() {
         propiedades: ["idMedicamento", "nombre", "idLaboratorio", "idTipoMedicamento"]
     });
 }
-*/
+
 
 async function filtraTipoMed() {
     let nombre = document.getElementById("nombreTipoMed").value;

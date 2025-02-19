@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qouf2irnkw</Fingerprint>
-      <Integrity>GoNArcCfNMQpspW+NzFyzQqG4xZ2WTjiIcJFZPHXBBg=</Integrity>
+      <Fingerprint>81167krrru</Fingerprint>
+      <Integrity>vPE2IYvMzLlNLrUD9hsnq+jehrfhoK7huoHWg1pkVUM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Laboratorio.js'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bcocso31ae</Fingerprint>
-      <Integrity>xY38hWPBxMiRjzNxNYwOYGyZfOxZSKlDuGSlBu9Nt5s=</Integrity>
+      <Fingerprint>43p9qsfgs5</Fingerprint>
+      <Integrity>wN5+7a3smfbRgshCDP21yGf71/4vMN5iDUgj60t5DPk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\queries.js'))</OriginalItemSpec>
@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>37il9yd2uo</Fingerprint>
-      <Integrity>XxBeExQI8xV+flREIKoLe0RScP+/L8feVsJQeve0ke8=</Integrity>
+      <Fingerprint>fsfy9wxq1k</Fingerprint>
+      <Integrity>bz2oAmu3tOdkMVyXrBJMcxrSsFMvGo7fVf+YpxZCs/o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Sucursal.js'))</OriginalItemSpec>
@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pyufsxwvr3</Fingerprint>
-      <Integrity>fzWFuFBDeVW52X+VQupnJ+/e+Q1FtyX7OFo0Qwa+nbg=</Integrity>
+      <Fingerprint>9i4gizp1wb</Fingerprint>
+      <Integrity>0QjQsDNN3QgRIiRMXobf1XTFiP3sZ+vj87OvPwZ1F3A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tipoMedicamento.js'))</OriginalItemSpec>

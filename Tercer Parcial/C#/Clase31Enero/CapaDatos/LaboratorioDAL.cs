@@ -53,7 +53,7 @@ namespace CapaDatos
             }
             return lista;
         }
-        public List<LaboratorioCLS> FiltrarLaboratorio(string nombre, string direccion, string personaCont)
+        public List<LaboratorioCLS> FiltrarLaboratorio(LaboratorioCLS obj)
         {
             List<LaboratorioCLS> lista = null;
             IConfigurationBuilder cfg = new ConfigurationBuilder();
@@ -69,9 +69,9 @@ namespace CapaDatos
                     using (SqlCommand cmd = new SqlCommand("uspFiltrarLaboratorio", cn))
                     {
                         cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                        cmd.Parameters.AddWithValue("@nombre", string.IsNullOrEmpty(nombre) ? "" : nombre);
-                        cmd.Parameters.AddWithValue("@direccion", string.IsNullOrEmpty(direccion) ? "" : direccion);
-                        cmd.Parameters.AddWithValue("@personacontacto", string.IsNullOrEmpty(personaCont) ? "" : personaCont);
+                        cmd.Parameters.AddWithValue("@nombre", string.IsNullOrEmpty(obj.nombre) ? "" : obj.nombre);
+                        cmd.Parameters.AddWithValue("@direccion", string.IsNullOrEmpty(obj.direccion) ? "" : obj.direccion);
+                        cmd.Parameters.AddWithValue("@personacontacto", string.IsNullOrEmpty(obj.contacto) ? "" : obj.contacto);
 
                         SqlDataReader dr = cmd.ExecuteReader();
                         if (dr != null)

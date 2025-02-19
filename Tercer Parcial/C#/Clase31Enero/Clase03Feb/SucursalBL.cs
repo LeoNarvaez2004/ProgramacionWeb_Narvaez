@@ -15,10 +15,10 @@ namespace Clase03Feb
             SucursalDAL obj = new SucursalDAL();
             return obj.ListarSucursal();
         }
-        public List<SucursalCLS> FiltrarSucursal(string id)
+        public List<SucursalCLS> FiltrarSucursal(SucursalCLS objSuc)
         {
             SucursalDAL obj = new SucursalDAL();
-            return obj.FiltrarSucursal(id);
+            return obj.FiltrarSucursal(objSuc);
         }
     }
 }

@@ -7,7 +7,9 @@ async function listarLaboratorio() {
     pintar({
         url: "Laboratorio/ListarLaboratorios",
         cabeceras: ["ID Laboratorio", "Nombre", "Direccion", "Contacto"],
-        propiedades: ["idLaboratorio", "nombre", "direccion", "contacto"]
+        propiedades: ["idLaboratorio", "nombre", "direccion", "contacto"],
+        divContenedor: "divContenedor"
+
     });
 }
 
@@ -19,8 +21,17 @@ async function filtrarLaboratorio() {
     pintar({
         url: "Laboratorio/FiltrarLaboratorio?nombre=" + nombre + "&direccion=" + direccion + "&persona=" + persona,
         cabeceras: ["ID Laboratorio", "Nombre", "Direccion", "Contacto"],
-        propiedades: ["idLaboratorio", "nombre", "direccion", "contacto"]
+        propiedades: ["idLaboratorio", "nombre", "direccion", "contacto"],
     });
+}
+
+function buscarLab() {
+    let forma = document.getElementById("frmBusqueda");
+    let frm = new FormData(forma);
+
+    fetchPost("Laboratorio/FiltrarLaboratorio", "json", frm, function (res) {
+        document.getElementById("divContenedor").innerHTML = generarTabla(res);
+    })
 }
 
 async function Limpiar() {
@@ -34,4 +45,9 @@ async function Limpiar() {
         cabeceras: ["ID Laboratorio", "Nombre", "Direccion", "Contacto"],
         propiedades: ["idLaboratorio", "nombre", "direccion", "contacto"]
     });
+}
+
+function LimpiarLab() {
+    limpiarDatos("frmBusqueda"); // Limpia los campos del formulario
+    listarLaboratorio(); // Vuelve a listar los laboratorios
 }

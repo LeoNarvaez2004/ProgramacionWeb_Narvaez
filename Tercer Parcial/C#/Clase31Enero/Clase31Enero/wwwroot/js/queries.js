@@ -5,6 +5,20 @@ function set(idControl, valor) {
     document.getElementById(idControl).value = valor;
 }
 
+function setN(namecontrol, valor) {
+    document.getElementByName(namecontrol[0].value) = valor;
+}
+function getN(namecontrol) {
+    return document.getElementByName(namecontrol)[0].value;
+}
+function limpiarDatos(idFormulario) {
+    // Seleccionar todos los elementos del formulario con atributo "name"
+    let elementos = document.querySelectorAll("#" + idFormulario + " [name]");
+    console.log(elementos); // Verificar en consola los elementos seleccionados
+    for (let i = 0; i < elementos.length; i++) {
+        elementos[i].value = ""; // Limpiar el valor de cada elemento
+    }
+}
 async function fetchGet(url, tipoRespuesta, callback) {
     try {
         let raiz = document.getElementById("hdfOculto").value;
@@ -19,10 +33,31 @@ async function fetchGet(url, tipoRespuesta, callback) {
 
         callback(res);
     } catch (e) {
-
+        alert("Ocurrio un problema en GET");
     }
 
     
+}
+//id ="frmBusqueda" method = post
+async function fetchPost(url,tipoRespuesta,frm,callback) {
+    try{
+        let raiz = document.getElementById("hdfOculto").value;
+        let urlCompleta = window.location.protocol + "//" + window.location.host + "/" + url;
+        let res = await fetch(urlCompleta, {
+            method: "POST",
+            body: frm
+        });
+        if (tipoRespuesta == "json")
+            res = await res.json();
+        else if (tipoRespuesta == "text")
+            res = res.text();
+        else if (tipoRespuesta == "none")
+            res = null;
+        callback(res);
+
+    }catch (e) {
+        alert("Ocurrio un problema en POST");
+    }
 }
 
 let objConfiguracionGlobal;
@@ -30,6 +65,9 @@ let objConfiguracionGlobal;
 
 function pintar(objConfiguracion) {
     objConfiguracionGlobal = objConfiguracion;
+    if (objConfiguracionGlobal.divContenedor == undefined) {
+        objConfiguracionGlobal.divContenedor = "divContenedor"
+    }
     fetchGet(objConfiguracion.url, "json", function (res) {
         let contenido = "";
         contenido += "<div id='divContenedor'>";
@@ -41,46 +79,30 @@ function pintar(objConfiguracion) {
 }
 
 function generarTabla(res) {
-    let contenido = "";
+    if (!res || res.length === 0) {
+        return "<p>No se encontraron resultados.</p>";
+    }
+
+    let contenido = "<table class='table'>";
+    contenido += "<thead><tr>";
+
     let cabeceras = objConfiguracionGlobal.cabeceras;
     let propiedades = objConfiguracionGlobal.propiedades;
-    contenido += "<table class = 'table'>";
-    contenido += "<thead>";
-    contenido += "<tr>";
 
     for (let i = 0; i < cabeceras.length; i++) {
-        contenido += "<td>" + cabeceras[i] + "</td>";
+        contenido += "<th>" + cabeceras[i] + "</th>";
     }
-    //contenido += "<td>Id Tipo Medicamento</td>";
-    //contenido += "<td>Nombre</td>";
-    //contenido += "<td>Descripcion</td>";
-    contenido += "</tr>";
-    contenido += "</thead>";
+    contenido += "</tr></thead><tbody>";
 
-    let nroRegistros = res.length;
-    let obj;
-    let propiedadActual;
-    contenido += "<tbody>";
-
-    
-    for (let i = 0; i < nroRegistros; i++) {
-        obj = res[i];
+    for (let i = 0; i < res.length; i++) {
         contenido += "<tr>";
         for (let j = 0; j < propiedades.length; j++) {
-            propiedadActual = propiedades[j];
-            contenido += "<td>" + obj[propiedadActual] + "</td>";
+            contenido += "<td>" + (res[i][propiedades[j]] || "N/A") + "</td>";
         }
-        /*
-        contenido += "<td>" + obj.idTipoMedicamento + "</td>";
-        contenido += "<td>" + obj.nombre + "</td>";
-        contenido += "<td>" + obj.descripcion + "</td>";
-        */
-        contenido += "<tr>";
-        
-
+        contenido += "</tr>";
     }
-    contenido += "</tbody>"
-    contenido += "</table >";
+    contenido += "</tbody></table>";
 
+    console.log("Tabla generada:", contenido); // <-- AGREGADO PARA DEBUG
     return contenido;
 }
