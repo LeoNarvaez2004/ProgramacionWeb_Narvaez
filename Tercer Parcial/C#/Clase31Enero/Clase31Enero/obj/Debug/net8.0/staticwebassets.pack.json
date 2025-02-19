@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
+      "PackagePath": "staticwebassets\\js\\Laboratorio.js"
+    },
+    {
       "Id": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
       "PackagePath": "staticwebassets\\js\\Sucursal.js"
     },

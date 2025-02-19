@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\Laboratorio.js
 wwwroot\js\medicamento.js
 wwwroot\js\queries.js
 wwwroot\js\site.js

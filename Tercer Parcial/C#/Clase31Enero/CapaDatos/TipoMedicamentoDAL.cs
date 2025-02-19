@@ -30,9 +30,9 @@ namespace CapaDatos
                             while (dr.Read())
                             {
                                 medCLS = new TipoMedicamentoCLS();
-                                medCLS.idTipoMedicamento = dr.GetInt32(0);
-                                medCLS.nombre = dr.GetString(1);
-                                medCLS.descripcion = dr.GetString(2);
+                                medCLS.idTipoMedicamento = dr.IsDBNull(0) ? 0 : dr.GetInt32(0);
+                                medCLS.nombre = dr.IsDBNull(1) ? "" : dr.GetString(1);
+                                medCLS.descripcion = dr.IsDBNull(2) ? "" : dr.GetString(2);
                                 lista.Add(medCLS);
                             }
 
@@ -40,9 +40,9 @@ namespace CapaDatos
                     }
 
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-                    
+                    throw new Exception("Error al listar tipo medicamento: " + ex.Message);
                 }
             }
             return lista;
@@ -70,9 +70,9 @@ namespace CapaDatos
                     }
 
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-
+                    throw new Exception("Error al eliminar medicamento: " + ex.Message);
                 }
             }
         }
@@ -106,9 +106,9 @@ namespace CapaDatos
                             while (dr.Read())
                             {
                                 medCLS = new TipoMedicamentoCLS();
-                                medCLS.idTipoMedicamento = dr.GetInt32(0);
-                                medCLS.nombre = dr.GetString(1);
-                                medCLS.descripcion = dr.GetString(2);
+                                medCLS.idTipoMedicamento = dr.IsDBNull(0) ? 0 : dr.GetInt32(0);
+                                medCLS.nombre = dr.IsDBNull(1) ? "" : dr.GetString(1);
+                                medCLS.descripcion = dr.IsDBNull(2) ? "" : dr.GetString(2);
                                 lista.Add(medCLS);
                             }
 
@@ -116,9 +116,9 @@ namespace CapaDatos
                     }
 
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-
+                    throw new Exception("Error al filtrar tipo medicamento: " + ex.Message);
                 }
             }
             return lista;

@@ -9,11 +9,11 @@ using Microsoft.Extensions.Configuration;
 
 namespace CapaDatos
 {
-    public class SucursalDAL
+    public class LaboratorioDAL
     {
-        public List<SucursalCLS> ListarSucursal()
+        public List<LaboratorioCLS> ListarLaboratorio()
         {
-            List<SucursalCLS> lista = null;
+            List<LaboratorioCLS> lista = null;
             IConfigurationBuilder cfg = new ConfigurationBuilder();
             cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
             var root = cfg.Build();
@@ -24,20 +24,21 @@ namespace CapaDatos
                 try
                 {
                     cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("uspListarSucursal", cn))
+                    using (SqlCommand cmd = new SqlCommand("uspListarLaboratorio", cn))
                     {
                         cmd.CommandType = System.Data.CommandType.StoredProcedure;
                         SqlDataReader dr = cmd.ExecuteReader();
                         if (dr != null)
                         {
-                            SucursalCLS medCLS;
-                            lista = new List<SucursalCLS>();
+                            LaboratorioCLS medCLS;
+                            lista = new List<LaboratorioCLS>();
                             while (dr.Read())
                             {
-                                medCLS = new SucursalCLS();
-                                medCLS.idSucursal = dr.GetInt32(0);
+                                medCLS = new LaboratorioCLS();
+                                medCLS.idLaboratorio = dr.GetInt32(0);
                                 medCLS.nombre = dr.GetString(1);
                                 medCLS.direccion = dr.GetString(2);
+                                medCLS.contacto = dr.GetString(3);
                                 lista.Add(medCLS);
                             }
 
@@ -47,43 +48,43 @@ namespace CapaDatos
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("Error al listar sucursal: " + ex.Message);
+                    throw new Exception("Error al listar laboratorios: " + ex.Message);
                 }
             }
             return lista;
         }
-        public List<SucursalCLS> FiltrarSucursal(string nombre)
+        public List<LaboratorioCLS> FiltrarLaboratorio(string nombre, string direccion, string personaCont)
         {
-            List<SucursalCLS> lista = null;
+            List<LaboratorioCLS> lista = null;
             IConfigurationBuilder cfg = new ConfigurationBuilder();
             cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
             var root = cfg.Build();
             var cadenaDato = root.GetConnectionString("cn");
-            
+
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {
                 try
                 {
                     cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("uspFiltrarSucursal", cn))
+                    using (SqlCommand cmd = new SqlCommand("uspFiltrarLaboratorio", cn))
                     {
                         cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                        if (nombre == null)
-                        {
-                            nombre = "";
-                        }
-                        cmd.Parameters.AddWithValue("@nombresucursal", nombre);
+                        cmd.Parameters.AddWithValue("@nombre", string.IsNullOrEmpty(nombre) ? "" : nombre);
+                        cmd.Parameters.AddWithValue("@direccion", string.IsNullOrEmpty(direccion) ? "" : direccion);
+                        cmd.Parameters.AddWithValue("@personacontacto", string.IsNullOrEmpty(personaCont) ? "" : personaCont);
+
                         SqlDataReader dr = cmd.ExecuteReader();
                         if (dr != null)
                         {
-                            SucursalCLS medCLS;
-                            lista = new List<SucursalCLS>();
+                            LaboratorioCLS medCLS;
+                            lista = new List<LaboratorioCLS>();
                             while (dr.Read())
                             {
-                                medCLS = new SucursalCLS();
-                                medCLS.idSucursal = dr.GetInt32(0);
+                                medCLS = new LaboratorioCLS();
+                                medCLS.idLaboratorio = dr.GetInt32(0);
                                 medCLS.nombre = dr.GetString(1);
                                 medCLS.direccion = dr.GetString(2);
+                                medCLS.contacto = dr.GetString(3);
                                 lista.Add(medCLS);
                             }
 
@@ -91,13 +92,14 @@ namespace CapaDatos
                     }
 
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-
+                    throw new Exception("Error al filtrar laboratorios: " + ex.Message);
                 }
+
             }
             return lista;
         }
-        
+
     }
 }

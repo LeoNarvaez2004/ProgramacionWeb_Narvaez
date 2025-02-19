@@ -54,6 +54,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Laboratorio.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Clase31Enero</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Clase31Enero</BasePath>
+      <RelativePath>js/Laboratorio.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qouf2irnkw</Fingerprint>
+      <Integrity>GoNArcCfNMQpspW+NzFyzQqG4xZ2WTjiIcJFZPHXBBg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Laboratorio.js'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\medicamento.js'))">
       <SourceType>Package</SourceType>
       <SourceId>Clase31Enero</SourceId>
@@ -84,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zebnfnujvn</Fingerprint>
-      <Integrity>i2TD8Axs8xIDj5fiUQPo9O0U4kPW1h7nR4aw4jzvQJw=</Integrity>
+      <Fingerprint>bcocso31ae</Fingerprint>
+      <Integrity>xY38hWPBxMiRjzNxNYwOYGyZfOxZSKlDuGSlBu9Nt5s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\queries.js'))</OriginalItemSpec>
@@ -138,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0z5j624p1t</Fingerprint>
-      <Integrity>/DKCO5QT6m4P5Y9dUuM03IBzSMRHrmvIZtIOY2LZtb4=</Integrity>
+      <Fingerprint>pyufsxwvr3</Fingerprint>
+      <Integrity>fzWFuFBDeVW52X+VQupnJ+/e+Q1FtyX7OFo0Qwa+nbg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tipoMedicamento.js'))</OriginalItemSpec>

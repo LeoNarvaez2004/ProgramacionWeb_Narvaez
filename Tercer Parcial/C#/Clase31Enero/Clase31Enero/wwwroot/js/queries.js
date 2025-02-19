@@ -1,4 +1,11 @@
-﻿async function fetchGet(url,tipoRespuesta,callback) {
+﻿function get(valor) {
+    return document.getElementById(valor).value;
+}
+function set(idControl, valor) {
+    document.getElementById(idControl).value = valor;
+}
+
+async function fetchGet(url, tipoRespuesta, callback) {
     try {
         let raiz = document.getElementById("hdfOculto").value;
         let urlCompleta = window.location.protocol + "//" + window.location.host + "/" + url;

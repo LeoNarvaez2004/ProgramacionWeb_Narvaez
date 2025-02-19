@@ -3,18 +3,31 @@
     listarTipoMedicamento();
 }
 
+let objTipoMedicamento;
+function fitrarTipoMedicamento() {
+    let nombre = document.getElementById("nombreTipoMed").value;
+    if (nombre === "") {
+        listarTipoMedicamento();
+    } else {
+        objTipoMedicamento.url = "TipoMedicamento/FiltrarTipoMedicamento?nombre=" + nombre;
+        pintar(objTipoMedicamento);
+    }
+}
+
+async function listarTipoMedicamento() {
+    objTipoMedicamento = {
+        url: "TipoMedicamento/listarMedicamento",
+        cabeceras: ["ID Tipo Medicamento", "Nombre", "Descripcion","Stock"],
+        propiedades: ["idTipoMedicamento", "nombre", "descripcion","stock"]
+    };
+    pintar(objTipoMedicamento);
+}
+
+/*
 async function eliminarMed() {
     let id = document.getElementById("idEli").value;
     fetchGet("TipoMedicamento/eliminarMed/?id=" + id, "none", function (res) { });
     alert(id);
-}
-
-async function listarTipoMedicamento() {
-    pintar({
-        url: "TipoMedicamento/listarMedicamento",
-        cabeceras: ["ID Tipo Medicamento", "Nombre", "Descripcion","Stock"],
-        propiedades: ["idTipoMedicamento", "nombre", "descripcion","stock"]
-    });
 }
 
 async function filtrarMedicamento() {
@@ -29,6 +42,7 @@ async function filtrarMedicamento() {
         propiedades: ["idMedicamento", "nombre", "idLaboratorio", "idTipoMedicamento"]
     });
 }
+*/
 
 async function filtraTipoMed() {
     let nombre = document.getElementById("nombreTipoMed").value;
