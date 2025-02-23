@@ -9,15 +9,11 @@ using Microsoft.Extensions.Configuration;
 
 namespace CapaDatos
 {
-    public class LaboratorioDAL
+    public class LaboratorioDAL : CadenaDAL
     {
         public List<LaboratorioCLS> ListarLaboratorio()
         {
             List<LaboratorioCLS> lista = null;
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
 
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {
@@ -56,10 +52,6 @@ namespace CapaDatos
         public List<LaboratorioCLS> FiltrarLaboratorio(LaboratorioCLS obj)
         {
             List<LaboratorioCLS> lista = null;
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
 
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {

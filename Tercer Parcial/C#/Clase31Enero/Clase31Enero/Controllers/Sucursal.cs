@@ -20,6 +20,11 @@ namespace Clase31Enero.Controllers
             SucursalDAL obj = new SucursalDAL();
             return obj.FiltrarSucursal(objSuc);
         }
+        public int GuardarSucursal(SucursalCLS objTM)
+        {
+            SucursalDAL obj = new SucursalDAL();
+            return obj.GuardarSucursal(objTM);
+        }
 
     }
 }

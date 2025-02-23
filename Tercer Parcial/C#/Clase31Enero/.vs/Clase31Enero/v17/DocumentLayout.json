@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capaentidad\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9F89494-1C19-48E3-8A4C-A9BEB9DD05E3}|Clase03Feb\\Clase03Feb.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase03feb\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,88 +55,80 @@
       "RelativeMoniker": "D:0:0:{E9F89494-1C19-48E3-8A4C-A9BEB9DD05E3}|Clase03Feb\\Clase03Feb.csproj|solutionrelative:clase03feb\\tipomedicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9F89494-1C19-48E3-8A4C-A9BEB9DD05E3}|Clase03Feb\\Clase03Feb.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase03feb\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9F89494-1C19-48E3-8A4C-A9BEB9DD05E3}|Clase03Feb\\Clase03Feb.csproj|solutionrelative:clase03feb\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capaentidad\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capaentidad\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC0987B-464A-4AB5-8EDF-ED5C9BD37D0E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F89494-1C19-48E3-8A4C-A9BEB9DD05E3}|Clase03Feb\\Clase03Feb.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase03feb\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F89494-1C19-48E3-8A4C-A9BEB9DD05E3}|Clase03Feb\\Clase03Feb.csproj|solutionrelative:clase03feb\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\controllers\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\controllers\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538E8B19-C85F-4FE4-9A96-2EFFE1AB5B25}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|c:\\users\\leona\\desktop\\programacionweb_narvaez\\tercer parcial\\c#\\clase31enero\\clase31enero\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB054B2-6A67-496E-A7FD-635CCAF2E7EA}|Clase31Enero\\Clase31Enero.csproj|solutionrelative:clase31enero\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,45 +138,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TipoMedicamentoBL.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\TipoMedicamentoBL.cs",
-              "RelativeDocumentMoniker": "Clase03Feb\\TipoMedicamentoBL.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\TipoMedicamentoBL.cs",
-              "RelativeToolTip": "Clase03Feb\\TipoMedicamentoBL.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:29:13.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SucursalBL.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\SucursalBL.cs",
-              "RelativeDocumentMoniker": "Clase03Feb\\SucursalBL.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\SucursalBL.cs",
-              "RelativeToolTip": "Clase03Feb\\SucursalBL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T03:31:19.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Sucursal\\Index.cshtml",
               "RelativeDocumentMoniker": "Clase31Enero\\Views\\Sucursal\\Index.cshtml",
               "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Sucursal\\Index.cshtml",
               "RelativeToolTip": "Clase31Enero\\Views\\Sucursal\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T20:25:44.363Z",
+              "WhenOpened": "2025-02-14T20:25:44.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SucursalCLS.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\SucursalCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\SucursalCLS.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\SucursalCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\SucursalCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:18:11.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queries.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\queries.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\queries.js",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAgwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-15T16:28:18.306Z",
               "EditorCaption": ""
             },
             {
@@ -167,196 +185,135 @@
               "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\Sucursal.js",
               "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
               "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\Sucursal.js",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-14T20:28:07.258Z",
+              "WhenOpened": "2025-02-14T20:28:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-21T17:00:15.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tipoMedicamento.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-14T20:27:23.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Sucursal.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\Sucursal.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:57:44.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoMedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:15:50.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
-              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
-              "RelativeToolTip": "Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T17:22:28.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "SucursalDAL.cs",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\SucursalDAL.cs",
               "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
               "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\SucursalDAL.cs",
               "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwEgAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwHIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T16:16:06.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LaboratorioBL.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\LaboratorioBL.cs",
-              "RelativeDocumentMoniker": "Clase03Feb\\LaboratorioBL.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\LaboratorioBL.cs",
-              "RelativeToolTip": "Clase03Feb\\LaboratorioBL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:25:27.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SucursalCLS.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\SucursalCLS.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\SucursalCLS.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\SucursalCLS.cs",
-              "RelativeToolTip": "CapaEntidad\\SucursalCLS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:18:11.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CadenaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\CadenaDAL.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CadenaDAL.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\CadenaDAL.cs",
-              "RelativeToolTip": "CapaDatos\\CadenaDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T02:50:50.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "tipoMedicamento.js",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
-              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
-              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-14T20:27:23.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Laboratorio.js",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
-              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\Laboratorio.js",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
-              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\Laboratorio.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-15T16:28:45.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Clase31Enero\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T20:25:40.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Laboratorio.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Laboratorio.cs",
-              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\Laboratorio.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Laboratorio.cs",
-              "RelativeToolTip": "Clase31Enero\\Controllers\\Laboratorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Title": "TipoMedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\TipoMedicamentoController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:27:22.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:20:51.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Sucursal.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Sucursal.cs",
-              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\Sucursal.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Sucursal.cs",
-              "RelativeToolTip": "Clase31Enero\\Controllers\\Sucursal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Title": "TipoMedicamentoCLS.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\TipoMedicamentoCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\TipoMedicamentoCLS.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\TipoMedicamentoCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\TipoMedicamentoCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T20:30:28.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T16:18:14.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoMedicamentoBL.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\TipoMedicamentoBL.cs",
+              "RelativeDocumentMoniker": "Clase03Feb\\TipoMedicamentoBL.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\TipoMedicamentoBL.cs",
+              "RelativeToolTip": "Clase03Feb\\TipoMedicamentoBL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:29:13.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\MedicamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:20:45.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SucursalBL.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\SucursalBL.cs",
+              "RelativeDocumentMoniker": "Clase03Feb\\SucursalBL.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\SucursalBL.cs",
+              "RelativeToolTip": "Clase03Feb\\SucursalBL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:31:19.185Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "LaboratorioDAL.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\LaboratorioDAL.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\LaboratorioDAL.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\LaboratorioDAL.cs",
-              "RelativeToolTip": "CapaDatos\\LaboratorioDAL.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAWwEcAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:15:42.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "medicamento.js",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\medicamento.js",
-              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\medicamento.js",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\medicamento.js",
-              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\medicamento.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-15T16:28:18.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "queries.js",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
-              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\queries.js",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
-              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\queries.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-15T16:28:18.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Clase31Enero\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T17:09:48.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "LaboratorioCLS.cs",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\LaboratorioCLS.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\LaboratorioCLS.cs",
@@ -364,37 +321,143 @@
               "RelativeToolTip": "CapaEntidad\\LaboratorioCLS.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:13:02.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T16:13:02.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T20:25:40.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T20:27:07.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CadenaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\CadenaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CadenaDAL.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\CadenaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\CadenaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:50:50.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Laboratorio.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\Laboratorio.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\Laboratorio.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-15T16:28:45.842Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "TipoMedicamentoCLS.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\TipoMedicamentoCLS.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\TipoMedicamentoCLS.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaEntidad\\TipoMedicamentoCLS.cs",
-              "RelativeToolTip": "CapaEntidad\\TipoMedicamentoCLS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\Laboratorio\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T17:22:28.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LaboratorioBL.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\LaboratorioBL.cs",
+              "RelativeDocumentMoniker": "Clase03Feb\\LaboratorioBL.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase03Feb\\LaboratorioBL.cs",
+              "RelativeToolTip": "Clase03Feb\\LaboratorioBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:18:14.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T16:25:27.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "LaboratorioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\LaboratorioDAL.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeToolTip": "CapaDatos\\LaboratorioDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:15:42.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Laboratorio.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Laboratorio.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\Laboratorio.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\Laboratorio.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\Laboratorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:27:22.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Clase31Enero\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:09:48.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Clase31Enero\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Clase31Enero\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T02:45:50.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\appsettings.json",
               "RelativeDocumentMoniker": "Clase31Enero\\appsettings.json",
               "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\appsettings.json",
               "RelativeToolTip": "Clase31Enero\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-19T02:15:04.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Clase31Enero\\appsettings.Development.json",
@@ -406,43 +469,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "TipoMedicamentoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\TipoMedicamentoDAL.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\CapaDatos\\TipoMedicamentoDAL.cs",
-              "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCoAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Program.cs",
+              "RelativeDocumentMoniker": "Clase31Enero\\Program.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Program.cs",
+              "RelativeToolTip": "Clase31Enero\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:15:50.996Z"
+              "WhenOpened": "2025-02-19T19:12:09.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\libman.json",
-              "RelativeDocumentMoniker": "Clase31Enero\\libman.json",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\libman.json",
-              "RelativeToolTip": "Clase31Enero\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T02:16:43.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "sinMenu.cshtml",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
-              "RelativeDocumentMoniker": "Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
-              "RelativeToolTip": "Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T17:46:38.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Clase31Enero\\Views\\Shared\\_Layout.cshtml",
@@ -454,15 +493,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Clase31Enero\\Views\\Home\\Privacy.cshtml",
+              "DocumentIndex": 29,
+              "Title": "medicamento.js",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "RelativeDocumentMoniker": "Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "RelativeToolTip": "Clase31Enero\\wwwroot\\js\\medicamento.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-15T16:28:18.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\libman.json",
+              "RelativeDocumentMoniker": "Clase31Enero\\libman.json",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\libman.json",
+              "RelativeToolTip": "Clase31Enero\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T02:16:43.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "sinMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
+              "RelativeDocumentMoniker": "Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
+              "RelativeToolTip": "Clase31Enero\\Views\\TipoMedicamento\\sinMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T20:27:07.742Z"
+              "WhenOpened": "2025-02-17T17:46:38.211Z"
             }
           ]
         }

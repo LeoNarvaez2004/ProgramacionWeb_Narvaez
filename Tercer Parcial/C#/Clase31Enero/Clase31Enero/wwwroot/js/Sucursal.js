@@ -44,3 +44,15 @@ function LimpiarSuc() {
     limpiarDatos("frmBusqueda"); // Limpia los campos del formulario
     listarSucursal(); // Vuelve a listar los laboratorios
 }
+function guardarSuc() {
+    let forma = document.getElementById("frmIn");
+    let frm = new FormData(forma);
+
+    fetchPost("Sucursal/GuardarSucursal", "json", frm, function (res) {
+        LimpiarIn();
+    })
+}
+function LimpiarIn() {
+    limpiarDatos("frmIn"); // Limpia los campos del formulario
+    listarSucursal(); // Vuelve a listar los laboratorios
+}

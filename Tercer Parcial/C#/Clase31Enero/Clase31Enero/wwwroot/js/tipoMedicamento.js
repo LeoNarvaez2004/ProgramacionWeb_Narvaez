@@ -24,12 +24,14 @@ async function listarTipoMedicamento() {
     objTipoMedicamento = {
         url: "TipoMedicamento/listarMedicamento",
         cabeceras: ["ID Tipo Medicamento", "Nombre", "Descripcion","Stock"],
-        propiedades: ["idTipoMedicamento", "nombre", "descripcion","stock"]
+        propiedades: ["idTipoMedicamento", "nombre", "descripcion", "stock"],
+        editar: true,
+        eliminar: true
     };
     pintar(objTipoMedicamento);
 }
 
-
+    
 
 async function filtrarMedicamento() {
     let id = document.getElementById("idMed").value;
@@ -53,7 +55,14 @@ async function filtraTipoMed() {
         propiedades: ["idTipoMedicamento", "nombre", "descripcion"]
     });
 }
+function guardarTipoMed() {
+    let forma = document.getElementById("frmBusqueda");
+    let frm = new FormData(forma);
 
+    fetchPost("tipoMedicamento/GuardarTipoMedicamento", "json", frm, function (res) {
+        
+    })
+}
 async function Limpiar() {
 
     document.getElementById("nombreTipoMed").value = "";

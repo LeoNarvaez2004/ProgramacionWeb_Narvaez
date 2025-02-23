@@ -4,15 +4,11 @@ using Microsoft.Extensions.Configuration;
 
 namespace CapaDatos
 {
-    public class TipoMedicamentoDAL
+    public class TipoMedicamentoDAL : CadenaDAL
     {
         public List<TipoMedicamentoCLS> listarTipoMedicamento()
         {
             List < TipoMedicamentoCLS > lista = null;
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
 
             using(SqlConnection cn = new SqlConnection(cadenaDato))
             {
@@ -48,12 +44,10 @@ namespace CapaDatos
             return lista;
         }
 
+        /*
         public void EliminarMedicamento(int id)
         {
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
+           
 
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {
@@ -76,14 +70,12 @@ namespace CapaDatos
                 }
             }
         }
+        */
 
         public List<TipoMedicamentoCLS> FiltrarTipoMedicamento(string nombre)
         {
             List<TipoMedicamentoCLS> lista = null;
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
+           
 
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {
@@ -123,54 +115,32 @@ namespace CapaDatos
             }
             return lista;
         }
-
-        public List<FiltrarMedicamentoCLS> FiltrarMedicamento(int idMed,string nombre,int idLab,int idTip)
+        
+        public int GuardarTipoMedicamento(TipoMedicamentoCLS objTM)
         {
-            List<FiltrarMedicamentoCLS> lista = null;
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
-
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {
                 try
                 {
                     cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("uspFiltrarMedicamento", cn))
+                    using (SqlCommand cmd = new SqlCommand("INSERT INTO TipoMedicamento (NOMBRE, DESCRIPCION, BHABILITADO) VALUES (@nombre, @descripcion, 1)", cn))
                     {
-                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                        cmd.Parameters.AddWithValue("@idmedicamento",idMed);
-                        cmd.Parameters.AddWithValue("@nombre", string.IsNullOrEmpty(nombre) ? "" : nombre);
-                        cmd.Parameters.AddWithValue("@idlaboratorio", idLab);
-                        cmd.Parameters.AddWithValue("@idtipomedicamento", idTip);
+                        cmd.CommandType = System.Data.CommandType.Text;
+                        cmd.Parameters.AddWithValue("@nombre", objTM.nombre == null ? "" : objTM.nombre);
+                        cmd.Parameters.AddWithValue("@descripcion", objTM.descripcion == null ? "":objTM.descripcion);
 
-                        SqlDataReader dr = cmd.ExecuteReader();
-                        if (dr != null)
-                        {
-                            FiltrarMedicamentoCLS medCLS;
-                            lista = new List<FiltrarMedicamentoCLS>();
-                            while (dr.Read())
-                            {
-                                medCLS = new FiltrarMedicamentoCLS();
-                                medCLS.idMedicamento = dr.GetInt32(0);
-                                medCLS.nombre = dr.GetString(1);
-                                medCLS.idLaboratorio = dr.GetString(2);
-                                medCLS.idTipoMedicamento = dr.GetString(3);
-                                lista.Add(medCLS);
-                            }
-
-                        }
+                        int ans = cmd.ExecuteNonQuery();
+                        return ans;
                     }
-
                 }
-                catch (Exception ex)
+                catch (Exception e)
                 {
-                    throw new Exception("Error al filtrar medicamentos: " + ex.Message);
+                    cn.Close();
+                    throw new Exception("Error al guardar tipo medicamento: " + e.Message);
                 }
-
             }
-            return lista;
+
         }
+       
     }
 }

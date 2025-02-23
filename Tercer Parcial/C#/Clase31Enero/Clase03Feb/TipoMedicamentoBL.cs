@@ -15,17 +15,22 @@ namespace Clase03Feb
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
             return obj.FiltrarTipoMedicamento(nombre);
         }
-
+        /*
         public void eliminarMed(int id)
         {
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
             obj.EliminarMedicamento(id);
         } 
-
+        
         public List<FiltrarMedicamentoCLS> filtrarMedicamento(int idMed,string nombre,int idLab,int idTip)
         {
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
             return obj.FiltrarMedicamento(idMed,nombre,idLab,idTip);
+        }*/
+        public int GuardarTipoMedicamento(TipoMedicamentoCLS objTM)
+        {
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            return obj.GuardarTipoMedicamento(objTM);
         }
     }
 }

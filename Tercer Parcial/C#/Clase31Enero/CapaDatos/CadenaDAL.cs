@@ -15,7 +15,7 @@ namespace CapaDatos
             IConfigurationBuilder cfg = new ConfigurationBuilder();
             cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
             var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
+            cadenaDato = root.GetConnectionString("cn");
         }
     }
 }

@@ -9,15 +9,11 @@ using Microsoft.Extensions.Configuration;
 
 namespace CapaDatos
 {
-    public class SucursalDAL
+    public class SucursalDAL : CadenaDAL
     {
         public List<SucursalCLS> ListarSucursal()
         {
             List<SucursalCLS> lista = null;
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
 
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {
@@ -55,11 +51,7 @@ namespace CapaDatos
         public List<SucursalCLS> FiltrarSucursal(SucursalCLS obj)
         {
             List<SucursalCLS> lista = null;
-            IConfigurationBuilder cfg = new ConfigurationBuilder();
-            cfg.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = cfg.Build();
-            var cadenaDato = root.GetConnectionString("cn");
-            
+
             using (SqlConnection cn = new SqlConnection(cadenaDato))
             {
                 try
@@ -96,6 +88,31 @@ namespace CapaDatos
             }
             return lista;
         }
-        
+        public int GuardarSucursal(SucursalCLS obj)
+        {
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("insert into Sucursal(NOMBRE,DIRECCION,BHABILITADO) values (@nombre,@direccion,1)", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.Text;
+                        cmd.Parameters.AddWithValue("@nombre", obj.nombre == null ? "" : obj.nombre);
+                        cmd.Parameters.AddWithValue("@direccion", obj.direccion == null ? "" : obj.direccion);
+
+                        int ans = cmd.ExecuteNonQuery();
+                        return ans;
+                    }
+                }
+                catch (Exception e)
+                {
+                    cn.Close();
+                    throw new Exception("Error al guardar sucursal: " + e.Message);
+                }
+            }
+
+        }
+
     }
 }
