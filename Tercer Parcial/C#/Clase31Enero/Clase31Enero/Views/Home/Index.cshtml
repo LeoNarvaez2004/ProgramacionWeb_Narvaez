@@ -1,72 +1,58 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<div class="container text-center mt-5">
+    <h1 class="display-4 fw-bold">Welcome</h1>
+    <p class="lead">
+        Learn about <a href="https://learn.microsoft.com/aspnet/core" class="text-decoration-none text-primary">building Web apps with ASP.NET Core</a>.
+    </p>
 </div>
 
-<!--
-<div class="input-group input-group-sm mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
-    <input type="text" id="idEli" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-</div>
-<button type="button" onclick="eliminarMed()" class="btn btn-outline-primary">Eliminar</button>
--->
-<!--
-<div class="input-group input-group-sm mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
-    <input type="text" id="idMed" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-</div>
-<div class="input-group input-group-sm mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
-    <input type="text" id="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-</div>
-<div class="input-group input-group-sm mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
-    <input type="text" id="idLab" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-</div>
-<div class="input-group input-group-sm mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
-    <input type="text" id="idTip" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-</div>
-<button type="button" onclick="filtrarMedicamento()" class="btn btn-outline-primary">Filtrar</button>
--->
-<div class="input-group input-group-sm mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-sm">Tipo Medicamento nombre</span>
-    <input type="text" id="nombreTipoMed" onkeyup="filtraTipoMed()" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-</div>
-<div id="divTabla">
+<!-- Campo de búsqueda para filtrar tipos de medicamentos -->
+<div class="container mt-4">
+    <div class="input-group input-group-sm mb-3">
+        <span class="input-group-text bg-primary text-white">Tipo Medicamento nombre</span>
+        <input type="text" id="nombreTipoMed" onkeyup="filtraTipoMed()" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+    </div>
 </div>
 
-<div class="col-12">
-    <button onclick="Limpiar()" class="btn btn-primary" type="button">Limpiar</button>
+<!-- Contenedor para mostrar la tabla -->
+<div id="divTabla" class="container mt-4">
+    <!-- Aquí se cargará dinámicamente la tabla -->
 </div>
 
-<fieldset>
-    <legend>Buscar laboratorio</legend>
-    <form id="frmBusqueda" method="POST">
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Id Tipo Medicamento</span>
-            <input type="text" name="idTipoMedicamento" id="idTipoMedicamento" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+<!-- Formulario para guardar un nuevo tipo de medicamento -->
+<fieldset class="container mt-5 p-4 border rounded shadow-sm">
+    <legend class="text-center fw-bold text-primary">Guardar Tipo Medicamento</legend>
+    <form id="frmIn" method="POST">
+        <div class="row mb-3">
+            <label for="idTipoMedicamento" class="col-sm-2 col-form-label fw-bold">Id Medicamento</label>
+            <div class="col-sm-10">
+                <input type="text" name="idTipoMedicamento" id="idTipoMedicamento" class="form-control" placeholder="Ingrese el nombre" required>
+            </div>
         </div>
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
-            <input type="text" name="nombre" id="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        <div class="row mb-3">
+            <label for="nombre" class="col-sm-2 col-form-label fw-bold">Nombre</label>
+            <div class="col-sm-10">
+                <input type="text" name="nombre" id="nombre" class="form-control" placeholder="Ingrese el nombre" required>
+            </div>
         </div>
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Descripcion</span>
-            <input type="text" name="descripcion" id="descripcion" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        <div class="row mb-3">
+            <label for="descripcion" class="col-sm-2 col-form-label fw-bold">Descripción</label>
+            <div class="col-sm-10">
+                <input type="text" name="descripcion" id="descripcion" class="form-control" placeholder="Ingrese la descripción" required>
+            </div>
         </div>
-        <button type="button" onclick="guardarTipoMed()" class="btn btn-outline-primary">Guardar</button>
-        <div id="divTabla">
-            <div id="divContenedor"></div>
-        </div>
-        <div class="col-12">
-            <button onclick="LimpiarTipoMed()" class="btn btn-primary" type="button">Limpiar</button>
+        <div class="row mb-3">
+            <div class="col-sm-12 d-flex justify-content-between align-items-center">
+                <button type="button" onclick="guardarTipoMed()" class="btn btn-primary me-2">Guardar</button>
+                <button type="button" onclick="LimpiarIn()" class="btn btn-outline-secondary">Limpiar</button>
+            </div>
         </div>
     </form>
 </fieldset>
 
+<!-- Scripts -->
 <script src="~/js/queries.js"></script>
 <script src="~/js/tipomedicamento.js"></script>

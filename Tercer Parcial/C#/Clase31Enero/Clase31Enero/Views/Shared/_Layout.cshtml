@@ -4,21 +4,26 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Clase31Enero</title>
+    <!-- Estilos de Bootstrap -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Estilos personalizados -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Clase31Enero.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <!-- Encabezado con barra de navegación -->
+    <header class="sticky-top bg-light border-bottom shadow-sm">
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Clase31Enero</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <!-- Logo/Nombre del sitio -->
+                <a class="navbar-brand fw-bold text-primary" asp-area="" asp-controller="Home" asp-action="Index">Clase31Enero</a>
+                <!-- Botón para colapsar el menú en dispositivos móviles -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                <!-- Menú de navegación -->
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                    <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
@@ -35,20 +40,29 @@
                 </div>
             </div>
         </nav>
-        <h1>Esto es comun en todas las paginas</h1>
+        <!-- Encabezado común -->
+        <div class="container text-center py-3">
+            <h1 class="text-primary fw-bold">Esto es común en todas las páginas</h1>
+        </div>
     </header>
+
+    <!-- Contenido principal -->
     <input type="hidden" id="hdfOculto" value="@Url.Content("~")" />
-    <div class="container">
+    <div class="container my-4">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - Clase31Enero - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <!-- Pie de página -->
+    <footer class="footer bg-light border-top py-3">
+        <div class="container text-center text-muted">
+            &copy; 2025 - Clase31Enero -
+            <a asp-area="" asp-controller="Home" asp-action="Privacy" class="text-decoration-none text-primary">Privacy</a>
         </div>
     </footer>
+
+    <!-- Scripts -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

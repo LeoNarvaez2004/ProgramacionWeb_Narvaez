@@ -123,12 +123,13 @@ namespace CapaDatos
                 try
                 {
                     cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("INSERT INTO TipoMedicamento (NOMBRE, DESCRIPCION, BHABILITADO) VALUES (@nombre, @descripcion, 1)", cn))
+                    using (SqlCommand cmd = new SqlCommand("uspGuardarTipoMedicamento", cn))
                     {
-                        cmd.CommandType = System.Data.CommandType.Text;
+
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
                         cmd.Parameters.AddWithValue("@nombre", objTM.nombre == null ? "" : objTM.nombre);
                         cmd.Parameters.AddWithValue("@descripcion", objTM.descripcion == null ? "":objTM.descripcion);
-
+                        cmd.Parameters.AddWithValue("@id", objTM.idTipoMedicamento == 0 ? 0 : objTM.idTipoMedicamento);
                         int ans = cmd.ExecuteNonQuery();
                         return ans;
                     }
@@ -141,6 +142,46 @@ namespace CapaDatos
             }
 
         }
-       
+
+        public TipoMedicamentoCLS recuperarTipoMedicamento(int idTM)
+        {
+            TipoMedicamentoCLS medCLS = null;
+
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("select IIDTIPOMEDICAMENTO as idTipoMedicamento,NOMBRE,DESCRIPCION " +
+                                                           "from TipoMedicamento " +
+                                                           "where BHABILITADO = 1 and IIDTIPOMEDICAMENTO = @iidtipomedicamento ", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.Text;
+                        
+                        cmd.Parameters.AddWithValue("@iidtipomedicamento",idTM);
+                        SqlDataReader dr = cmd.ExecuteReader();
+                        if (dr != null)
+                        {
+                            while (dr.Read())
+                            {
+                                medCLS = new TipoMedicamentoCLS();
+                                medCLS.idTipoMedicamento = dr.IsDBNull(0) ? 0 : dr.GetInt32(0);
+                                medCLS.nombre = dr.IsDBNull(1) ? "" : dr.GetString(1);
+                                medCLS.descripcion = dr.IsDBNull(2) ? "" : dr.GetString(2);
+                            }
+
+                        }
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Error al recuperar tipo medicamento: " + ex.Message);
+                }
+            }
+            return medCLS;
+        }
+
     }
 }

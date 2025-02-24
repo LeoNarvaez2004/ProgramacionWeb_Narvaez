@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CDFsr0qJMUqPua2kTgqqNEQKf3wzKaiFfdHNExZ47QY=",
+  "Hash": "mzpeLXNdjZoqySezpeIP7e/HSlTIHHsdsyn/Mkcmgb4=",
   "Source": "Clase31Enero",
   "BasePath": "_content/Clase31Enero",
   "Mode": "Default",
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "81167krrru",
-      "Integrity": "vPE2IYvMzLlNLrUD9hsnq+jehrfhoK7huoHWg1pkVUM=",
+      "Fingerprint": "n0a9zf4jya",
+      "Integrity": "9zlsVAGXFbcpVRzaaBDdZJuk9xRViRbU7ahAD0cFFTs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Laboratorio.js"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3u8le6qefr",
-      "Integrity": "++WfhXbpoLgAGoBChbTXzM7L3ZTkIeUq0jOKDLWvAk4=",
+      "Fingerprint": "li5aqehnmz",
+      "Integrity": "k6OvC8lpYDzSV938iZf1nhX2Z60B0Hw5MJ0SNgOhG1I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\queries.js"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "j5oqxvb4jb",
-      "Integrity": "Oban3rX1VOmuTjNlhIba6znkQJSGXu/fkDe7/jd/PAY=",
+      "Fingerprint": "ry37yo1tno",
+      "Integrity": "0yEP+DSG+WUcAYgjVrwagquxwAWibFsfS0P2+Kw5hNk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Sucursal.js"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hf5eez5hr5",
-      "Integrity": "AyMuIiCqzXih/bgPdl/7G9upBL37zaSDAo7trTsCCJ0=",
+      "Fingerprint": "l0fxsz11ee",
+      "Integrity": "u93SwZ9QmAeUAWPm26aC/u5nAGroYQ8Iat8+YU8fYQ0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\tipoMedicamento.js"
@@ -2657,51 +2657,6 @@
       ]
     },
     {
-      "Route": "js/Laboratorio.81167krrru.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vPE2IYvMzLlNLrUD9hsnq+jehrfhoK7huoHWg1pkVUM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:28:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "81167krrru"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Laboratorio.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vPE2IYvMzLlNLrUD9hsnq+jehrfhoK7huoHWg1pkVUM="
-        }
-      ]
-    },
-    {
       "Route": "js/Laboratorio.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
       "Selectors": [],
@@ -2712,7 +2667,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1831"
+          "Value": "1879"
         },
         {
           "Name": "Content-Type",
@@ -2720,11 +2675,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vPE2IYvMzLlNLrUD9hsnq+jehrfhoK7huoHWg1pkVUM=\""
+          "Value": "\"9zlsVAGXFbcpVRzaaBDdZJuk9xRViRbU7ahAD0cFFTs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:28:03 GMT"
+          "Value": "Mon, 24 Feb 2025 15:05:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2734,7 +2689,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vPE2IYvMzLlNLrUD9hsnq+jehrfhoK7huoHWg1pkVUM="
+          "Value": "sha256-9zlsVAGXFbcpVRzaaBDdZJuk9xRViRbU7ahAD0cFFTs="
+        }
+      ]
+    },
+    {
+      "Route": "js/Laboratorio.n0a9zf4jya.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Laboratorio.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9zlsVAGXFbcpVRzaaBDdZJuk9xRViRbU7ahAD0cFFTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 15:05:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0a9zf4jya"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Laboratorio.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9zlsVAGXFbcpVRzaaBDdZJuk9xRViRbU7ahAD0cFFTs="
         }
       ]
     },
@@ -2821,51 +2821,6 @@
       ]
     },
     {
-      "Route": "js/queries.3u8le6qefr.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5788"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"++WfhXbpoLgAGoBChbTXzM7L3ZTkIeUq0jOKDLWvAk4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 17:48:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3u8le6qefr"
-        },
-        {
-          "Name": "label",
-          "Value": "js/queries.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-++WfhXbpoLgAGoBChbTXzM7L3ZTkIeUq0jOKDLWvAk4="
-        }
-      ]
-    },
-    {
       "Route": "js/queries.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
       "Selectors": [],
@@ -2876,7 +2831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5788"
+          "Value": "6106"
         },
         {
           "Name": "Content-Type",
@@ -2884,11 +2839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"++WfhXbpoLgAGoBChbTXzM7L3ZTkIeUq0jOKDLWvAk4=\""
+          "Value": "\"k6OvC8lpYDzSV938iZf1nhX2Z60B0Hw5MJ0SNgOhG1I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 17:48:53 GMT"
+          "Value": "Mon, 24 Feb 2025 17:30:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2898,7 +2853,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-++WfhXbpoLgAGoBChbTXzM7L3ZTkIeUq0jOKDLWvAk4="
+          "Value": "sha256-k6OvC8lpYDzSV938iZf1nhX2Z60B0Hw5MJ0SNgOhG1I="
+        }
+      ]
+    },
+    {
+      "Route": "js/queries.li5aqehnmz.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\queries.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k6OvC8lpYDzSV938iZf1nhX2Z60B0Hw5MJ0SNgOhG1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:30:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "li5aqehnmz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/queries.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k6OvC8lpYDzSV938iZf1nhX2Z60B0Hw5MJ0SNgOhG1I="
         }
       ]
     },
@@ -2985,51 +2985,6 @@
       ]
     },
     {
-      "Route": "js/Sucursal.j5oqxvb4jb.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1805"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Oban3rX1VOmuTjNlhIba6znkQJSGXu/fkDe7/jd/PAY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 17:04:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j5oqxvb4jb"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Sucursal.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Oban3rX1VOmuTjNlhIba6znkQJSGXu/fkDe7/jd/PAY="
-        }
-      ]
-    },
-    {
       "Route": "js/Sucursal.js",
       "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
       "Selectors": [],
@@ -3040,7 +2995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1805"
+          "Value": "1949"
         },
         {
           "Name": "Content-Type",
@@ -3048,11 +3003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Oban3rX1VOmuTjNlhIba6znkQJSGXu/fkDe7/jd/PAY=\""
+          "Value": "\"0yEP+DSG+WUcAYgjVrwagquxwAWibFsfS0P2+Kw5hNk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 17:04:50 GMT"
+          "Value": "Mon, 24 Feb 2025 15:06:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3062,13 +3017,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Oban3rX1VOmuTjNlhIba6znkQJSGXu/fkDe7/jd/PAY="
+          "Value": "sha256-0yEP+DSG+WUcAYgjVrwagquxwAWibFsfS0P2+Kw5hNk="
         }
       ]
     },
     {
-      "Route": "js/tipoMedicamento.hf5eez5hr5.js",
-      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+      "Route": "js/Sucursal.ry37yo1tno.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\Sucursal.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3077,7 +3032,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2530"
+          "Value": "1949"
         },
         {
           "Name": "Content-Type",
@@ -3085,11 +3040,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AyMuIiCqzXih/bgPdl/7G9upBL37zaSDAo7trTsCCJ0=\""
+          "Value": "\"0yEP+DSG+WUcAYgjVrwagquxwAWibFsfS0P2+Kw5hNk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 17:34:48 GMT"
+          "Value": "Mon, 24 Feb 2025 15:06:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3099,15 +3054,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hf5eez5hr5"
+          "Value": "ry37yo1tno"
         },
         {
           "Name": "label",
-          "Value": "js/tipoMedicamento.js"
+          "Value": "js/Sucursal.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AyMuIiCqzXih/bgPdl/7G9upBL37zaSDAo7trTsCCJ0="
+          "Value": "sha256-0yEP+DSG+WUcAYgjVrwagquxwAWibFsfS0P2+Kw5hNk="
         }
       ]
     },
@@ -3122,7 +3077,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2530"
+          "Value": "2956"
         },
         {
           "Name": "Content-Type",
@@ -3130,11 +3085,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AyMuIiCqzXih/bgPdl/7G9upBL37zaSDAo7trTsCCJ0=\""
+          "Value": "\"u93SwZ9QmAeUAWPm26aC/u5nAGroYQ8Iat8+YU8fYQ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 17:34:48 GMT"
+          "Value": "Mon, 24 Feb 2025 17:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3144,7 +3099,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AyMuIiCqzXih/bgPdl/7G9upBL37zaSDAo7trTsCCJ0="
+          "Value": "sha256-u93SwZ9QmAeUAWPm26aC/u5nAGroYQ8Iat8+YU8fYQ0="
+        }
+      ]
+    },
+    {
+      "Route": "js/tipoMedicamento.l0fxsz11ee.js",
+      "AssetFile": "C:\\Users\\leona\\Desktop\\ProgramacionWeb_Narvaez\\Tercer Parcial\\C#\\Clase31Enero\\Clase31Enero\\wwwroot\\js\\tipoMedicamento.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u93SwZ9QmAeUAWPm26aC/u5nAGroYQ8Iat8+YU8fYQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:34:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l0fxsz11ee"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tipoMedicamento.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u93SwZ9QmAeUAWPm26aC/u5nAGroYQ8Iat8+YU8fYQ0="
         }
       ]
     },

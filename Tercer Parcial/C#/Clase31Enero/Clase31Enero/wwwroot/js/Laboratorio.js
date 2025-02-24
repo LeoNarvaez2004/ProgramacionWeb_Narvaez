@@ -8,7 +8,9 @@ async function listarLaboratorio() {
         url: "Laboratorio/ListarLaboratorios",
         cabeceras: ["ID Laboratorio", "Nombre", "Direccion", "Contacto"],
         propiedades: ["idLaboratorio", "nombre", "direccion", "contacto"],
-        divContenedor: "divContenedor"
+        divContenedor: "divContenedor",
+        editar: true,
+        eliminar: true
 
     });
 }

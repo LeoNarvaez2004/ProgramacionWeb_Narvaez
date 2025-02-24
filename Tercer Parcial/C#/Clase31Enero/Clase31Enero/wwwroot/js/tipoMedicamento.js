@@ -23,16 +23,17 @@ async function eliminarMed() {
 async function listarTipoMedicamento() {
     objTipoMedicamento = {
         url: "TipoMedicamento/listarMedicamento",
-        cabeceras: ["ID Tipo Medicamento", "Nombre", "Descripcion","Stock"],
-        propiedades: ["idTipoMedicamento", "nombre", "descripcion", "stock"],
+        cabeceras: ["ID Tipo Medicamento", "Nombre", "Descripcion"],
+        propiedades: ["idTipoMedicamento", "nombre", "descripcion"],
         editar: true,
-        eliminar: true
+        eliminar: true,
+        propiedadId: "idTipoMedicamento"
     };
     pintar(objTipoMedicamento);
 }
 
     
-
+/*
 async function filtrarMedicamento() {
     let id = document.getElementById("idMed").value;
     let nombre = document.getElementById("nombre").value;
@@ -44,7 +45,7 @@ async function filtrarMedicamento() {
         cabeceras: ["ID Tipo Medicamento", "Nombre", "ID Laboratorio", "ID Tipo Medicamento"],
         propiedades: ["idMedicamento", "nombre", "idLaboratorio", "idTipoMedicamento"]
     });
-}
+}*/
 
 
 async function filtraTipoMed() {
@@ -56,11 +57,12 @@ async function filtraTipoMed() {
     });
 }
 function guardarTipoMed() {
-    let forma = document.getElementById("frmBusqueda");
+    let forma = document.getElementById("frmIn");
     let frm = new FormData(forma);
 
     fetchPost("tipoMedicamento/GuardarTipoMedicamento", "json", frm, function (res) {
-        
+        LimpiarIn();
+        listarTipoMedicamento();
     })
 }
 async function Limpiar() {
@@ -73,5 +75,15 @@ async function Limpiar() {
         propiedades: ["idTipoMedicamento", "nombre", "descripcion"]
     });
 }
+function LimpiarIn() {
+    limpiarDatos("frmIn"); 
+    listarTipoMedicamento(); 
+}
 
-
+function Editar(id) {
+    fetchGet("TipoMedicamento/recuperarTipoMedicamento/?idTM=" + id, "json", function (data) {
+        setN("idTipoMedicamento", data.idTipoMedicamento)
+        setN("nombre", data.nombre)
+        setN("descripcion", data.descripcion)
+    })
+}

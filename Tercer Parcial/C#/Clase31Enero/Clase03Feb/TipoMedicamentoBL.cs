@@ -32,5 +32,10 @@ namespace Clase03Feb
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
             return obj.GuardarTipoMedicamento(objTM);
         }
+        public TipoMedicamentoCLS recuperarTipoMedicamento(int idTM)
+        {
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            return obj.recuperarTipoMedicamento(idTM);
+        }
     }
 }

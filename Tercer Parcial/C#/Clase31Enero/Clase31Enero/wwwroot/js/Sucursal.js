@@ -7,7 +7,9 @@ async function listarSucursal() {
         url: "sucursal/listarSucursal",
         cabeceras: ["Id Sucursal", "Nombre", "Direccion"],
         propiedades: ["idSucursal", "nombre", "direccion"],
-        divContenedor: "divContenedor"
+        divContenedor: "divContenedor",
+        editar: true,
+        eliminar: true
     });
 }
 
@@ -27,7 +29,9 @@ async function filtrarSucursal() {
     pintar({
         url: "Sucursal/FiltrarSucursal?id=" + id + "&idn=" + idn,
         cabeceras: ["ID Sucursal", "Nombre", "Descripcion"],
-        propiedades: ["idSucursal", "nombre", "direccion"]
+        propiedades: ["idSucursal", "nombre", "direccion"],
+        editar: true,
+        eliminar: true
     });
 }
 async function Limpiar() {
@@ -37,7 +41,9 @@ async function Limpiar() {
     pintar({
         url: "sucursal/FiltrarSucursal/?nombre=",
         cabeceras: ["Id Sucursal", "Nombre", "Direccion"],
-        propiedades: ["idSucursal", "nombre", "direccion"]
+        propiedades: ["idSucursal", "nombre", "direccion"],
+        editar: true,
+        eliminar: true
     });
 }
 function LimpiarSuc() {
