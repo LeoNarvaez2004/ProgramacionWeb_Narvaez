@@ -39,5 +39,10 @@ namespace Clase31Enero.Controllers
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
             return obj.recuperarTipoMedicamento(idTM);
         }
+        public void eliminarTipoMedicamento(int idTM)
+        {
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            obj.EliminarTipoMedicamento(idTM);
+        }
     }
 }

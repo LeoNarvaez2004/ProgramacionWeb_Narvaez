@@ -50,20 +50,35 @@ async function filtrarMedicamento() {
 
 async function filtraTipoMed() {
     let nombre = document.getElementById("nombreTipoMed").value;
-    pintar({
+    objTipoMedicamento= {
         url: "TipoMedicamento/FiltrarTipoMedicamento?nombre=" + encodeURIComponent(nombre),
         cabeceras: ["ID Tipo Medicamento", "Nombre", "Descripcion"],
-        propiedades: ["idTipoMedicamento", "nombre", "descripcion"]
-    });
+        propiedades: ["idTipoMedicamento", "nombre", "descripcion"],
+        editar: true,
+        eliminar: true,
+        propiedadId: "idTipoMedicamento"
+    };
+    pintar(objTipoMedicamento);
 }
 function guardarTipoMed() {
     let forma = document.getElementById("frmIn");
     let frm = new FormData(forma);
 
     fetchPost("tipoMedicamento/GuardarTipoMedicamento", "json", frm, function (res) {
-        LimpiarIn();
-        listarTipoMedicamento();
+        if (res === 1) {
+            listarTipoMedicamento();
+            const modal = document.getElementById('modalGuardarTipoMedicamento');
+            const modalInstance = bootstrap.Modal.getInstance(modal);
+            if (modalInstance) {
+                modalInstance.hide();
+            }
+            exito();
+        } else {
+            console.error("Error al guardar el tipo medicamento. Respuesta inesperada:", res);
+            error();
+        }
     })
+
 }
 async function Limpiar() {
 
@@ -85,5 +100,18 @@ function Editar(id) {
         setN("idTipoMedicamento", data.idTipoMedicamento)
         setN("nombre", data.nombre)
         setN("descripcion", data.descripcion)
+        let modal = new bootstrap.Modal(document.getElementById('modalGuardarTipoMedicamento'));
+        modal.show();
     })
+}
+function Eliminar(id) {
+
+    confirmacion("¿Está seguro?", "Esta acción no se puede deshacer.",
+        function () {
+            fetchGet("TipoMedicamento/eliminarTipoMedicamento/?idTM=" + id, "text", function (data) {
+                listarTipoMedicamento(); 
+                exito("Laboratorio eliminado correctamente.");
+            });
+        }
+    );
 }

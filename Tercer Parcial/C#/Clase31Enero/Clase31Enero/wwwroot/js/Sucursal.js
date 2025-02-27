@@ -9,7 +9,9 @@ async function listarSucursal() {
         propiedades: ["idSucursal", "nombre", "direccion"],
         divContenedor: "divContenedor",
         editar: true,
-        eliminar: true
+        eliminar: true,
+        propiedadId: "idSucursal"
+
     });
 }
 
@@ -55,10 +57,42 @@ function guardarSuc() {
     let frm = new FormData(forma);
 
     fetchPost("Sucursal/GuardarSucursal", "json", frm, function (res) {
-        LimpiarIn();
+        if (res === 1) {
+            listarSucursal();
+            const modal = document.getElementById('modalGuardarSucursal');
+            const modalInstance = bootstrap.Modal.getInstance(modal);
+            if (modalInstance) {
+                modalInstance.hide();
+            }
+            exito();
+        } else {
+            console.error("Error al guardar el sucursal. Respuesta inesperada:", res);
+            error();
+        }
     })
 }
 function LimpiarIn() {
     limpiarDatos("frmIn"); // Limpia los campos del formulario
     listarSucursal(); // Vuelve a listar los laboratorios
+}
+
+function Editar(id) {
+    fetchGet("Sucursal/recuperarSucursal/?idSuc=" + id, "json", function (data) {
+        setN("idSucursal", data.idSucursal)
+        setN("nombre", data.nombre)
+        setN("direccion", data.direccion)
+        let modal = new bootstrap.Modal(document.getElementById('modalGuardarSucursal'));
+        modal.show();
+    })
+}
+function Eliminar(id) {
+
+    confirmacion("¿Está seguro?", "Esta acción no se puede deshacer.",
+        function () {
+            fetchGet("Sucursal/eliminarSucursal/?idSuc=" + id, "text", function (data) {
+                listarSucursal();
+                exito("Sucursal eliminado correctamente.");
+            });
+        }
+    );
 }

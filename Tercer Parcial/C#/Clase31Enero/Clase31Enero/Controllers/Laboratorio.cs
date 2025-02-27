@@ -20,5 +20,20 @@ namespace Clase31Enero.Controllers
             LaboratorioDAL obj = new LaboratorioDAL();
             return obj.FiltrarLaboratorio(objLab);
         }
+        public int GuardarLaboratorio(LaboratorioCLS objLab)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            return obj.GuardarLaboratorio(objLab);
+        }
+        public LaboratorioCLS recuperarLaboratorio(int idLab)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            return obj.recuperarLaboratorio(idLab);
+        }
+        public void eliminarLab(int idLab)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            obj.EliminarLab(idLab);
+        }
     }
 }

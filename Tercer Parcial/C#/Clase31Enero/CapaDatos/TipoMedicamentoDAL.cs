@@ -29,6 +29,7 @@ namespace CapaDatos
                                 medCLS.idTipoMedicamento = dr.IsDBNull(0) ? 0 : dr.GetInt32(0);
                                 medCLS.nombre = dr.IsDBNull(1) ? "" : dr.GetString(1);
                                 medCLS.descripcion = dr.IsDBNull(2) ? "" : dr.GetString(2);
+
                                 lista.Add(medCLS);
                             }
 
@@ -44,33 +45,7 @@ namespace CapaDatos
             return lista;
         }
 
-        /*
-        public void EliminarMedicamento(int id)
-        {
-           
-
-            using (SqlConnection cn = new SqlConnection(cadenaDato))
-            {
-                try
-                {
-                    cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("uspEliminarMedicamento", cn))
-                    {
-                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                        cmd.Parameters.AddWithValue("@iidmedicamento", id);
-
-                        cmd.ExecuteNonQuery();
-                       
-                    }
-
-                }
-                catch (Exception ex)
-                {
-                    throw new Exception("Error al eliminar medicamento: " + ex.Message);
-                }
-            }
-        }
-        */
+        
 
         public List<TipoMedicamentoCLS> FiltrarTipoMedicamento(string nombre)
         {
@@ -181,6 +156,31 @@ namespace CapaDatos
                 }
             }
             return medCLS;
+        }
+        public void EliminarTipoMedicamento(int id)
+        {
+
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspEliminarTipoMedicamento", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@id", id);
+
+                        cmd.ExecuteNonQuery();
+
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Error al eliminar medicamento: " + ex.Message);
+                }
+            }
         }
 
     }

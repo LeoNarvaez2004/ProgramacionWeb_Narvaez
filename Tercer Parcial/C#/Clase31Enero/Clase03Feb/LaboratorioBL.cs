@@ -20,5 +20,15 @@ namespace Clase03Feb
             LaboratorioDAL obj = new LaboratorioDAL();
             return obj.FiltrarLaboratorio(objLab);
         }
+        public int GuardarLaboratorio(LaboratorioCLS objLab)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            return obj.GuardarLaboratorio(objLab);
+        }
+        public LaboratorioCLS recuperarLaboratorio(int idLab)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            return obj.recuperarLaboratorio(idLab);
+        }
     }
 }

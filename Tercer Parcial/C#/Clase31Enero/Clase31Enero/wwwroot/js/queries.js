@@ -62,7 +62,7 @@ async function fetchPost(url, tipoRespuesta, frm, callback) {
         callback(res);
 
     } catch (e) {
-        alert("Ocurrio un problema en POST");
+        alert("Ocurrio un problema en POST"+e);
     }
 }
 
@@ -144,4 +144,45 @@ function generarTabla(res) {
     contenido += "</tbody></table>";
     console.log("Tabla generada:", contenido); // <-- AGREGADO PARA DEBUG
     return contenido;
+}
+function exito() {
+    Swal.fire({
+        position: "top-end",
+        icon: "success",
+        title: "Your work has been saved",
+        showConfirmButton: false,
+        timer: 1500
+    });
+}
+
+function error() {
+    Swal.fire({
+  icon: "error",
+  title: "Oops...",
+  text: "Something went wrong!",
+  footer: '<a href="#">Why do I have this issue?</a>'
+});
+}
+function confirmacion(titulo = "Confirmacion", texto = "¿Desea guardar los cambios?", callback) {
+    Swal.fire({
+        title: titulo,
+        text: texto,
+        icon: "warning",
+        showCancelButton: true,
+        confirmButtonColor: "#3085d6",
+        cancelButtonColor: "#d33",
+        confirmButtonText: "Yes, delete it!"
+    }).then((result) => {
+        if (result.isConfirmed) {
+            callback();
+        }
+    });
+}
+
+function validacion() {
+    Swal.fire({
+        icon: "warning",
+        title: "Campos vacíos",
+        text: "Todos los campos son obligatorios. Por favor, complétalos.",
+    });
 }

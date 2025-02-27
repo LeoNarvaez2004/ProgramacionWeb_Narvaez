@@ -1,34 +1,63 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Index";
 }
 
-<h1>Laboratorios</h1>
+<h1 class="text-center">Laboratorios</h1>
 
+<!-- Botón para abrir el modal -->
+<div class="container text-center mt-4">
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalGuardarLaboratorio">
+        Agregar Laboratorio
+    </button>
+</div>
+
+<!-- Contenedor para mostrar la tabla -->
+<div id="divTabla" class="container mt-4">
+    <div id="divContenedor"></div>
+</div>
+
+<!-- Ventana Modal -->
+<div class="modal fade" id="modalGuardarLaboratorio" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title" id="exampleModalLabel">Buscar/Agregar Laboratorio</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Formulario dentro del modal -->
+                <form id="frmIn" method="POST">
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Id Lab</span>
+                        <input type="text" name="idLaboratorio" id="idLaboratorio" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
+                        <input type="text" name="nombre" id="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Dirección</span>
+                        <input type="text" name="direccion" id="direccion" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Contacto</span>
+                        <input type="text" name="contacto" id="contacto" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Número Contacto</span>
+                        <input type="text" name="numcontacto" id="numcontacto" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" onclick="guardarLab()" class="btn btn-primary">Guardar</button>
+                <button type="button" onclick="LimpiarLab()" class="btn btn-outline-secondary">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Scripts -->
 <script src="~/js/queries.js"></script>
 <script src="~/js/laboratorio.js"></script>
-
-<fieldset>
-    <legend>Buscar laboratorio</legend>
-    <form id="frmBusqueda" method="POST">
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
-            <input type="text" name="nombre" id="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-        </div>
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Direccion</span>
-            <input type="text" name="direccion" id="direccion" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-        </div>
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Contacto</span>
-            <input type="text" name="contacto" id="contacto" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-        </div>
-        <button type="button" onclick="buscarLab()" class="btn btn-outline-primary">Filtrar</button>
-        <div id="divTabla">
-            <div id="divContenedor"></div>
-        </div>
-        <div class="col-12">
-            <button onclick="LimpiarLab()" class="btn btn-primary" type="button">Limpiar</button>
-        </div>
-    </form>
-</fieldset>

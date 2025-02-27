@@ -95,9 +95,10 @@ namespace CapaDatos
                 try
                 {
                     cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("insert into Sucursal(NOMBRE,DIRECCION,BHABILITADO) values (@nombre,@direccion,1)", cn))
+                    using (SqlCommand cmd = new SqlCommand("uspGuardarSucursal", cn))
                     {
-                        cmd.CommandType = System.Data.CommandType.Text;
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@iidsucursal", obj.idSucursal == 0 ? 0 : obj.idSucursal);
                         cmd.Parameters.AddWithValue("@nombre", obj.nombre == null ? "" : obj.nombre);
                         cmd.Parameters.AddWithValue("@direccion", obj.direccion == null ? "" : obj.direccion);
 
@@ -112,6 +113,66 @@ namespace CapaDatos
                 }
             }
 
+        }
+        public SucursalCLS recuperarSucursal(int idSuc)
+        {
+            SucursalCLS medCLS = null;
+
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspRecuperarSucursal", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
+                        cmd.Parameters.AddWithValue("@iidsucursal", idSuc);
+                        SqlDataReader dr = cmd.ExecuteReader();
+                        if (dr != null)
+                        {
+                            while (dr.Read())
+                            {
+                                medCLS = new SucursalCLS();
+                                medCLS.idSucursal = dr.IsDBNull(0) ? 0 : dr.GetInt32(0);
+                                medCLS.nombre = dr.IsDBNull(1) ? "" : dr.GetString(1);
+                                medCLS.direccion = dr.IsDBNull(2) ? "" : dr.GetString(2);
+                            }
+
+                        }
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Error al recuperar tipo medicamento: " + ex.Message);
+                }
+            }
+            return medCLS;
+        }
+        public void EliminarSucursal(int id)
+        {
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspEliminarSucursal", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@id", id);
+
+                        cmd.ExecuteNonQuery();
+
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Error al eliminar medicamento: " + ex.Message);
+                }
+            }
         }
 
     }

@@ -10,18 +10,15 @@ namespace Clase31Enero.Controllers
         {
             return View();
         }
-        public string saludos()
+        public List<MedicamentoCLS> ListarMedicamentos()
         {
-            return "Hola OwO! ";
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.listarMedicamento();
         }
-        public int numeroEntero()
+        public List<MedicamentoCLS> filtrarMedicamento(int idMed, string nombre, int idLab, int idTip)
         {
-            return 10;
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.FiltrarMedicamento(idMed, nombre, idLab, idTip);
         }
-        public double numeroDecimal()
-        {
-            return 5.6;
-        }
-        
     }
 }
