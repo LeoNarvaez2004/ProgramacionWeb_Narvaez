@@ -37,19 +37,10 @@ function buscarLab() {
     })
 }
 
-async function Limpiar() {
-
-    document.getElementById("nombre").value = "";
-    document.getElementById("direccion").value = "";
-    document.getElementById("persona").value = "";
-
-    pintar({
-        url: "Laboratorio/FiltrarLaboratorio?nombre=" + "&direccion=" + "&persona=",
-        cabeceras: ["ID Laboratorio", "Nombre", "Direccion", "Contacto", "Numero contacto"],
-        propiedades: ["idLaboratorio", "nombre", "direccion", "contacto", "numcontacto"],
-    });
+function Limpiar() {
+    limpiarDatos("frmBusqueda"); // Limpia los campos del formulario
+    listarLaboratorio(); // Vuelve a listar los laboratorios
 }
-
 function LimpiarLab() {
     limpiarDatos("frmIn"); // Limpia los campos del formulario
     listarLaboratorio(); // Vuelve a listar los laboratorios
@@ -61,9 +52,8 @@ function guardarLab() {
     let contacto = getN("contacto");
     let numcontacto = getN("numcontacto");
 
-    // Verificar si algún campo está vacío
     if (!nombre.trim() || !direccion.trim() || !contacto.trim() || !numcontacto.trim()) {
-        validacion(); // Muestra la alerta de campos vacíos
+        validacion(); 
         return;
     }
     let forma = document.getElementById("frmIn");
@@ -74,6 +64,7 @@ function guardarLab() {
 
         if (res === 1) {  
             listarLaboratorio();
+            LimpiarLab();
             const modal = document.getElementById('modalGuardarLaboratorio');
             const modalInstance = bootstrap.Modal.getInstance(modal);
             if (modalInstance) {
@@ -95,7 +86,6 @@ function Editar(id) {
             setN("numcontacto", data.numcontacto)
             let modal = new bootstrap.Modal(document.getElementById('modalGuardarLaboratorio'));
             modal.show();
-        
     })
 }
 function Eliminar(id) {

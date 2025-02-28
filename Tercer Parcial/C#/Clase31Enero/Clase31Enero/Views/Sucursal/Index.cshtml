@@ -1,34 +1,13 @@
-﻿@{
-    ViewData["Title"] = "Index";
-}
-
-<h1 class="text-center">Sucursales</h1>
-
-<!-- Formulario de búsqueda -->
-<form id="frmBusqueda" method="POST">
-    <div class="container mt-4">
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
-            <input type="text" id="idSucur" name="nombreSucur" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-        </div>
-        <div class="input-group input-group-sm mb-3">
-            <span class="input-group-text" id="inputGroup-sizing-sm">Dirección</span>
-            <input type="text" id="idSucurD" name="direccionSucur" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-        </div>
-        <div class="d-flex justify-content-start align-items-center">
-            <button type="button" onclick="buscarSuc()" class="btn btn-outline-primary me-2">Filtrar</button>
-            <button onclick="LimpiarSuc()" class="btn btn-primary" type="button">Limpiar</button>
-        </div>
-    </div>
-</form>
-
-<!-- Botón para abrir el modal -->
-<div class="container text-center mt-4">
-    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalGuardarSucursal">
-        Agregar Sucursal
-    </button>
+﻿<!-- Botón para abrir el modal -->
+<div class="container text-end mt-4">
+    <i onclick="abrirModalAgregar()" class="btn btn-primary p-2" data-bs-toggle="modal" data-bs-target="#modalGuardarSucursal">
+        Agregar
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-plus" viewBox="0 0 16 16">
+            <path d="M8 6.5a.5.5 0 0 1 .5.5v1.5H10a.5.5 0 0 1 0 1H8.5V11a.5.5 0 0 1-1 0V9.5H6a.5.5 0 0 1 0-1h1.5V6.5A.5.5 0 0 1 8 6.5" />
+            <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h5.5zm-3 0A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V4.5z" />
+        </svg>
+    </i>
 </div>
-<div id="divTabla" class="container mt-4"></div>
 
 <!-- Ventana Modal -->
 <div class="modal fade" id="modalGuardarSucursal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -36,27 +15,27 @@
         <div class="modal-content">
             <div class="modal-header bg-primary text-white">
                 <h5 class="modal-title" id="exampleModalLabel">Guardar Sucursal</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" onclick="LimpiarIn()" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <!-- Formulario dentro del modal -->
                 <form id="frmIn" method="POST">
-                    <div class="input-group input-group-sm mb-3">
+                    <div class="input-group input-group-sm mb-4">
                         <span class="input-group-text" id="inputGroup-sizing-sm">Id Sucursal</span>
                         <input type="text" id="idSucursal" name="idSucursal" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
                     </div>
-                    <div class="input-group input-group-sm mb-3">
+                    <div class="input-group input-group-sm mb-4">
                         <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
                         <input type="text" id="nombre" name="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
                     </div>
-                    <div class="input-group input-group-sm mb-3">
+                    <div class="input-group input-group-sm mb-4">
                         <span class="input-group-text" id="inputGroup-sizing-sm">Dirección</span>
                         <input type="text" id="direccion" name="direccion" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
                     </div>
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarIn()" data-bs-dismiss="modal">Cerrar</button>
                 <button type="button" onclick="guardarSuc()" class="btn btn-primary">Guardar</button>
                 <button type="button" onclick="LimpiarIn()" class="btn btn-outline-secondary">Limpiar</button>
             </div>
@@ -64,6 +43,33 @@
     </div>
 </div>
 
+<!-- Contenedor principal con columnas -->
+<!-- Contenedor principal con columnas -->
+<div class="container mt-4">
+    <div class="row">
+        <!-- Columna izquierda: Formulario de búsqueda -->
+        <div class="col-md-4" style="margin-left: -200px;">
+            <!-- Ajusta el valor según lo que necesites -->
+            <fieldset class="p-4 border rounded shadow-sm">
+                <legend class="text-center fw-bold text-primary">Filtrar Sucursal</legend>
+                <form id="frmBusqueda" method="POST">
+                    <div class="input-group input-group-sm mb-4">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Nombre</span>
+                        <input type="text" id="idSucur" name="nombre" onkeyup="buscarSuc()" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                    </div>
+                    <div class="input-group input-group-sm mb-4">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Dirección</span>
+                        <input type="text" id="idSucurD" name="direccion" onkeyup="buscarSuc()" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                    </div>
+                </form>
+            </fieldset>
+        </div>
+        <!-- Columna derecha: Tabla -->
+        <div class="col-md-8">
+            <div id="divTabla"></div>
+        </div>
+    </div>
+</div>
 <!-- Scripts -->
 <script src="~/js/sucursal.js"></script>
 <script src="~/js/queries.js"></script>

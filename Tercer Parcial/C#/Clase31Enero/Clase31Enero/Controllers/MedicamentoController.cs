@@ -10,15 +10,36 @@ namespace Clase31Enero.Controllers
         {
             return View();
         }
+
         public List<MedicamentoCLS> ListarMedicamentos()
         {
             MedicamentoDAL obj = new MedicamentoDAL();
             return obj.listarMedicamento();
         }
-        public List<MedicamentoCLS> filtrarMedicamento(int idMed, string nombre, int idLab, int idTip)
+        public List<MedicamentoCLS> filtrarMedicamento(MedicamentoCLS filtro)
         {
             MedicamentoDAL obj = new MedicamentoDAL();
-            return obj.FiltrarMedicamento(idMed, nombre, idLab, idTip);
+            return obj.FiltrarMedicamento(filtro);
+        }
+        public MedicamentoCLS recuperarMedicamento(int idMed)
+        {
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.recuperarMedicamento(idMed);
+        }
+        public int GuardarMedicamento(MedicamentoCLS objM)
+        {
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.GuardarMedicamento(objM);
+        }
+        public List<MedicamentoCLS> ListarGuardar()
+        {
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.listaActualizada();
+        }
+        public void eliminarMedicamento(int idMed)
+        {
+            MedicamentoDAL obj = new MedicamentoDAL();
+            obj.EliminarMedicamento(idMed);
         }
     }
 }

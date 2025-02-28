@@ -17,13 +17,6 @@ namespace Clase31Enero.Controllers
             return obj.listarTipoMedicamento();
         }
         
-        /*
-        public void eliminarMed(int id)
-        {
-            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
-            obj.EliminarMedicamento(id);
-        }*/
-        
         public List<TipoMedicamentoCLS> FiltrarTipoMedicamento(string nombre)
         {
             TipoMedicamentoDAL obj = new TipoMedicamentoDAL();

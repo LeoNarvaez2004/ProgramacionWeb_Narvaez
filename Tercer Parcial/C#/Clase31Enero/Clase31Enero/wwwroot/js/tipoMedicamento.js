@@ -61,12 +61,19 @@ async function filtraTipoMed() {
     pintar(objTipoMedicamento);
 }
 function guardarTipoMed() {
+    let nombre = getN("nombre");
+    let descripcion = getN("descripcion");
+    if (!nombre.trim() || !descripcion.trim()) {
+        validacion();
+        return;
+    }
     let forma = document.getElementById("frmIn");
     let frm = new FormData(forma);
 
     fetchPost("tipoMedicamento/GuardarTipoMedicamento", "json", frm, function (res) {
         if (res === 1) {
             listarTipoMedicamento();
+            LimpiarIn();
             const modal = document.getElementById('modalGuardarTipoMedicamento');
             const modalInstance = bootstrap.Modal.getInstance(modal);
             if (modalInstance) {

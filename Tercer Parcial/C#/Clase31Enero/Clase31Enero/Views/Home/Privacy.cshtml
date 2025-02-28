@@ -3,30 +3,96 @@
 }
 <h1>@ViewData["Title"]</h1>
 
-<fieldset class="container mt-5 p-4 border rounded shadow-sm">
-    <legend class="text-center fw-bold text-primary">Filtrar Medicamento</legend>
-<div class="container mt-4">
-    <div class="input-group input-group-sm mb-3">
-        <span class="input-group-text bg-primary text-white">ID Medicamento</span>
-        <input type="text" id="idMed" onkeyup="filtrarMedicamento()" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-    </div>
-    <div class="input-group input-group-sm mb-3">
-        <span class="input-group-text bg-primary text-white">Medicamento nombre</span>
-        <input type="text" id="nombre" onkeyup="filtrarMedicamento()" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-    </div>
-    <div class="input-group input-group-sm mb-3">
-        <span class="input-group-text bg-primary text-white">ID Laboratorio</span>
-        <input type="text" id="idLab" onkeyup="filtrarMedicamento()" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
-    </div>
-    <div class="input-group input-group-sm mb-3">
-        <span class="input-group-text bg-primary text-white">ID Tipo Medicamento</span>
-        <input type="text" id="idTM" onkeyup="filtrarMedicamento()" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+
+
+
+<!-- Botón para abrir el modal -->
+<div class="container text-end mt-4">
+    <i onclick="abrirModalAgregar()" class="btn btn-primary p-2" data-bs-toggle="modal" data-bs-target="#modalGuardarMedicamento">Agregar
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-plus" viewBox="0 0 16 16">
+            <path d="M8 6.5a.5.5 0 0 1 .5.5v1.5H10a.5.5 0 0 1 0 1H8.5V11a.5.5 0 0 1-1 0V9.5H6a.5.5 0 0 1 0-1h1.5V6.5A.5.5 0 0 1 8 6.5" />
+            <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h5.5zm-3 0A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V4.5z" />
+        </svg>
+    </i>
+</div>
+
+<div id="divTabla" class="container mt-4"></div>
+
+<!-- Ventana Modal -->
+<div class="modal fade" id="modalGuardarMedicamento" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title" id="exampleModalLabel">Guardar Medicamento</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" onclick="LimpiarIn()" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Formulario dentro del modal -->
+                <form id="frmIn" method="POST">
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Id Medicamento</span>
+                        <input type="text" id="idMedicamento" name="idMedicamento" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Codigo</span>
+                        <input type="text" id="codigo" name="codigo" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Nombre Medicamento</span>
+                        <input type="text" id="nombre" name="nombre" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">ID Laboratorio</span>
+                        <input type="text" id="idLab" name="idLab" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">ID Tipo Medicamento</span>
+                        <input type="text" id="idTipoMed" name="idTipoMed" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Uso</span>
+                        <input type="text" id="uso" name="uso" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                    </div>
+                    <div class="input-group input-group-sm mb-3">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Contenido</span>
+                        <input type="text" id="contenido" name="contenido" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onclick="LimpiarIn()" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" onclick="guardarMed()" class="btn btn-primary">Guardar</button>
+                <button type="button" onclick="LimpiarIn()" class="btn btn-outline-secondary">Limpiar</button>
+            </div>
+        </div>
     </div>
 </div>
-</fieldset>
+
 <div id="divTabla" class="container mt-4">
     <!-- Aquí se cargará dinámicamente la tabla -->
 </div>
-
+<fieldset class="container mt-5 p-4 border rounded shadow-sm">
+    <legend class="text-center fw-bold text-primary">Filtrar Medicamento</legend>
+    <form id="frmBusqueda" method="POST">
+        <div class="container mt-4">
+            <div class="input-group input-group-sm mb-3">
+                <span class="input-group-text bg-primary text-white">ID Medicamento</span>
+                <input type="text" id="idMedicamento" onkeyup="buscarMed()" name="idMedicamento" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+            </div>
+            <div class="input-group input-group-sm mb-3">
+                <span class="input-group-text bg-primary text-white">Medicamento nombre</span>
+                <input type="text" id="nombre" onkeyup="buscarMed()" name="nombre" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+            </div>
+            <div class="input-group input-group-sm mb-3">
+                <span class="input-group-text bg-primary text-white">ID Laboratorio</span>
+                <input type="text" id="idLab" onkeyup="buscarMed()" name="idLab" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+            </div>
+            <div class="input-group input-group-sm mb-3">
+                <span class="input-group-text bg-primary text-white">ID Tipo Medicamento</span>
+                <input type="text" id="idTipoMed" onkeyup="buscarMed()" name="idTipoMed" class="form-control" placeholder="Buscar..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+            </div>
+        </div>
+    </form>
+</fieldset>
 <script src="~/js/queries.js"></script>
 <script src="~/js/medicamento.js"></script>

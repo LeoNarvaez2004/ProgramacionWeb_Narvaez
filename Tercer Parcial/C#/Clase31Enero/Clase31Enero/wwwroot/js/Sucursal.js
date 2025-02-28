@@ -53,12 +53,19 @@ function LimpiarSuc() {
     listarSucursal(); // Vuelve a listar los laboratorios
 }
 function guardarSuc() {
+    let nombre = getN("nombre");
+    let direccion = getN("direccion");
+    if (!nombre.trim() || !direccion.trim()) {
+        validacion();
+        return;
+    }
     let forma = document.getElementById("frmIn");
     let frm = new FormData(forma);
 
     fetchPost("Sucursal/GuardarSucursal", "json", frm, function (res) {
         if (res === 1) {
             listarSucursal();
+            LimpiarIn();
             const modal = document.getElementById('modalGuardarSucursal');
             const modalInstance = bootstrap.Modal.getInstance(modal);
             if (modalInstance) {
